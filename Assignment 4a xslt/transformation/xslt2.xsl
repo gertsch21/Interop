@@ -45,7 +45,7 @@
 				<extruder_type>
 					<!--<xsl:value-of select="@Type"/>--> <!--darf nur bestimmte werte annehmen, die mein kollege nicht gesetzt hat(Direct, Hotend, Bowden, oder leer)-->
 				</extruder_type>
-				<xsl:element name="price"
+				<xsl:element name="price">
 					<xsl:text>100</xsl:text>
 				</xsl:element>
 				<printed_plans>
