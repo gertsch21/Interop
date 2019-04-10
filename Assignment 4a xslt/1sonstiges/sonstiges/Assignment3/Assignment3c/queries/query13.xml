@@ -1,0 +1,1 @@
+count(//worker[./warehouse_zugeordnet/printers/printer/@printer_id=200])

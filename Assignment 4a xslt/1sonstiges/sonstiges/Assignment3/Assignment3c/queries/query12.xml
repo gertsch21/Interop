@@ -1,0 +1,1 @@
+count(//worker[./warehouse_zugeordnet/printers/printer/extruder_type/text() = 'Direct'])

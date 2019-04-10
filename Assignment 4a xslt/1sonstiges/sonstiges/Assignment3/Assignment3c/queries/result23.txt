@@ -1,0 +1,4 @@
+number of all warehouses that contain the word 'lazy' in their name
+
+Result:
+Int64='6'

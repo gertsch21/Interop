@@ -1,0 +1,5 @@
+get firstname and lastname of a worker with svnr=1001201187
+
+Result
+Element='<first_name>Christopher</first_name>'
+Element='<last_name>Washington</last_name>'

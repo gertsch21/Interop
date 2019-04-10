@@ -1,0 +1,467 @@
+get all artists that either the first or the last name start with a 'M'
+
+Result:
+Element='<artist artist_id="7">
+		<first_name>Olivia</first_name>
+		<last_name>Miles</last_name>
+		<plans>
+			   <plan plan_id="415" priority="very low" status="working">
+				     <endproduct_name>The cyan dry Hoover</endproduct_name>
+				     <basic_instruction>Make a Hoover</basic_instruction>
+				     <involved_worker entrydate="2016-01-18"
+                          svnr="4092211189"
+                          unique_feature="trustworthy">
+					       <first_name>Sharon</first_name>
+					       <last_name>Huff</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="14">
+		<first_name>Judy</first_name>
+		<last_name>Melendez</last_name>
+		<plans>
+			   <plan plan_id="363" priority="very high" status="almost finished">
+				     <endproduct_name>The aquamarine straight Helmet</endproduct_name>
+				     <basic_instruction>Make a Helmet</basic_instruction>
+				     <involved_worker entrydate="2014-07-14" svnr="5334211096" unique_feature="selfish">
+					       <first_name>Heather</first_name>
+					       <last_name>Foley</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="16">
+		<first_name>Sandra</first_name>
+		<last_name>Morton</last_name>
+		<plans>
+			   <plan plan_id="534" priority="medium" status="finished">
+				     <endproduct_name>The violet overall Dog</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with Dog</basic_instruction>
+				     <involved_worker entrydate="2016-07-18"
+                          svnr="1790181189"
+                          unique_feature="bad-tempered">
+					       <first_name>Christine</first_name>
+					       <last_name>Ashley</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="786" priority="very high" status="ready to prepare">
+				     <endproduct_name>The magenta double Spoon</endproduct_name>
+				     <basic_instruction>Please design me a Spoon</basic_instruction>
+				     <involved_worker entrydate="2016-12-20" svnr="9108151298" unique_feature="charming">
+					       <first_name>Lori</first_name>
+					       <last_name>Smith</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="896" priority="high" status="cancelled">
+				     <endproduct_name>The turquoise hard Latex Book</endproduct_name>
+				     <basic_instruction>Please design me a Latex Book</basic_instruction>
+				     <involved_worker entrydate="2018-02-09" svnr="3797231077" unique_feature="naive">
+					       <first_name>Olivia</first_name>
+					       <last_name>Short</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="17">
+		<first_name>Jerry</first_name>
+		<last_name>Myers</last_name>
+		<plans>
+			   <plan plan_id="218" priority="very low" status="prepared">
+				     <endproduct_name>The magenta leading CD Elton John</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with CD Elton John</basic_instruction>
+				     <involved_worker entrydate="2014-03-17" svnr="7980211091" unique_feature="cruel">
+					       <first_name>Nathan</first_name>
+					       <last_name>Marshall</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="315" priority="low" status="finished">
+				     <endproduct_name>The lime traditional Keyboard</endproduct_name>
+				     <basic_instruction>Make a Keyboard</basic_instruction>
+				     <involved_worker entrydate="2013-11-02"
+                          svnr="1359191195"
+                          unique_feature="trustworthy">
+					       <first_name>Michael</first_name>
+					       <last_name>Curtis</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="439" priority="medium" status="prepared">
+				     <endproduct_name>The yellow car Computer</endproduct_name>
+				     <basic_instruction>Create a Computer</basic_instruction>
+				     <involved_worker entrydate="2016-06-21" svnr="4566121276" unique_feature="selfish">
+					       <first_name>Walter</first_name>
+					       <last_name>Johnston</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="446" priority="medium" status="prepared">
+				     <endproduct_name>The pink expensive Cable</endproduct_name>
+				     <basic_instruction>Make a Cable</basic_instruction>
+				     <involved_worker entrydate="2015-06-19" svnr="1687271192" unique_feature="moody">
+					       <first_name>Austin</first_name>
+					       <last_name>Frank</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="737" priority="low" status="almost finished">
+				     <endproduct_name>The gray numerous Cable</endproduct_name>
+				     <basic_instruction>Create a Cable</basic_instruction>
+				     <involved_worker entrydate="2015-06-17"
+                          svnr="6030221279"
+                          unique_feature="conventional">
+					       <first_name>Anthony</first_name>
+					       <last_name>Chase</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="28">
+		<first_name>Madison</first_name>
+		<last_name>Osborne</last_name>
+		<plans>
+			   <plan plan_id="183" priority="very high" status="working">
+				     <endproduct_name>The pink male USB Stick</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with USB Stick</basic_instruction>
+				     <involved_worker entrydate="2015-07-13"
+                          svnr="1407261170"
+                          unique_feature="sympathetic (understanding)">
+					       <first_name>Anthony</first_name>
+					       <last_name>Hart</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="931" priority="medium" status="finished">
+				     <endproduct_name>The navy single Wallet</endproduct_name>
+				     <basic_instruction>Please design me a Wallet</basic_instruction>
+				     <involved_worker entrydate="2014-07-23" svnr="7731251172" unique_feature="modest">
+					       <first_name>Patrick</first_name>
+					       <last_name>Hunter</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="40">
+		<first_name>Samuel</first_name>
+		<last_name>Morales</last_name>
+		<plans>
+			   <plan plan_id="591" priority="very low" status="almost finished">
+				     <endproduct_name>The blue bright Monitor</endproduct_name>
+				     <basic_instruction>Create a Monitor</basic_instruction>
+				     <involved_worker entrydate="2015-09-04" svnr="8523111096" unique_feature="strict">
+					       <first_name>Christina</first_name>
+					       <last_name>Beach</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="55">
+		<first_name>Madison</first_name>
+		<last_name>Henson</last_name>
+		<plans>
+			   <plan plan_id="116" priority="very high" status="finished">
+				     <endproduct_name>The magenta nice Keyboard</endproduct_name>
+				     <basic_instruction>Please design me a Keyboard</basic_instruction>
+				     <involved_worker entrydate="2017-06-04" svnr="7437141191" unique_feature="cheerful">
+					       <first_name>Samantha</first_name>
+					       <last_name>Bryan</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="611" priority="medium" status="cancelled">
+				     <endproduct_name>The magenta special Hoover</endproduct_name>
+				     <basic_instruction>Please design me a Hoover</basic_instruction>
+				     <involved_worker entrydate="2015-07-13" svnr="4416271286" unique_feature="stubborn">
+					       <first_name>Cheryl</first_name>
+					       <last_name>Shepard</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="970" priority="very high" status="cancelled">
+				     <endproduct_name>The yellow southern Helmet</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with Helmet</basic_instruction>
+				     <involved_worker entrydate="2018-07-26" svnr="5170191198" unique_feature="mean">
+					       <first_name>Mark</first_name>
+					       <last_name>Coffey</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="61">
+		<first_name>Terry</first_name>
+		<last_name>Meyer</last_name>
+		<plans>
+			   <plan plan_id="333" priority="medium" status="almost finished">
+				     <endproduct_name>The aquamarine sorry USB Stick</endproduct_name>
+				     <basic_instruction>Please design me a USB Stick</basic_instruction>
+				     <involved_worker entrydate="2015-01-11"
+                          svnr="1119121186"
+                          unique_feature="narrow-minded">
+					       <first_name>Elizabeth</first_name>
+					       <last_name>Ortiz</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="938" priority="high" status="almost finished">
+				     <endproduct_name>The green female Computer</endproduct_name>
+				     <basic_instruction>Please design me a Computer</basic_instruction>
+				     <involved_worker entrydate="2018-08-04" svnr="5005161073" unique_feature="careless">
+					       <first_name>Rachel</first_name>
+					       <last_name>Valencia</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="62">
+		<first_name>Mary</first_name>
+		<last_name>Sampson</last_name>
+		<plans>
+			   <plan plan_id="127" priority="very high" status="working">
+				     <endproduct_name>The navy global Bag</endproduct_name>
+				     <basic_instruction>Create a Bag</basic_instruction>
+				     <involved_worker entrydate="2014-08-11" svnr="3614121194" unique_feature="selfish">
+					       <first_name>Jack</first_name>
+					       <last_name>Webster</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="666" priority="high" status="cancelled">
+				     <endproduct_name>The black choice CD Elton John</endproduct_name>
+				     <basic_instruction>Make a CD Elton John</basic_instruction>
+				     <involved_worker entrydate="2015-11-06" svnr="6652261085" unique_feature="cheerful">
+					       <first_name>Emily</first_name>
+					       <last_name>Hart</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="907" priority="low" status="ready to prepare">
+				     <endproduct_name>The yellow character Filament</endproduct_name>
+				     <basic_instruction>Make a Filament</basic_instruction>
+				     <involved_worker entrydate="2016-07-24" svnr="4686151077" unique_feature="sensible">
+					       <first_name>Shirley</first_name>
+					       <last_name>Strickland</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="73">
+		<first_name>Amber</first_name>
+		<last_name>Mathews</last_name>
+		<plans>
+			   <plan plan_id="169" priority="high" status="prepared">
+				     <endproduct_name>The yellow interesting Guitar</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with Guitar</basic_instruction>
+				     <involved_worker entrydate="2018-08-26" svnr="5137241195" unique_feature="dull">
+					       <first_name>Evelyn</first_name>
+					       <last_name>Galloway</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="182" priority="very high" status="ready to prepare">
+				     <endproduct_name>The tan brilliant Wallet</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with Wallet</basic_instruction>
+				     <involved_worker entrydate="2015-05-06"
+                          svnr="9649211275"
+                          unique_feature="hard-working">
+					       <first_name>Harry</first_name>
+					       <last_name>Bender</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="425" priority="medium" status="prepared">
+				     <endproduct_name>The brown large Keyboard</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with Keyboard</basic_instruction>
+				     <involved_worker entrydate="2017-09-11" svnr="7981191185" unique_feature="friendly">
+					       <first_name>Diana</first_name>
+					       <last_name>Gonzalez</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="458" priority="very low" status="prepared">
+				     <endproduct_name>The green unlikely Monitor</endproduct_name>
+				     <basic_instruction>Make a Monitor</basic_instruction>
+				     <involved_worker entrydate="2014-01-14" svnr="3165181093" unique_feature="cheerful">
+					       <first_name>Tiffany</first_name>
+					       <last_name>Beach</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="463" priority="high" status="working">
+				     <endproduct_name>The magenta relative Printer</endproduct_name>
+				     <basic_instruction>Make a Printer</basic_instruction>
+				     <involved_worker entrydate="2016-09-02" svnr="5873221276" unique_feature="cautious">
+					       <first_name>Douglas</first_name>
+					       <last_name>Mcmillan</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="770" priority="low" status="cancelled">
+				     <endproduct_name>The tan better Latex Book</endproduct_name>
+				     <basic_instruction>Create a Latex Book</basic_instruction>
+				     <involved_worker entrydate="2017-02-08"
+                          svnr="6282171297"
+                          unique_feature="big-headed">
+					       <first_name>Barbara</first_name>
+					       <last_name>Frederick</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="74">
+		<first_name>Michael</first_name>
+		<last_name>Harmon</last_name>
+		<plans>
+			   <plan plan_id="53" priority="medium" status="almost finished">
+				     <endproduct_name>The red patient Toaster</endproduct_name>
+				     <basic_instruction>Please design me a Toaster</basic_instruction>
+				     <involved_worker entrydate="2018-07-17" svnr="3803111191" unique_feature="lazy">
+					       <first_name>Brittany</first_name>
+					       <last_name>Carter</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="159" priority="low" status="prepared">
+				     <endproduct_name>The aquamarine young Toast</endproduct_name>
+				     <basic_instruction>Make a Toast</basic_instruction>
+				     <involved_worker entrydate="2017-11-12"
+                          svnr="1979261196"
+                          unique_feature="self-confident">
+					       <first_name>John</first_name>
+					       <last_name>Cooke</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="302" priority="high" status="cancelled">
+				     <endproduct_name>The gray native Computer</endproduct_name>
+				     <basic_instruction>Make a Computer</basic_instruction>
+				     <involved_worker entrydate="2017-04-11" svnr="2115211070" unique_feature="friendly">
+					       <first_name>Johnny</first_name>
+					       <last_name>Mcneil</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="328" priority="high" status="working">
+				     <endproduct_name>The olive classic Webcam</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with Webcam</basic_instruction>
+				     <involved_worker entrydate="2014-03-27" svnr="9218271182" unique_feature="cowardly">
+					       <first_name>Johnny</first_name>
+					       <last_name>Townsend</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="507" priority="medium" status="almost finished">
+				     <endproduct_name>The lime street Computer</endproduct_name>
+				     <basic_instruction>Make a Computer</basic_instruction>
+				     <involved_worker entrydate="2015-04-13"
+                          svnr="8971141287"
+                          unique_feature="cantankerous">
+					       <first_name>Janice</first_name>
+					       <last_name>Middleton</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="789" priority="very high" status="almost finished">
+				     <endproduct_name>The olive eastern Keyboard</endproduct_name>
+				     <basic_instruction>Please design me a Keyboard</basic_instruction>
+				     <involved_worker entrydate="2013-06-16" svnr="9413161082" unique_feature="bitchy">
+					       <first_name>Nathan</first_name>
+					       <last_name>Finley</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="81">
+		<first_name>Christian</first_name>
+		<last_name>Mays</last_name>
+		<plans>
+			   <plan plan_id="921" priority="high" status="finished">
+				     <endproduct_name>The olive typical CD Elton John</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with CD Elton John</basic_instruction>
+				     <involved_worker entrydate="2018-12-14" svnr="2103151073" unique_feature="two-faced">
+					       <first_name>Brenda</first_name>
+					       <last_name>Branch</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="84">
+		<first_name>Michael</first_name>
+		<last_name>Noel</last_name>
+		<plans>
+			   <plan plan_id="260" priority="medium" status="almost finished">
+				     <endproduct_name>The magenta busy USB Stick</endproduct_name>
+				     <basic_instruction>Create a USB Stick</basic_instruction>
+				     <involved_worker entrydate="2015-11-06" svnr="3774171085" unique_feature="generous">
+					       <first_name>Michelle</first_name>
+					       <last_name>Mcdaniel</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="367" priority="low" status="cancelled">
+				     <endproduct_name>The yellow suitable USB Stick</endproduct_name>
+				     <basic_instruction>Please design me a USB Stick</basic_instruction>
+				     <involved_worker entrydate="2018-04-10" svnr="9744221284" unique_feature="modest">
+					       <first_name>Michelle</first_name>
+					       <last_name>Castro</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="465" priority="very low" status="ready to prepare">
+				     <endproduct_name>The red proper USB Stick</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with USB Stick</basic_instruction>
+				     <involved_worker entrydate="2013-05-02" svnr="3616251276" unique_feature="cautious">
+					       <first_name>Kelly</first_name>
+					       <last_name>Noble</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="86">
+		<first_name>Jonathan</first_name>
+		<last_name>Morin</last_name>
+		<plans>
+			   <plan plan_id="166" priority="very low" status="cancelled">
+				     <endproduct_name>The teal rough Latex Book</endproduct_name>
+				     <basic_instruction>Please design me a Latex Book</basic_instruction>
+				     <involved_worker entrydate="2014-01-19"
+                          svnr="5766261087"
+                          unique_feature="bad-tempered">
+					       <first_name>Kimberly</first_name>
+					       <last_name>Moreno</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="427" priority="medium" status="finished">
+				     <endproduct_name>The turquoise sensitive Helmet</endproduct_name>
+				     <basic_instruction>Make a Helmet</basic_instruction>
+				     <involved_worker entrydate="2013-11-05" svnr="7287141298" unique_feature="reliable">
+					       <first_name>Roger</first_name>
+					       <last_name>Cannon</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="803" priority="low" status="ready to prepare">
+				     <endproduct_name>The turquoise sad Dog</endproduct_name>
+				     <basic_instruction>I would like you to do for me a STL file with Dog</basic_instruction>
+				     <involved_worker entrydate="2015-09-03" svnr="1643121179" unique_feature="charming">
+					       <first_name>Harry</first_name>
+					       <last_name>Lara</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'
+
+Element='<artist artist_id="92">
+		<first_name>Andrew</first_name>
+		<last_name>Merrill</last_name>
+		<plans>
+			   <plan plan_id="571" priority="low" status="working">
+				     <endproduct_name>The red best Clock</endproduct_name>
+				     <basic_instruction>Please design me a Clock</basic_instruction>
+				     <involved_worker entrydate="2018-06-03"
+                          svnr="5588111095"
+                          unique_feature="cantankerous">
+					       <first_name>Beverly</first_name>
+					       <last_name>Hendrix</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="781" priority="high" status="prepared">
+				     <endproduct_name>The green massive Computer</endproduct_name>
+				     <basic_instruction>Make a Computer</basic_instruction>
+				     <involved_worker entrydate="2016-07-16" svnr="3233231189" unique_feature="friendly">
+					       <first_name>Elizabeth</first_name>
+					       <last_name>Foley</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'

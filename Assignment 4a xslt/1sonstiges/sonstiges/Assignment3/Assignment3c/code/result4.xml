@@ -1,0 +1,2148 @@
+<root>
+	<worker svnr="1001201187" entrydate="2017-04-02" unique_feature="moody">
+		<first_name>Christopher</first_name>
+		<last_name>Washington</last_name>
+		<nickname> Piano Red</nickname>
+		<plans>
+			<plan plan_id="196" status="ready to prepare" priority="very high">
+				<endproduct_name>The red wine Monitor</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="637" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>silver Wallet</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-06-01</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="885" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Kohls</seller_suggestion>
+						<name>orange CD Elton John</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-07-17</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1001221180" entrydate="2015-10-17" unique_feature="very cruel">
+		<first_name>Nicholas</first_name>
+		<last_name>Gamble</last_name>
+		<nickname> Blind Joe Reynolds</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1004121294" entrydate="2016-05-14" unique_feature="ambitious">
+		<first_name>Carolyn</first_name>
+		<last_name>Garner</last_name>
+		<nickname> Cow Cow Davenport</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="250" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Sears</seller_suggestion>
+						<name>blue Keyboard</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-05-25</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1016111279" entrydate="2014-11-01" unique_feature="proud">
+		<first_name>William</first_name>
+		<last_name>Barnes</last_name>
+		<nickname> Hound Dog Taylor</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1021191092" entrydate="2018-05-10" unique_feature="moody">
+		<first_name>Kelly</first_name>
+		<last_name>Villarreal</last_name>
+		<nickname> Blind Mississippi Morris</nickname>
+		<plans>
+			<plan plan_id="709" status="ready to prepare" priority="low">
+				<endproduct_name>The tan ordinary Hoover</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="162" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Kohls</seller_suggestion>
+						<name>yellow Latex Book</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-07-17</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="959" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Kohls</seller_suggestion>
+						<name>teal Box</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-07-11</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1024101193" entrydate="2018-02-13" unique_feature="conservative">
+		<first_name>Roger</first_name>
+		<last_name>Everett</last_name>
+		<nickname> Lead Belly</nickname>
+		<plans>
+			<plan plan_id="358" status="working" priority="very low">
+				<endproduct_name>The magenta few Ultrasonic Sensors for Mbot</endproduct_name>
+			</plan>
+			<plan plan_id="393" status="working" priority="low">
+				<endproduct_name>The purple economy Wallet</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="399" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Costco</seller_suggestion>
+						<name>gray Printer</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-05-09</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="931" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Amazon</seller_suggestion>
+						<name>blue Chips</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-05-19</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="936" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Ebay</seller_suggestion>
+						<name>silver Printer</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-07-09</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1024191282" entrydate="2013-10-19" unique_feature="cautious">
+		<first_name>Katherine</first_name>
+		<last_name>Galloway</last_name>
+		<nickname> Catfish Keith</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1025131095" entrydate="2018-04-25" unique_feature="crazy">
+		<first_name>Raymond</first_name>
+		<last_name>Richardson</last_name>
+		<nickname> Pink Anderson</nickname>
+		<plans>
+			<plan plan_id="370" status="ready to prepare" priority="medium">
+				<endproduct_name>The lime unique Lamp</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="85" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Amazon</seller_suggestion>
+						<name>olive Box</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-07-17</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1040231083" entrydate="2013-03-21" unique_feature="weird">
+		<first_name>Larry</first_name>
+		<last_name>Pratt</last_name>
+		<nickname> Little Brother Montgomery</nickname>
+		<plans>
+			<plan plan_id="289" status="prepared" priority="very high">
+				<endproduct_name>The teal clean Cable</endproduct_name>
+			</plan>
+			<plan plan_id="489" status="cancelled" priority="very low">
+				<endproduct_name>The blue nasty Spoon</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="982" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>lime Bag</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-06-13</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1049231272" entrydate="2015-01-25" unique_feature="naive">
+		<first_name>Alexis</first_name>
+		<last_name>Mcdowell</last_name>
+		<nickname> Junior Wells</nickname>
+		<plans>
+			<plan plan_id="291" status="ready to prepare" priority="medium">
+				<endproduct_name>The olive east Lamp</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1056141294" entrydate="2018-06-04" unique_feature="sensitive">
+		<first_name>Theresa</first_name>
+		<last_name>Grimes</last_name>
+		<nickname> Big Maceo Merriweather</nickname>
+		<plans>
+			<plan plan_id="512" status="finished" priority="low">
+				<endproduct_name>The brown amazing Hoover</endproduct_name>
+			</plan>
+			<plan plan_id="517" status="finished" priority="high">
+				<endproduct_name>The silver actual Keyboard</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1064171179" entrydate="2013-08-23" unique_feature="quarrelsome">
+		<first_name>Heather</first_name>
+		<last_name>Calderon</last_name>
+		<nickname> Bull City Red</nickname>
+		<plans>
+			<plan plan_id="902" status="working" priority="low">
+				<endproduct_name>The cyan wise Clock</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1082161085" entrydate="2016-01-25" unique_feature="laid-back">
+		<first_name>Benjamin</first_name>
+		<last_name>Burt</last_name>
+		<nickname> Brownie McGhee</nickname>
+		<plans>
+			<plan plan_id="200" status="almost finished" priority="medium">
+				<endproduct_name>The teal usual Smartphone</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="554" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Amazon</seller_suggestion>
+						<name>aquamarine Filament</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-06-17</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1119121186" entrydate="2015-01-11" unique_feature="narrow-minded">
+		<first_name>Elizabeth</first_name>
+		<last_name>Ortiz</last_name>
+		<nickname> "Otis ""Big Smokey"" Smothers"</nickname>
+		<plans>
+			<plan plan_id="333" status="almost finished" priority="medium">
+				<endproduct_name>The aquamarine sorry USB Stick</endproduct_name>
+			</plan>
+			<plan plan_id="889" status="cancelled" priority="medium">
+				<endproduct_name>The tan any Bag</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1127131284" entrydate="2016-08-16" unique_feature="mean">
+		<first_name>Willie</first_name>
+		<last_name>Alvarez</last_name>
+		<nickname> Seasick Steve</nickname>
+		<plans>
+			<plan plan_id="404" status="almost finished" priority="low">
+				<endproduct_name>The maroon nasty USB Stick</endproduct_name>
+			</plan>
+			<plan plan_id="855" status="ready to prepare" priority="medium">
+				<endproduct_name>The violet feeling Smartphone</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="19" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Walmart</seller_suggestion>
+						<name>orange Wallet</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-05-14</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="915" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>black Hoover</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-05-17</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1135141187" entrydate="2013-08-04" unique_feature="boring">
+		<first_name>Roger</first_name>
+		<last_name>Faulkner</last_name>
+		<nickname> Big Bill Broonzy</nickname>
+		<plans>
+			<plan plan_id="91" status="finished" priority="very high">
+				<endproduct_name>The navy bitter Bag</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1144121077" entrydate="2017-07-11" unique_feature="naughty">
+		<first_name>Deborah</first_name>
+		<last_name>Charles</last_name>
+		<nickname> Buddy Guy</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="284" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>red Smartphone</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-07-12</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="394" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Conrad</seller_suggestion>
+						<name>maroon Smartphone</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-07-11</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1148161196" entrydate="2016-04-26" unique_feature="ambitious">
+		<first_name>Joshua</first_name>
+		<last_name>Dixon</last_name>
+		<nickname> Big Joe Turner</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1151151289" entrydate="2018-12-09" unique_feature="cruel">
+		<first_name>Julia</first_name>
+		<last_name>Cannon</last_name>
+		<nickname> Blind Willie McTell</nickname>
+		<plans>
+			<plan plan_id="170" status="finished" priority="very high">
+				<endproduct_name>The yellow willing Hoover</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="623" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Aliexpress</seller_suggestion>
+						<name>aquamarine Cable</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-07-19</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1152221099" entrydate="2015-04-13" unique_feature="hard-working">
+		<first_name>Richard</first_name>
+		<last_name>Neal</last_name>
+		<nickname> Buster Pickens</nickname>
+		<plans>
+			<plan plan_id="192" status="working" priority="high">
+				<endproduct_name>The olive public Computer</endproduct_name>
+			</plan>
+			<plan plan_id="522" status="almost finished" priority="medium">
+				<endproduct_name>The aquamarine dependent USB Stick</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1153221292" entrydate="2015-02-13" unique_feature="argumentative">
+		<first_name>Danielle</first_name>
+		<last_name>Herring</last_name>
+		<nickname> "Clarence ""Gatemouth"" Brown"</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="756" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Sears</seller_suggestion>
+						<name>maroon Ultrasonic Sensors for Mbot</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-05-11</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1163161298" entrydate="2017-02-21" unique_feature="stubborn">
+		<first_name>Lisa</first_name>
+		<last_name>Wilcox</last_name>
+		<nickname> Big Walter Horton</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1164211175" entrydate="2015-04-17" unique_feature="carefree">
+		<first_name>Arthur</first_name>
+		<last_name>Langley</last_name>
+		<nickname> Little Mack Simmons</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="449" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Wish</seller_suggestion>
+						<name>black Lamp</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-06-22</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1165181084" entrydate="2018-09-03" unique_feature="careless">
+		<first_name>Virginia</first_name>
+		<last_name>Shepard</last_name>
+		<nickname> Sugar Ray Norcia</nickname>
+		<plans>
+			<plan plan_id="943" status="ready to prepare" priority="very low">
+				<endproduct_name>The magenta tough Latex Book</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="403" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Aliexpress</seller_suggestion>
+						<name>gray Webcam</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-06-02</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="551" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Costco</seller_suggestion>
+						<name>yellow Smartphone</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-06-09</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1177181287" entrydate="2014-09-18" unique_feature="loyal">
+		<first_name>Cynthia</first_name>
+		<last_name>Lara</last_name>
+		<nickname> Little Hatch</nickname>
+		<plans>
+			<plan plan_id="147" status="prepared" priority="medium">
+				<endproduct_name>The purple mother Box</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="288" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Costco</seller_suggestion>
+						<name>silver Lamp</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-05-02</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1183191190" entrydate="2017-01-01" unique_feature="cruel">
+		<first_name>Justin</first_name>
+		<last_name>Chase</last_name>
+		<nickname> Gary B.B. Coleman</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="221" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Wish</seller_suggestion>
+						<name>green Cable</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-05-17</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="657" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Costco</seller_suggestion>
+						<name>black Chips</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-05-15</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="977" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Amazon</seller_suggestion>
+						<name>teal Hoover</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-05-06</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1189141198" entrydate="2016-12-19" unique_feature="polite">
+		<first_name>Jerry</first_name>
+		<last_name>Barrera</last_name>
+		<nickname> Barkin Bill Smith</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="539" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>black Cable</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-06-03</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1200261181" entrydate="2016-06-09" unique_feature="dull">
+		<first_name>Judy</first_name>
+		<last_name>Dixon</last_name>
+		<nickname> Mr. Blues</nickname>
+		<plans>
+			<plan plan_id="42" status="ready to prepare" priority="very high">
+				<endproduct_name>The navy standard Guitar</endproduct_name>
+			</plan>
+			<plan plan_id="301" status="cancelled" priority="very low">
+				<endproduct_name>The olive suspicious Smartphone</endproduct_name>
+			</plan>
+			<plan plan_id="818" status="finished" priority="very high">
+				<endproduct_name>The silver main CD Elton John</endproduct_name>
+			</plan>
+			<plan plan_id="824" status="cancelled" priority="low">
+				<endproduct_name>The orange best Cable</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="319" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>brown Latex Book</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-06-23</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1212211286" entrydate="2016-07-18" unique_feature="friendly">
+		<first_name>Tyler</first_name>
+		<last_name>Richards</last_name>
+		<nickname> "Willie ""Big Eyes"" Smith"</nickname>
+		<plans>
+			<plan plan_id="448" status="working" priority="medium">
+				<endproduct_name>The yellow practical Monitor</endproduct_name>
+			</plan>
+			<plan plan_id="476" status="ready to prepare" priority="medium">
+				<endproduct_name>The brown sweet Computer</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1254121079" entrydate="2014-03-23" unique_feature="lazy">
+		<first_name>Kathleen</first_name>
+		<last_name>Petty</last_name>
+		<nickname> T-Model Ford</nickname>
+		<plans>
+			<plan plan_id="785" status="ready to prepare" priority="low">
+				<endproduct_name>The cyan spiritual Smartphone</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1268261191" entrydate="2015-01-18" unique_feature="loyal">
+		<first_name>Ryan</first_name>
+		<last_name>Davidson</last_name>
+		<nickname> Lead Belly</nickname>
+		<plans>
+			<plan plan_id="317" status="working" priority="low">
+				<endproduct_name>The pink fresh Monitor</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1289131299" entrydate="2013-07-23" unique_feature="naive">
+		<first_name>Johnny</first_name>
+		<last_name>Garrison</last_name>
+		<nickname> Little Brother Montgomery</nickname>
+		<plans>
+			<plan plan_id="309" status="almost finished" priority="high">
+				<endproduct_name>The tan representative Hoover</endproduct_name>
+			</plan>
+			<plan plan_id="939" status="cancelled" priority="high">
+				<endproduct_name>The turquoise enough Latex Book</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="40" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Ebay</seller_suggestion>
+						<name>navy Wallet</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-07-06</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="231" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Sears</seller_suggestion>
+						<name>blue Bag</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-07-16</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="649" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Amazon</seller_suggestion>
+						<name>pink Ultrasonic Sensors for Mbot</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-07-07</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1289231084" entrydate="2014-02-13" unique_feature="strict">
+		<first_name>Karen</first_name>
+		<last_name>Kemp</last_name>
+		<nickname> Mamie Smith</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1320251271" entrydate="2013-09-06" unique_feature="hard-working">
+		<first_name>Sandra</first_name>
+		<last_name>Boyle</last_name>
+		<nickname> Tampa Red</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="441" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>maroon Toast</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-06-22</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1324171081" entrydate="2018-08-27" unique_feature="modest">
+		<first_name>Debra</first_name>
+		<last_name>Harrison</last_name>
+		<nickname> "Eddie ""Guitar"" Burns"</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1336201089" entrydate="2018-04-08" unique_feature="careless">
+		<first_name>Mark</first_name>
+		<last_name>Pace</last_name>
+		<nickname> Backwards Sam Firk</nickname>
+		<plans>
+			<plan plan_id="311" status="ready to prepare" priority="medium">
+				<endproduct_name>The orange strong Hoover</endproduct_name>
+			</plan>
+			<plan plan_id="403" status="prepared" priority="very low">
+				<endproduct_name>The orange swimming Dog</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="541" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>blue Toaster</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-05-18</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="723" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>aquamarine CD Elton John</name>
+					</buying_info>
+					<additional_info>Call me maybe.</additional_info>
+				</item_info>
+				<due_date>2019-06-06</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="817" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Aliexpress</seller_suggestion>
+						<name>red Dog</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-07-01</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1339271270" entrydate="2013-09-23" unique_feature="cautious">
+		<first_name>Deborah</first_name>
+		<last_name>Blankenship</last_name>
+		<nickname> Lovie Austin</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="73" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Costco</seller_suggestion>
+						<name>gray Cable</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-05-21</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="452" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Walmart</seller_suggestion>
+						<name>silver Chips</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-07-05</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="731" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Costco</seller_suggestion>
+						<name>purple Printer</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-06-18</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1340261091" entrydate="2016-08-16" unique_feature="two-faced">
+		<first_name>Christina</first_name>
+		<last_name>Burton</last_name>
+		<nickname> Washboard Willie</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="448" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Walmart</seller_suggestion>
+						<name>green Lamp</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-07-15</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="923" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Conrad</seller_suggestion>
+						<name>silver Cable</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-07-04</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1358151195" entrydate="2017-06-22" unique_feature="proud">
+		<first_name>Joyce</first_name>
+		<last_name>Albert</last_name>
+		<nickname> Buster Benton</nickname>
+		<plans>
+			<plan plan_id="484" status="cancelled" priority="very high">
+				<endproduct_name>The lime certain Bag</endproduct_name>
+			</plan>
+			<plan plan_id="547" status="finished" priority="medium">
+				<endproduct_name>The gray narrow Monitor</endproduct_name>
+			</plan>
+			<plan plan_id="768" status="working" priority="low">
+				<endproduct_name>The turquoise enough Guitar</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="289" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Wish</seller_suggestion>
+						<name>turquoise Box</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-05-26</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1359191195" entrydate="2013-11-02" unique_feature="trustworthy">
+		<first_name>Michael</first_name>
+		<last_name>Curtis</last_name>
+		<nickname> Bo Diddley</nickname>
+		<plans>
+			<plan plan_id="216" status="ready to prepare" priority="low">
+				<endproduct_name>The turquoise red Toaster</endproduct_name>
+			</plan>
+			<plan plan_id="315" status="finished" priority="low">
+				<endproduct_name>The lime traditional Keyboard</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="160" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Wish</seller_suggestion>
+						<name>tan Smartphone</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-06-09</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="998" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Walmart</seller_suggestion>
+						<name>magenta Toaster</name>
+					</buying_info>
+					<additional_info>Call me maybe.</additional_info>
+				</item_info>
+				<due_date>2019-07-17</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1375191292" entrydate="2013-10-26" unique_feature="naughty">
+		<first_name>Hannah</first_name>
+		<last_name>Wallace</last_name>
+		<nickname> Drive Em Down</nickname>
+		<plans>
+			<plan plan_id="191" status="prepared" priority="low">
+				<endproduct_name>The gray financial USB Stick</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1387271072" entrydate="2016-07-13" unique_feature="naive">
+		<first_name>Alexis</first_name>
+		<last_name>Reyes</last_name>
+		<nickname> Big Bill Broonzy</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1397221186" entrydate="2014-01-02" unique_feature="cruel">
+		<first_name>Eugene</first_name>
+		<last_name>Benjamin</last_name>
+		<nickname> "Dave ""Snaker"" Ray"</nickname>
+		<plans>
+			<plan plan_id="250" status="finished" priority="low">
+				<endproduct_name>The cyan straight Wallet</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="12" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>red Webcam</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-06-02</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="807" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Costco</seller_suggestion>
+						<name>black Monitor</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-06-02</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1402171297" entrydate="2015-04-19" unique_feature="charming">
+		<first_name>Scott</first_name>
+		<last_name>Gilmore</last_name>
+		<nickname> Little Brother Montgomery</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1403211074" entrydate="2014-08-18" unique_feature="strict">
+		<first_name>Alexis</first_name>
+		<last_name>Pennington</last_name>
+		<nickname> Ironing Board Sam</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="628" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Amazon</seller_suggestion>
+						<name>gray Lamp</name>
+					</buying_info>
+					<additional_info>Call me maybe.</additional_info>
+				</item_info>
+				<due_date>2019-06-25</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1407261170" entrydate="2015-07-13" unique_feature="sympathetic (understanding)">
+		<first_name>Anthony</first_name>
+		<last_name>Hart</last_name>
+		<nickname> Sippie Wallace</nickname>
+		<plans>
+			<plan plan_id="183" status="working" priority="very high">
+				<endproduct_name>The pink male USB Stick</endproduct_name>
+			</plan>
+			<plan plan_id="608" status="working" priority="high">
+				<endproduct_name>The blue eastern Box</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1413141280" entrydate="2016-10-27" unique_feature="reliable">
+		<first_name>Jose</first_name>
+		<last_name>Adams</last_name>
+		<nickname> Blind Mississippi Morris</nickname>
+		<plans>
+			<plan plan_id="318" status="cancelled" priority="high">
+				<endproduct_name>The magenta all Clock</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="22" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Walmart</seller_suggestion>
+						<name>indigo Box</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-07-07</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="391" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Ebay</seller_suggestion>
+						<name>green Webcam</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-06-26</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1418231092" entrydate="2014-04-13" unique_feature="self-confident">
+		<first_name>William</first_name>
+		<last_name>Marshall</last_name>
+		<nickname> Little Mack Simmons</nickname>
+		<plans>
+			<plan plan_id="754" status="cancelled" priority="very low">
+				<endproduct_name>The tan plus Bag</endproduct_name>
+			</plan>
+			<plan plan_id="898" status="finished" priority="very high">
+				<endproduct_name>The aquamarine lucky CD Elton John</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="30" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Aliexpress</seller_suggestion>
+						<name>indigo Toast</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-07-02</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1421201185" entrydate="2015-06-18" unique_feature="polite">
+		<first_name>Katherine</first_name>
+		<last_name>Reid</last_name>
+		<nickname> Jelly Roll Morton</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1423181194" entrydate="2015-10-05" unique_feature="proud">
+		<first_name>Margaret</first_name>
+		<last_name>Watson</last_name>
+		<nickname> "Eddie ""Cleanhead"" Vinson"</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1427171090" entrydate="2018-03-02" unique_feature="crazy">
+		<first_name>Harry</first_name>
+		<last_name>Gilbert</last_name>
+		<nickname> Smokey Wilson</nickname>
+		<plans>
+			<plan plan_id="103" status="ready to prepare" priority="very high">
+				<endproduct_name>The magenta ordinary Clock</endproduct_name>
+			</plan>
+			<plan plan_id="572" status="prepared" priority="medium">
+				<endproduct_name>The white standard Guitar</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="105" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Wish</seller_suggestion>
+						<name>aquamarine Wallet</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-05-14</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="561" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Aliexpress</seller_suggestion>
+						<name>violet Helmet</name>
+					</buying_info>
+					<additional_info>Call me maybe.</additional_info>
+				</item_info>
+				<due_date>2019-05-06</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="754" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Ebay</seller_suggestion>
+						<name>white Toaster</name>
+					</buying_info>
+					<additional_info>Call me maybe.</additional_info>
+				</item_info>
+				<due_date>2019-05-12</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1427271093" entrydate="2014-02-03" unique_feature="sympathetic (understanding)">
+		<first_name>Brittany</first_name>
+		<last_name>Charles</last_name>
+		<nickname> "Dave ""Snaker"" Ray"</nickname>
+		<plans>
+			<plan plan_id="72" status="cancelled" priority="very low">
+				<endproduct_name>The gray practical Toast</endproduct_name>
+			</plan>
+			<plan plan_id="379" status="prepared" priority="very high">
+				<endproduct_name>The turquoise specialist Printer</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1438131094" entrydate="2017-01-12" unique_feature="cowardly">
+		<first_name>Virginia</first_name>
+		<last_name>Marsh</last_name>
+		<nickname> "Huey ""Piano"" Smith"</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="857" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Walmart</seller_suggestion>
+						<name>red Spoon</name>
+					</buying_info>
+					<additional_info>Call me maybe.</additional_info>
+				</item_info>
+				<due_date>2019-07-22</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1446151294" entrydate="2017-03-24" unique_feature="big-headed">
+		<first_name>Adam</first_name>
+		<last_name>Summers</last_name>
+		<nickname> Magic Slim</nickname>
+		<plans>
+			<plan plan_id="874" status="ready to prepare" priority="very high">
+				<endproduct_name>The silver consistent Guitar</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="376" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Costco</seller_suggestion>
+						<name>lime Bag</name>
+					</buying_info>
+					<additional_info>Call me maybe.</additional_info>
+				</item_info>
+				<due_date>2019-07-16</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="386" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Sears</seller_suggestion>
+						<name>red Filament</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-05-11</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="839" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Walmart</seller_suggestion>
+						<name>turquoise Lamp</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-07-09</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1459131271" entrydate="2015-09-26" unique_feature="cautious">
+		<first_name>Tyler</first_name>
+		<last_name>Shannon</last_name>
+		<nickname> Black Ace</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1461181094" entrydate="2016-11-17" unique_feature="argumentative">
+		<first_name>Gabriel</first_name>
+		<last_name>Pruitt</last_name>
+		<nickname> Cow Cow Davenport</nickname>
+		<plans>
+			<plan plan_id="479" status="working" priority="low">
+				<endproduct_name>The violet flat Filament</endproduct_name>
+			</plan>
+			<plan plan_id="656" status="almost finished" priority="very high">
+				<endproduct_name>The tan administrative Wallet</endproduct_name>
+			</plan>
+			<plan plan_id="998" status="ready to prepare" priority="high">
+				<endproduct_name>The silver remarkable Toaster</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="102" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Ebay</seller_suggestion>
+						<name>orange Keyboard</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-06-11</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="922" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Amazon</seller_suggestion>
+						<name>blue Latex Book</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-06-15</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1466221179" entrydate="2013-02-14" unique_feature="argumentative">
+		<first_name>Brittany</first_name>
+		<last_name>Bolton</last_name>
+		<nickname> Lead Belly</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="129" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Kohls</seller_suggestion>
+						<name>navy Monitor</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-07-04</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="433" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Aliexpress</seller_suggestion>
+						<name>navy Printer</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-06-02</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1485221295" entrydate="2016-08-19" unique_feature="flirtatious">
+		<first_name>Jessica</first_name>
+		<last_name>Buck</last_name>
+		<nickname> Sunnyland Slim</nickname>
+		<plans>
+			<plan plan_id="873" status="almost finished" priority="very low">
+				<endproduct_name>The violet white Keyboard</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1489211095" entrydate="2013-12-08" unique_feature="naughty">
+		<first_name>Kyle</first_name>
+		<last_name>Cooper</last_name>
+		<nickname> Sonny Terry</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="674" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Wish</seller_suggestion>
+						<name>cyan Ultrasonic Sensors for Mbot</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-07-26</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1492271191" entrydate="2013-05-05" unique_feature="generous">
+		<first_name>Keith</first_name>
+		<last_name>Wall</last_name>
+		<nickname> Whistlin Alex Moore</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1502111074" entrydate="2015-06-06" unique_feature="careless">
+		<first_name>Frances</first_name>
+		<last_name>Murray</last_name>
+		<nickname> Pops Staples</nickname>
+		<plans>
+			<plan plan_id="618" status="working" priority="high">
+				<endproduct_name>The magenta pregnant Printer</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1506111189" entrydate="2017-04-25" unique_feature="narrow-minded">
+		<first_name>Debra</first_name>
+		<last_name>Torres</last_name>
+		<nickname> Lil Ed Williams</nickname>
+		<plans>
+			<plan plan_id="1000" status="almost finished" priority="medium">
+				<endproduct_name>The maroon spare Keyboard</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1512191179" entrydate="2016-04-01" unique_feature="big-headed">
+		<first_name>Patricia</first_name>
+		<last_name>Douglas</last_name>
+		<nickname> Lil Ed Williams</nickname>
+		<plans>
+			<plan plan_id="266" status="finished" priority="low">
+				<endproduct_name>The lime remarkable Clock</endproduct_name>
+			</plan>
+			<plan plan_id="437" status="prepared" priority="very low">
+				<endproduct_name>The gray wrong Guitar</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1537171171" entrydate="2013-07-10" unique_feature="moody">
+		<first_name>Shirley</first_name>
+		<last_name>Holcomb</last_name>
+		<nickname> Papa Charlie Jackson</nickname>
+		<plans>
+			<plan plan_id="466" status="finished" priority="medium">
+				<endproduct_name>The blue extreme Filament</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1538251287" entrydate="2016-12-08" unique_feature="cruel">
+		<first_name>Michael</first_name>
+		<last_name>Knapp</last_name>
+		<nickname> "Alger ""Texas"" Alexander"</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="988" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Conrad</seller_suggestion>
+						<name>maroon Latex Book</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-06-26</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1555241078" entrydate="2013-03-08" unique_feature="sensible">
+		<first_name>Deborah</first_name>
+		<last_name>Wagner</last_name>
+		<nickname> "Moses ""Whispering"" Smith"</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1581211077" entrydate="2017-02-21" unique_feature="big-headed">
+		<first_name>Joan</first_name>
+		<last_name>Woodward</last_name>
+		<nickname> Bo Diddley</nickname>
+		<plans>
+			<plan plan_id="105" status="almost finished" priority="medium">
+				<endproduct_name>The gray sudden Hoover</endproduct_name>
+			</plan>
+			<plan plan_id="249" status="ready to prepare" priority="medium">
+				<endproduct_name>The silver no Box</endproduct_name>
+			</plan>
+			<plan plan_id="314" status="ready to prepare" priority="very low">
+				<endproduct_name>The purple both Computer</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1630101294" entrydate="2018-05-08" unique_feature="quarrelsome">
+		<first_name>Ann</first_name>
+		<last_name>Santiago</last_name>
+		<nickname> Bull City Red</nickname>
+		<plans>
+			<plan plan_id="23" status="finished" priority="low">
+				<endproduct_name>The cyan corner Bag</endproduct_name>
+			</plan>
+			<plan plan_id="440" status="prepared" priority="high">
+				<endproduct_name>The maroon emotional Guitar</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="621" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Conrad</seller_suggestion>
+						<name>aquamarine Lamp</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-07-10</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1630161073" entrydate="2017-04-11" unique_feature="cruel">
+		<first_name>Ashley</first_name>
+		<last_name>William</last_name>
+		<nickname> Catfish Keith</nickname>
+		<plans>
+			<plan plan_id="361" status="cancelled" priority="very low">
+				<endproduct_name>The lime what Bag</endproduct_name>
+			</plan>
+			<plan plan_id="808" status="almost finished" priority="very low">
+				<endproduct_name>The navy material Webcam</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1643121179" entrydate="2015-09-03" unique_feature="charming">
+		<first_name>Harry</first_name>
+		<last_name>Lara</last_name>
+		<nickname> Drive Em Down</nickname>
+		<plans>
+			<plan plan_id="16" status="finished" priority="very low">
+				<endproduct_name>The lime pretty Printer</endproduct_name>
+			</plan>
+			<plan plan_id="791" status="prepared" priority="high">
+				<endproduct_name>The gray street Bag</endproduct_name>
+			</plan>
+			<plan plan_id="803" status="ready to prepare" priority="low">
+				<endproduct_name>The turquoise sad Dog</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1652181289" entrydate="2018-01-14" unique_feature="talkative">
+		<first_name>Zachary</first_name>
+		<last_name>Brock</last_name>
+		<nickname> Little Milton</nickname>
+		<plans>
+			<plan plan_id="139" status="finished" priority="high">
+				<endproduct_name>The red material USB Stick</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="892" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Kohls</seller_suggestion>
+						<name>blue Cable</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-06-25</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1658221076" entrydate="2015-03-09" unique_feature="conceited">
+		<first_name>Lawrence</first_name>
+		<last_name>Welch</last_name>
+		<nickname> Big Walter Horton</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="98" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Kohls</seller_suggestion>
+						<name>lime CD Elton John</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-05-16</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="510" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Conrad</seller_suggestion>
+						<name>teal Filament</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-05-15</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1662271180" entrydate="2016-05-19" unique_feature="conservative">
+		<first_name>Harry</first_name>
+		<last_name>Pickett</last_name>
+		<nickname> Sonny Boy Williamson II</nickname>
+		<plans>
+			<plan plan_id="564" status="almost finished" priority="high">
+				<endproduct_name>The violet open Smartphone</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1665221182" entrydate="2013-02-03" unique_feature="charming">
+		<first_name>Amber</first_name>
+		<last_name>Wilcox</last_name>
+		<nickname> Blind Lemon Jefferson</nickname>
+		<plans>
+			<plan plan_id="265" status="finished" priority="very high">
+				<endproduct_name>The gray prize CD Elton John</endproduct_name>
+			</plan>
+			<plan plan_id="574" status="prepared" priority="very high">
+				<endproduct_name>The teal present Filament</endproduct_name>
+			</plan>
+			<plan plan_id="866" status="finished" priority="medium">
+				<endproduct_name>The pink comprehensive Smartphone</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="411" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Wish</seller_suggestion>
+						<name>green Latex Book</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-06-09</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1671261278" entrydate="2014-06-22" unique_feature="open-minded">
+		<first_name>Catherine</first_name>
+		<last_name>Hickman</last_name>
+		<nickname> "Clarence ""Gatemouth"" Brown"</nickname>
+		<plans>
+			<plan plan_id="397" status="almost finished" priority="medium">
+				<endproduct_name>The magenta nasty Monitor</endproduct_name>
+			</plan>
+			<plan plan_id="916" status="prepared" priority="high">
+				<endproduct_name>The black anxious Ultrasonic Sensors for Mbot</endproduct_name>
+			</plan>
+			<plan plan_id="957" status="almost finished" priority="very low">
+				<endproduct_name>The violet gross Clock</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="562" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Walmart</seller_suggestion>
+						<name>white Computer</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-05-03</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="704" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Kohls</seller_suggestion>
+						<name>gray Monitor</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-06-16</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1687271192" entrydate="2015-06-19" unique_feature="moody">
+		<first_name>Austin</first_name>
+		<last_name>Frank</last_name>
+		<nickname> "Alger ""Texas"" Alexander"</nickname>
+		<plans>
+			<plan plan_id="446" status="prepared" priority="medium">
+				<endproduct_name>The pink expensive Cable</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1710171096" entrydate="2017-08-09" unique_feature="annoying">
+		<first_name>Rose</first_name>
+		<last_name>Mcneil</last_name>
+		<nickname> Sonny Boy Williamson I</nickname>
+		<plans>
+			<plan plan_id="256" status="ready to prepare" priority="very low">
+				<endproduct_name>The gray action Guitar</endproduct_name>
+			</plan>
+			<plan plan_id="287" status="almost finished" priority="very high">
+				<endproduct_name>The pink plane Latex Book</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="611" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Wish</seller_suggestion>
+						<name>turquoise Clock</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-06-06</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="689" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Walmart</seller_suggestion>
+						<name>tan Toaster</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-05-11</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1724181171" entrydate="2013-08-03" unique_feature="honest">
+		<first_name>Lawrence</first_name>
+		<last_name>Gardner</last_name>
+		<nickname> Washboard Sam</nickname>
+		<plans>
+			<plan plan_id="197" status="almost finished" priority="low">
+				<endproduct_name>The magenta conscious Guitar</endproduct_name>
+			</plan>
+			<plan plan_id="863" status="almost finished" priority="low">
+				<endproduct_name>The orange massive Cable</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="520" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Sears</seller_suggestion>
+						<name>green Keyboard</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-06-08</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="969" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Sears</seller_suggestion>
+						<name>turquoise Computer</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-05-04</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1754261294" entrydate="2017-07-16" unique_feature="hard-working">
+		<first_name>Beverly</first_name>
+		<last_name>Johnston</last_name>
+		<nickname> Little Hatch</nickname>
+		<plans>
+			<plan plan_id="18" status="almost finished" priority="high">
+				<endproduct_name>The violet much Hoover</endproduct_name>
+			</plan>
+			<plan plan_id="132" status="working" priority="very low">
+				<endproduct_name>The pink basic USB Stick</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="467" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Ebay</seller_suggestion>
+						<name>teal Box</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-07-07</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="859" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Ebay</seller_suggestion>
+						<name>navy Guitar</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-05-21</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1778191293" entrydate="2016-10-16" unique_feature="honest">
+		<first_name>Anthony</first_name>
+		<last_name>Rosa</last_name>
+		<nickname> Koko Taylor</nickname>
+		<plans>
+			<plan plan_id="47" status="working" priority="medium">
+				<endproduct_name>The tan weekly Ultrasonic Sensors for Mbot</endproduct_name>
+			</plan>
+			<plan plan_id="410" status="cancelled" priority="very low">
+				<endproduct_name>The magenta western Box</endproduct_name>
+			</plan>
+			<plan plan_id="937" status="cancelled" priority="low">
+				<endproduct_name>The pink loose Ultrasonic Sensors for Mbot</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="407" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Conrad</seller_suggestion>
+						<name>indigo Monitor</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-05-04</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="777" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Wish</seller_suggestion>
+						<name>aquamarine Spoon</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-06-06</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1784191084" entrydate="2017-05-21" unique_feature="naughty">
+		<first_name>Jonathan</first_name>
+		<last_name>Phillips</last_name>
+		<nickname> Sippie Wallace</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="766" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Ebay</seller_suggestion>
+						<name>black Toaster</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-06-18</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1790181189" entrydate="2016-07-18" unique_feature="bad-tempered">
+		<first_name>Christine</first_name>
+		<last_name>Ashley</last_name>
+		<nickname> Lightnin Hopkins</nickname>
+		<plans>
+			<plan plan_id="292" status="ready to prepare" priority="very low">
+				<endproduct_name>The olive ordinary Toaster</endproduct_name>
+			</plan>
+			<plan plan_id="534" status="finished" priority="medium">
+				<endproduct_name>The violet overall Dog</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="427" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Aliexpress</seller_suggestion>
+						<name>gray USB Stick</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-05-22</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1819121287" entrydate="2013-12-02" unique_feature="conceited">
+		<first_name>Alice</first_name>
+		<last_name>Reid</last_name>
+		<nickname> Blind Gary Davis</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="983" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Sears</seller_suggestion>
+						<name>blue Ultrasonic Sensors for Mbot</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-05-07</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1827251272" entrydate="2016-10-10" unique_feature="conceited">
+		<first_name>Paul</first_name>
+		<last_name>Brennan</last_name>
+		<nickname> Little Willie Littlefield</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1829241278" entrydate="2017-09-02" unique_feature="proud">
+		<first_name>Anthony</first_name>
+		<last_name>Harris</last_name>
+		<nickname> Mississippi John Hurt</nickname>
+		<plans>
+			<plan plan_id="242" status="finished" priority="very low">
+				<endproduct_name>The magenta easy Toaster</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="513" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Walmart</seller_suggestion>
+						<name>turquoise Filament</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-07-25</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="975" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Aliexpress</seller_suggestion>
+						<name>olive Hoover</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-07-14</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1833141198" entrydate="2015-02-16" unique_feature="cautious">
+		<first_name>Nicholas</first_name>
+		<last_name>Graves</last_name>
+		<nickname> Hip Linkchain</nickname>
+		<plans>
+			<plan plan_id="721" status="cancelled" priority="very low">
+				<endproduct_name>The white yellow Computer</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="265" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Amazon</seller_suggestion>
+						<name>magenta Chips</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-07-15</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1851221099" entrydate="2018-11-10" unique_feature="cowardly">
+		<first_name>Emma</first_name>
+		<last_name>Lang</last_name>
+		<nickname> Little Hatch</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="81" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>cyan Ultrasonic Sensors for Mbot</name>
+					</buying_info>
+					<additional_info>Call me maybe.</additional_info>
+				</item_info>
+				<due_date>2019-07-22</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="358" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Aliexpress</seller_suggestion>
+						<name>brown Latex Book</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-06-07</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1855191070" entrydate="2018-10-08" unique_feature="cheerful">
+		<first_name>Daniel</first_name>
+		<last_name>Juarez</last_name>
+		<nickname> Smoky Babe</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1862271187" entrydate="2014-01-14" unique_feature="cautious">
+		<first_name>William</first_name>
+		<last_name>Eaton</last_name>
+		<nickname> Bumble Bee Slim</nickname>
+		<plans>
+			<plan plan_id="677" status="cancelled" priority="very low">
+				<endproduct_name>The gray rich Guitar</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="75" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>cyan Chips</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-05-13</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="387" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Conrad</seller_suggestion>
+						<name>pink CD Elton John</name>
+					</buying_info>
+					<additional_info>Whenever there is a problem... SOLVE IT!</additional_info>
+				</item_info>
+				<due_date>2019-06-06</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1877141182" entrydate="2013-12-18" unique_feature="bad-tempered">
+		<first_name>Lawrence</first_name>
+		<last_name>Bryant</last_name>
+		<nickname> Cow Cow Davenport</nickname>
+		<plans>
+			<plan plan_id="635" status="cancelled" priority="low">
+				<endproduct_name>The black left Ultrasonic Sensors for Mbot</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1878231091" entrydate="2013-10-01" unique_feature="honest">
+		<first_name>David</first_name>
+		<last_name>Hamilton</last_name>
+		<nickname> Shakey Jake Harris</nickname>
+		<plans/>
+		<shopping_items>
+			<item item_id="434" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Amazon</seller_suggestion>
+						<name>blue Smartphone</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-07-12</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="869" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Kohls</seller_suggestion>
+						<name>brown Bag</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-05-17</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1892201074" entrydate="2017-08-13" unique_feature="self-confident">
+		<first_name>Megan</first_name>
+		<last_name>Thompson</last_name>
+		<nickname> Sippie Wallace</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1896101093" entrydate="2016-05-26" unique_feature="naive">
+		<first_name>Jonathan</first_name>
+		<last_name>Sutton</last_name>
+		<nickname> Pinetop Smith</nickname>
+		<plans>
+			<plan plan_id="802" status="cancelled" priority="very high">
+				<endproduct_name>The black federal Spoon</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="195" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Wish</seller_suggestion>
+						<name>white Bag</name>
+					</buying_info>
+					<additional_info>Business informatics rocks!</additional_info>
+				</item_info>
+				<due_date>2019-06-14</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="727" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Etsy</seller_suggestion>
+						<name>magenta Spoon</name>
+					</buying_info>
+					<additional_info>It should be fancy.</additional_info>
+				</item_info>
+				<due_date>2019-06-17</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1897101273" entrydate="2018-10-16" unique_feature="naive">
+		<first_name>Steven</first_name>
+		<last_name>Gilbert</last_name>
+		<nickname> "Eddie ""Cleanhead"" Vinson"</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1918181296" entrydate="2014-02-01" unique_feature="conventional">
+		<first_name>Randy</first_name>
+		<last_name>Beasley</last_name>
+		<nickname> Peg Leg Howell</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1936151070" entrydate="2015-03-03" unique_feature="cowardly">
+		<first_name>Zachary</first_name>
+		<last_name>Hayden</last_name>
+		<nickname> Georgia Tom</nickname>
+		<plans/>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1939141280" entrydate="2016-04-25" unique_feature="dull">
+		<first_name>Ralph</first_name>
+		<last_name>Clark</last_name>
+		<nickname> Big Walter Horton</nickname>
+		<plans>
+			<plan plan_id="124" status="finished" priority="very low">
+				<endproduct_name>The magenta broad Webcam</endproduct_name>
+			</plan>
+			<plan plan_id="310" status="almost finished" priority="very low">
+				<endproduct_name>The black even Computer</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1944261072" entrydate="2017-04-02" unique_feature="charming">
+		<first_name>Deborah</first_name>
+		<last_name>Cohen</last_name>
+		<nickname> Little Milton</nickname>
+		<plans>
+			<plan plan_id="75" status="working" priority="high">
+				<endproduct_name>The aquamarine equivalent Chips</endproduct_name>
+			</plan>
+			<plan plan_id="123" status="prepared" priority="medium">
+				<endproduct_name>The black fit Monitor</endproduct_name>
+			</plan>
+			<plan plan_id="529" status="prepared" priority="high">
+				<endproduct_name>The cyan aggressive Filament</endproduct_name>
+			</plan>
+			<plan plan_id="634" status="prepared" priority="high">
+				<endproduct_name>The gray little Guitar</endproduct_name>
+			</plan>
+			<plan plan_id="664" status="almost finished" priority="very high">
+				<endproduct_name>The blue budget Dog</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items/>
+	</worker>
+	<worker svnr="1951221290" entrydate="2015-06-10" unique_feature="weird">
+		<first_name>Kayla</first_name>
+		<last_name>Franklin</last_name>
+		<nickname> Sleepy John Estes</nickname>
+		<plans>
+			<plan plan_id="307" status="ready to prepare" priority="very high">
+				<endproduct_name>The purple gross Chips</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="264" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Amazon</seller_suggestion>
+						<name>orange CD Elton John</name>
+					</buying_info>
+					<additional_info>We are the best! Never forget that.</additional_info>
+				</item_info>
+				<due_date>2019-05-27</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+			<item item_id="375" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Aliexpress</seller_suggestion>
+						<name>olive Latex Book</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-05-03</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+	<worker svnr="1962101191" entrydate="2014-01-18" unique_feature="self-confident">
+		<first_name>Lauren</first_name>
+		<last_name>Farley</last_name>
+		<nickname> Mamie Smith</nickname>
+		<plans>
+			<plan plan_id="401" status="cancelled" priority="very high">
+				<endproduct_name>The black strict Ultrasonic Sensors for Mbot</endproduct_name>
+			</plan>
+			<plan plan_id="442" status="almost finished" priority="very high">
+				<endproduct_name>The purple complex Wallet</endproduct_name>
+			</plan>
+			<plan plan_id="493" status="working" priority="very low">
+				<endproduct_name>The yellow sudden Guitar</endproduct_name>
+			</plan>
+		</plans>
+		<shopping_items>
+			<item item_id="738" is_finished="false">
+				<item_info>
+					<buying_info>
+						<seller_suggestion>Kohls</seller_suggestion>
+						<name>blue Helmet</name>
+					</buying_info>
+					<additional_info>Make it very nice.</additional_info>
+				</item_info>
+				<due_date>2019-06-22</due_date>
+				<list_entry_date>2019-03-27</list_entry_date>
+			</item>
+		</shopping_items>
+	</worker>
+</root>

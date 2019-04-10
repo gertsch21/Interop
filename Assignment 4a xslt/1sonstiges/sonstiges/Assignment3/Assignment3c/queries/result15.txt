@@ -1,0 +1,6 @@
+get printer(could be more than one(also same printer models)) with highest price in warehouse 15
+
+Result:
+Element='<name>TVS Electronics lazy 26</name>'
+Element='<name>TVS Electronics lazy 26</name>'
+Element='<name>TVS Electronics lazy 26</name>'

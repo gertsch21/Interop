@@ -1,0 +1,37 @@
+get all artists, that work(ed) together with a worker named Johnny Hatfield
+
+Result:
+Element='<artist artist_id="90">
+		<first_name>Eugene</first_name>
+		<last_name>Guerra</last_name>
+		<plans>
+			   <plan plan_id="106" priority="very high" status="almost finished">
+				     <endproduct_name>The olive original Box</endproduct_name>
+				     <basic_instruction>Make a Box</basic_instruction>
+				     <involved_worker entrydate="2013-05-16"
+                          svnr="4567231189"
+                          unique_feature="conventional">
+					       <first_name>Thomas</first_name>
+					       <last_name>Glenn</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="288" priority="low" status="cancelled">
+				     <endproduct_name>The blue comfortable USB Stick</endproduct_name>
+				     <basic_instruction>Please design me a USB Stick</basic_instruction>
+				     <involved_worker entrydate="2015-10-14"
+                          svnr="7399151189"
+                          unique_feature="shy - introverted">
+					       <first_name>Johnny</first_name>
+					       <last_name>Hatfield</last_name>
+				     </involved_worker>
+			   </plan>
+			   <plan plan_id="985" priority="medium" status="working">
+				     <endproduct_name>The yellow day Smartphone</endproduct_name>
+				     <basic_instruction>Create a Smartphone</basic_instruction>
+				     <involved_worker entrydate="2014-02-26" svnr="5212101070" unique_feature="ambitious">
+					       <first_name>Emily</first_name>
+					       <last_name>Finch</last_name>
+				     </involved_worker>
+			   </plan>
+		</plans>
+	</artist>'

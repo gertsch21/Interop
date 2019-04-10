@@ -1,0 +1,4 @@
+get worker count that have access to printer 200
+
+Result:
+Int64='3'

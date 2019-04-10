@@ -1,0 +1,4 @@
+number of all worker, having access to a printer with an extruder_type 'direct'
+
+Result:
+Int64='90'

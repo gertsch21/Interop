@@ -1,0 +1,1 @@
+//printer[(ancestor::warehouse_zugeordnet[@warehouse_id=15]) and (not(./price/text() < //printer[ancestor::warehouse_zugeordnet[@warehouse_id=15]]/price/text()))]/printer_info/name

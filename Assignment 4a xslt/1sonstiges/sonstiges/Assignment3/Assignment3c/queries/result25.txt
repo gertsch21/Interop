@@ -1,0 +1,8 @@
+get all warehouse names with more than 18 printers
+
+Result: 
+Element='<warehousename>The green loyal warehouse</warehousename>'
+
+Element='<warehousename>The maroon ambitious warehouse</warehousename>'
+
+Element='<warehousename>The tan annoying warehouse</warehousename>'

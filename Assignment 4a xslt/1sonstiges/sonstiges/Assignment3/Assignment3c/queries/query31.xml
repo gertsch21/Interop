@@ -1,0 +1,1 @@
+//artist[starts-with(./first_name/text(), 'M') or starts-with(./last_name/text(), 'M')]

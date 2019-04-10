@@ -1,0 +1,7 @@
+get all endproduct_names and all shopping_items from a worker
+
+Result:
+Element='<endproduct_name>The black strict Ultrasonic Sensors for Mbot</endproduct_name>'
+Element='<endproduct_name>The purple complex Wallet</endproduct_name>'
+Element='<endproduct_name>The yellow sudden Guitar</endproduct_name>'
+Element='<name>blue Helmet</name>'

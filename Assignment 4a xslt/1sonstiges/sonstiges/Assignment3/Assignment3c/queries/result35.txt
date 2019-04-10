@@ -1,0 +1,51 @@
+get all workers where the artist's first_name starts with 'Mic'
+
+Result:
+Element='<involved_worker entrydate="2018-07-17" svnr="3803111191" unique_feature="lazy">
+					<first_name>Brittany</first_name>
+					<last_name>Carter</last_name>
+				</involved_worker>'
+
+Element='<involved_worker entrydate="2017-11-12"
+                 svnr="1979261196"
+                 unique_feature="self-confident">
+					<first_name>John</first_name>
+					<last_name>Cooke</last_name>
+				</involved_worker>'
+
+Element='<involved_worker entrydate="2017-04-11" svnr="2115211070" unique_feature="friendly">
+					<first_name>Johnny</first_name>
+					<last_name>Mcneil</last_name>
+				</involved_worker>'
+
+Element='<involved_worker entrydate="2014-03-27" svnr="9218271182" unique_feature="cowardly">
+					<first_name>Johnny</first_name>
+					<last_name>Townsend</last_name>
+				</involved_worker>'
+
+Element='<involved_worker entrydate="2015-04-13"
+                 svnr="8971141287"
+                 unique_feature="cantankerous">
+					<first_name>Janice</first_name>
+					<last_name>Middleton</last_name>
+				</involved_worker>'
+
+Element='<involved_worker entrydate="2013-06-16" svnr="9413161082" unique_feature="bitchy">
+					<first_name>Nathan</first_name>
+					<last_name>Finley</last_name>
+				</involved_worker>'
+
+Element='<involved_worker entrydate="2015-11-06" svnr="3774171085" unique_feature="generous">
+					<first_name>Michelle</first_name>
+					<last_name>Mcdaniel</last_name>
+				</involved_worker>'
+
+Element='<involved_worker entrydate="2018-04-10" svnr="9744221284" unique_feature="modest">
+					<first_name>Michelle</first_name>
+					<last_name>Castro</last_name>
+				</involved_worker>'
+
+Element='<involved_worker entrydate="2013-05-02" svnr="3616251276" unique_feature="cautious">
+					<first_name>Kelly</first_name>
+					<last_name>Noble</last_name>
+				</involved_worker>'

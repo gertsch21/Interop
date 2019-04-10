@@ -1,0 +1,5 @@
+get all worker-vornamen in warehouse 15
+
+Element='<firstname>Christopher</firstname>'
+Element='<firstname>Jose</firstname>'
+Element='<firstname>Austin</firstname>'

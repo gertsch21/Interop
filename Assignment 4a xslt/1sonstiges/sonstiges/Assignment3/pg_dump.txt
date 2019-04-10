@@ -1,0 +1,6 @@
+
+--pg_dump befehl auf notebook to raspberry pi at home
+"C:\Program Files\PostgreSQL\9.6\bin\pg_dump" -h gerhardscloud.ddns.net -U postgres -Fc interop > dump.sql
+
+"C:\Program Files\PostgreSQL\9.6\bin\createdb" -h localhost -U schmidt interop;
+"C:\Program Files\PostgreSQL\9.6\bin\pg_restore" -h localhost -U schmidt -W -C -d postgres dump.sql

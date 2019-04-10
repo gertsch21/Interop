@@ -1,0 +1,6441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Printers>
+	<Printer SerialNo="427428394" Type="SLS Printer">
+		<Manufacturer>Gecogip Inc</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="339179580" Type="SLS Printer">
+		<Manufacturer>Frafrogip AG</Manufacturer>
+		<Capacity>2400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="851843458" Type="DLP-printer">
+		<Manufacturer>Gecage Inc</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="412860">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="260745611" Type="SLS Printer">
+		<Manufacturer>Gegefra Inc</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="565729173" Type="DLP-printer">
+		<Manufacturer>Gipgimca Gmbh</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="564034482" Type="FDM printer">
+		<Manufacturer>Gegimco Inc</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1162847">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="669272481" Type="DLP-printer">
+		<Manufacturer>Sofrafor Gmbh</Manufacturer>
+		<Capacity>6900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="324178">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="755820">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="727733675" Type="DLP-printer">
+		<Manufacturer>Forgeco Gmbh</Manufacturer>
+		<Capacity>1800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="201709861" Type="SLS Printer">
+		<Manufacturer>Gegegec Inc</Manufacturer>
+		<Capacity>6000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="449837381" Type="FDM printer">
+		<Manufacturer>Gegese AG</Manufacturer>
+		<Capacity>2300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1074969">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="541893">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="783938891" Type="FDM printer">
+		<Manufacturer>Froforco AG</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="315741">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="226136547" Type="SLS Printer">
+		<Manufacturer>Secofra Gmbh</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="607308">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="53288106" Type="Material Jetting">
+		<Manufacturer>Gimgimfra Gmbh</Manufacturer>
+		<Capacity>5500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="523324573" Type="Stereolithography">
+		<Manufacturer>Gimcoco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>3800</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="990078">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="109377950" Type="Material Jetting">
+		<Manufacturer>Gesogec AG</Manufacturer>
+		<Capacity>5100</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="687785852" Type="Stereolithography">
+		<Manufacturer>Gipcaso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="888499">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="151369006" Type="FDM printer">
+		<Manufacturer>Cococo GmbH &amp; CoKG</Manufacturer>
+		<Capacity>500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="568887">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="797570">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="896904477" Type="Stereolithography">
+		<Manufacturer>Frocoge Inc</Manufacturer>
+		<Capacity>2400</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1104537">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="503283255" Type="Material Jetting">
+		<Manufacturer>Gipsegim Ltd</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="404404009" Type="SLS Printer">
+		<Manufacturer>Forcoco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="9731332" Type="Stereolithography">
+		<Manufacturer>Gacoca GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="645334">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="426902074" Type="SLS Printer">
+		<Manufacturer>Cococa Inc</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="526561">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="612468">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="64705074" Type="Stereolithography">
+		<Manufacturer>Cosose Gmbh</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1041376">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="526978">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="363877087" Type="DLP-printer">
+		<Manufacturer>Cofraco AG</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="729072352" Type="SLS Printer">
+		<Manufacturer>Sogeso Ltd</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1003047">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="899935136" Type="DLP-printer">
+		<Manufacturer>Cogege Ltd</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="759901">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="894033">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="67338482" Type="Material Jetting">
+		<Manufacturer>Sofroge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="142099179" Type="DLP-printer">
+		<Manufacturer>Gegegim Inc</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="704597">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="895074">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="776231628" Type="DLP-printer">
+		<Manufacturer>Segefra AG</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="172979269" Type="DLP-printer">
+		<Manufacturer>Gimgecfor AG</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="912930358" Type="FDM printer">
+		<Manufacturer>Socage AG</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1101840">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="986692">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="691554516" Type="SLS Printer">
+		<Manufacturer>Gimcofor Gmbh</Manufacturer>
+		<Capacity>6000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="462910">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="1228229">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="576169">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="1272391">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="674522">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="948011537" Type="Material Jetting">
+		<Manufacturer>Gimforco Inc</Manufacturer>
+		<Capacity>5100</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="800188018" Type="Stereolithography">
+		<Manufacturer>Gipsega Ltd</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="825983829" Type="FDM printer">
+		<Manufacturer>Gagecge Gmbh</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1015374">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="943615729" Type="Stereolithography">
+		<Manufacturer>Cageso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="759223">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="1146248">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="84072731" Type="Material Jetting">
+		<Manufacturer>Coforco Gmbh</Manufacturer>
+		<Capacity>900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1291405">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="789679">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="465315677" Type="FDM printer">
+		<Manufacturer>Cocoso AG</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="560900">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="137234451" Type="DLP-printer">
+		<Manufacturer>Forsoco Ltd</Manufacturer>
+		<Capacity>3200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="188333570" Type="SLS Printer">
+		<Manufacturer>Cogegip AG</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1224698">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="808024">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="358676">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="554509698" Type="DLP-printer">
+		<Manufacturer>Gipsoco Inc</Manufacturer>
+		<Capacity>3200</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="433943924" Type="Stereolithography">
+		<Manufacturer>Forforge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="440743096" Type="Material Jetting">
+		<Manufacturer>Gecafra Gmbh</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1146843">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="528963464" Type="SLS Printer">
+		<Manufacturer>Cogimco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="793263">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="700576409" Type="Stereolithography">
+		<Manufacturer>Cosogec Inc</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="485280">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="4266395" Type="Stereolithography">
+		<Manufacturer>Cosoge Ltd</Manufacturer>
+		<Capacity>3000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="749432">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="401077964" Type="FDM printer">
+		<Manufacturer>Cocaco AG</Manufacturer>
+		<Capacity>6100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="713214">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="1099884">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="446030583" Type="FDM printer">
+		<Manufacturer>Forgimge Ltd</Manufacturer>
+		<Capacity>4500</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1196398">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="931584884" Type="FDM printer">
+		<Manufacturer>Fragimco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="270571063" Type="FDM printer">
+		<Manufacturer>Cagimfra Ltd</Manufacturer>
+		<Capacity>3700</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="781924">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="1020732">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="184264547" Type="Material Jetting">
+		<Manufacturer>Gecgagim Inc</Manufacturer>
+		<Capacity>3000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="988598">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="1170132">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="101104900" Type="Stereolithography">
+		<Manufacturer>Cofrogim Gmbh</Manufacturer>
+		<Capacity>800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="326312">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="367221532" Type="FDM printer">
+		<Manufacturer>Secogim Inc</Manufacturer>
+		<Capacity>1800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="710466">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="304171000" Type="Stereolithography">
+		<Manufacturer>Cocage GmbH &amp; CoKG</Manufacturer>
+		<Capacity>900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="487677">
+				<Name>Part9</Name>
+			</Part>
+			<Part SerialNo="1215596">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="832602">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="473882">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="946987439" Type="SLS Printer">
+		<Manufacturer>Cococa AG</Manufacturer>
+		<Capacity>4800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="992656">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="852730">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="126053678" Type="FDM printer">
+		<Manufacturer>Socoso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6800</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1145653">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="736109959" Type="FDM printer">
+		<Manufacturer>Cagefra AG</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1246468">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="649288694" Type="Material Jetting">
+		<Manufacturer>Geccafor Inc</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="734252024" Type="FDM printer">
+		<Manufacturer>Forsoge Gmbh</Manufacturer>
+		<Capacity>3600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1207354">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="507499198" Type="Material Jetting">
+		<Manufacturer>Gacofro Gmbh</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="555315120" Type="Stereolithography">
+		<Manufacturer>Gimgecco AG</Manufacturer>
+		<Capacity>3800</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1296686">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="918550639" Type="Stereolithography">
+		<Manufacturer>Cogege Inc</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="193798979" Type="FDM printer">
+		<Manufacturer>Gecagec GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="967636">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="383456">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="942798">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="1229641">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="190839116" Type="Material Jetting">
+		<Manufacturer>Forgimco Ltd</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="174544800" Type="Stereolithography">
+		<Manufacturer>Cacogip Gmbh</Manufacturer>
+		<Capacity>2300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1098997">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="1234638">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="246055892" Type="Material Jetting">
+		<Manufacturer>Cococo Inc</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="794841699" Type="DLP-printer">
+		<Manufacturer>Cogeco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="808481">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="810799499" Type="Stereolithography">
+		<Manufacturer>Cagipge Ltd</Manufacturer>
+		<Capacity>2900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="589696879" Type="Stereolithography">
+		<Manufacturer>Gecogim AG</Manufacturer>
+		<Capacity>3700</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="422475444" Type="DLP-printer">
+		<Manufacturer>Cogegec Inc</Manufacturer>
+		<Capacity>1200</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="354361">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="69354562" Type="DLP-printer">
+		<Manufacturer>Gecofra Inc</Manufacturer>
+		<Capacity>2000</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="488346">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="962935">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="2975935" Type="SLS Printer">
+		<Manufacturer>Gegefra AG</Manufacturer>
+		<Capacity>3800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="870180877" Type="FDM printer">
+		<Manufacturer>Gimsege AG</Manufacturer>
+		<Capacity>3600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1170494">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="497991801" Type="Stereolithography">
+		<Manufacturer>Cacoco AG</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="969003">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="545815847" Type="Stereolithography">
+		<Manufacturer>Gecgeco AG</Manufacturer>
+		<Capacity>6700</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="895606889" Type="Material Jetting">
+		<Manufacturer>Cagipse AG</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="693896">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="320807">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="204281814" Type="Stereolithography">
+		<Manufacturer>Cageco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="863260">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="919059">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="837975026" Type="Material Jetting">
+		<Manufacturer>Gesege Gmbh</Manufacturer>
+		<Capacity>5800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="420738">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="255162447" Type="DLP-printer">
+		<Manufacturer>Gegimfro AG</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1029118">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="778544582" Type="Stereolithography">
+		<Manufacturer>Forgege GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="203935585" Type="Material Jetting">
+		<Manufacturer>Geforfor Inc</Manufacturer>
+		<Capacity>3000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1108507">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="15020710" Type="Material Jetting">
+		<Manufacturer>Gegeso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>3400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="195987299" Type="FDM printer">
+		<Manufacturer>Forcoco Inc</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="145224751" Type="FDM printer">
+		<Manufacturer>Cosoco AG</Manufacturer>
+		<Capacity>6800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="910433">
+				<Name>PartB</Name>
+			</Part>
+			<Part SerialNo="492036">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="599621186" Type="Material Jetting">
+		<Manufacturer>Forgeso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="682139">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="425225844" Type="DLP-printer">
+		<Manufacturer>Cafrafor Gmbh</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="667661">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="88229899" Type="SLS Printer">
+		<Manufacturer>Segimga AG</Manufacturer>
+		<Capacity>2600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="326690889" Type="Material Jetting">
+		<Manufacturer>Frococo Gmbh</Manufacturer>
+		<Capacity>6400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="884580">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="744921307" Type="FDM printer">
+		<Manufacturer>Gesoca Inc</Manufacturer>
+		<Capacity>4500</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="648777">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="1198200">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="1050463">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="739978262" Type="Stereolithography">
+		<Manufacturer>Cosoge AG</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1152676">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="679037">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="209937870" Type="FDM printer">
+		<Manufacturer>Cogimge Inc</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="504197">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="513904320" Type="FDM printer">
+		<Manufacturer>Fragimca AG</Manufacturer>
+		<Capacity>5100</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="540818334" Type="SLS Printer">
+		<Manufacturer>Cogimso AG</Manufacturer>
+		<Capacity>2400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="651527">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="445323782" Type="SLS Printer">
+		<Manufacturer>Fracoso Inc</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="470294">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="511262">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="304046456" Type="FDM printer">
+		<Manufacturer>Fracoso Gmbh</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="652233">
+				<Name>PartB</Name>
+			</Part>
+			<Part SerialNo="1162022">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="793546210" Type="DLP-printer">
+		<Manufacturer>Soforso Inc</Manufacturer>
+		<Capacity>3300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="781807">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="499701412" Type="DLP-printer">
+		<Manufacturer>Gegipso Inc</Manufacturer>
+		<Capacity>4800</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="928384988" Type="Stereolithography">
+		<Manufacturer>Gipcogim AG</Manufacturer>
+		<Capacity>1800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="783507312" Type="Stereolithography">
+		<Manufacturer>Coforgim GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="939189270" Type="FDM printer">
+		<Manufacturer>Cogega Gmbh</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="983461">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="891575646" Type="FDM printer">
+		<Manufacturer>Sosoge Gmbh</Manufacturer>
+		<Capacity>5100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="597580">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="575573">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="366105681" Type="FDM printer">
+		<Manufacturer>Cogaso Inc</Manufacturer>
+		<Capacity>2400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="282899755" Type="SLS Printer">
+		<Manufacturer>Segeco Inc</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="888433092" Type="FDM printer">
+		<Manufacturer>Gesoco AG</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="497551">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="345518251" Type="DLP-printer">
+		<Manufacturer>Frocoge Gmbh</Manufacturer>
+		<Capacity>2600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="504283">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="920319707" Type="Stereolithography">
+		<Manufacturer>Forforgec Ltd</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="580504">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="39242731" Type="FDM printer">
+		<Manufacturer>Gesegec AG</Manufacturer>
+		<Capacity>4600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1016425">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="466968">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="319133960" Type="Stereolithography">
+		<Manufacturer>Gimgafro AG</Manufacturer>
+		<Capacity>4700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="849403652" Type="Stereolithography">
+		<Manufacturer>Cogecge AG</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="802064692" Type="DLP-printer">
+		<Manufacturer>Coforfro Inc</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1296711">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="404397753" Type="FDM printer">
+		<Manufacturer>Geccagip GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="463731">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="898719409" Type="Material Jetting">
+		<Manufacturer>Gagecco Gmbh</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1245459">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="475298">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="1071262">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="186887616" Type="SLS Printer">
+		<Manufacturer>Cacofor AG</Manufacturer>
+		<Capacity>6900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="67345122" Type="DLP-printer">
+		<Manufacturer>Forgimge Ltd</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1221909">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="770435499" Type="SLS Printer">
+		<Manufacturer>Cocase Ltd</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="801137">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="822275">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="534277793" Type="Material Jetting">
+		<Manufacturer>Cogege Inc</Manufacturer>
+		<Capacity>1900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="787480">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="895769812" Type="Stereolithography">
+		<Manufacturer>Frososo Gmbh</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="709551173" Type="Material Jetting">
+		<Manufacturer>Gafrase AG</Manufacturer>
+		<Capacity>3400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="584656">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="398894191" Type="SLS Printer">
+		<Manufacturer>Gecofor AG</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="447935">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="854659">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="515391">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="160830275" Type="FDM printer">
+		<Manufacturer>Cogefro Inc</Manufacturer>
+		<Capacity>2200</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="420814">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="671459">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="722801">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="173350981" Type="DLP-printer">
+		<Manufacturer>Forgecgec Ltd</Manufacturer>
+		<Capacity>2000</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="488915">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="929704060" Type="Stereolithography">
+		<Manufacturer>Cocofor AG</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="378229">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="760593413" Type="SLS Printer">
+		<Manufacturer>Coforco AG</Manufacturer>
+		<Capacity>2400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1266587">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="867706569" Type="Stereolithography">
+		<Manufacturer>Gimseco Inc</Manufacturer>
+		<Capacity>4700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="505535">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="274444884" Type="FDM printer">
+		<Manufacturer>Forcoco AG</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="501030">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="1126843">
+				<Name>Part9</Name>
+			</Part>
+			<Part SerialNo="540973">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="892506">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="582190">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="740515787" Type="FDM printer">
+		<Manufacturer>Cofroca Gmbh</Manufacturer>
+		<Capacity>6800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1155911">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="825533546" Type="DLP-printer">
+		<Manufacturer>Cogafor Inc</Manufacturer>
+		<Capacity>6700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="356235742" Type="Stereolithography">
+		<Manufacturer>Sogecgec AG</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="853370933" Type="Stereolithography">
+		<Manufacturer>Gegafra AG</Manufacturer>
+		<Capacity>2700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="685704">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="803711425" Type="Material Jetting">
+		<Manufacturer>Gacaga Inc</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1044219">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="670418979" Type="DLP-printer">
+		<Manufacturer>Cocofra Ltd</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="804451">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="987727457" Type="SLS Printer">
+		<Manufacturer>Cocose GmbH &amp; CoKG</Manufacturer>
+		<Capacity>7200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="468359">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="1028988">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="14889037" Type="Material Jetting">
+		<Manufacturer>Gimcoso Gmbh</Manufacturer>
+		<Capacity>6700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="984672">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="81620437" Type="Stereolithography">
+		<Manufacturer>Cogegim AG</Manufacturer>
+		<Capacity>500</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="495193707" Type="FDM printer">
+		<Manufacturer>Segipfra Ltd</Manufacturer>
+		<Capacity>7000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="617410">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="412020">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="404627821" Type="Material Jetting">
+		<Manufacturer>Gegipse Ltd</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="453377">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="776972930" Type="Stereolithography">
+		<Manufacturer>Gegegim Gmbh</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="785466853" Type="FDM printer">
+		<Manufacturer>Casoco Gmbh</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1244861">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="730521">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="343375823" Type="Stereolithography">
+		<Manufacturer>Gefrose Gmbh</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="176588771" Type="Stereolithography">
+		<Manufacturer>Coseso AG</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="527903">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="673664">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="688506711" Type="DLP-printer">
+		<Manufacturer>Frofragip Ltd</Manufacturer>
+		<Capacity>800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="455052">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="493206928" Type="Material Jetting">
+		<Manufacturer>Gefrofor GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4500</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="759516293" Type="FDM printer">
+		<Manufacturer>Geforge Ltd</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="388718">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="788720216" Type="Stereolithography">
+		<Manufacturer>Gesese Ltd</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1107047">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="728578598" Type="DLP-printer">
+		<Manufacturer>Gipcagim AG</Manufacturer>
+		<Capacity>4000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="866787">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="27944747" Type="SLS Printer">
+		<Manufacturer>Secafor GmbH &amp; CoKG</Manufacturer>
+		<Capacity>700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="463935">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="810308">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="991827166" Type="Material Jetting">
+		<Manufacturer>Cogecge Inc</Manufacturer>
+		<Capacity>5100</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1146898">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="1137585">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="692190">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="901889412" Type="DLP-printer">
+		<Manufacturer>Segefor GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="352715034" Type="FDM printer">
+		<Manufacturer>Gegagec AG</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="13465360" Type="DLP-printer">
+		<Manufacturer>Gipgeco AG</Manufacturer>
+		<Capacity>1200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1277867">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="848991608" Type="Stereolithography">
+		<Manufacturer>Gimcofro Inc</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="746892">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="764937663" Type="DLP-printer">
+		<Manufacturer>Socage Gmbh</Manufacturer>
+		<Capacity>6100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1291321">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="682598623" Type="DLP-printer">
+		<Manufacturer>Gasege GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="406583">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="81847736" Type="FDM printer">
+		<Manufacturer>Cogaga Inc</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="508438">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="292141679" Type="DLP-printer">
+		<Manufacturer>Cogecge Gmbh</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="357060">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="801351981" Type="Stereolithography">
+		<Manufacturer>Cogecco Ltd</Manufacturer>
+		<Capacity>3300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="913966">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="688554">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="97931225" Type="Stereolithography">
+		<Manufacturer>Forgaso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="375429">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="302932940" Type="DLP-printer">
+		<Manufacturer>Gipcogim AG</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="810462426" Type="SLS Printer">
+		<Manufacturer>Cogegip Inc</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="555869">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="112792457" Type="DLP-printer">
+		<Manufacturer>Casoge Gmbh</Manufacturer>
+		<Capacity>6700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="862136680" Type="SLS Printer">
+		<Manufacturer>Gegimge Inc</Manufacturer>
+		<Capacity>5200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="866496">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="582577301" Type="SLS Printer">
+		<Manufacturer>Cosoge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1292370">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="757400397" Type="Stereolithography">
+		<Manufacturer>Cafrafor Ltd</Manufacturer>
+		<Capacity>2000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="163850572" Type="Stereolithography">
+		<Manufacturer>Gipcofro Ltd</Manufacturer>
+		<Capacity>800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="68334151" Type="FDM printer">
+		<Manufacturer>Cogeco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>3900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="398995">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="684160">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="721588267" Type="FDM printer">
+		<Manufacturer>Cocage AG</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1088850">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="106133878" Type="DLP-printer">
+		<Manufacturer>Forfroge Gmbh</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="745849">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="552622269" Type="Material Jetting">
+		<Manufacturer>Seforgec Inc</Manufacturer>
+		<Capacity>2000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="467992">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="57482231" Type="Material Jetting">
+		<Manufacturer>Gecoco Ltd</Manufacturer>
+		<Capacity>4600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1048662">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="1094321">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="336888183" Type="DLP-printer">
+		<Manufacturer>Cogafor Ltd</Manufacturer>
+		<Capacity>5800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="614304">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="693789517" Type="Material Jetting">
+		<Manufacturer>Cofrofro AG</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="50705293" Type="Material Jetting">
+		<Manufacturer>Geforso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="821699">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="124751971" Type="DLP-printer">
+		<Manufacturer>Segege Ltd</Manufacturer>
+		<Capacity>6100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="462704879" Type="SLS Printer">
+		<Manufacturer>Gegimfra Gmbh</Manufacturer>
+		<Capacity>7000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="757965728" Type="FDM printer">
+		<Manufacturer>Seforca GmbH &amp; CoKG</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="760928816" Type="FDM printer">
+		<Manufacturer>Seforge Inc</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="694086">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="387082">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="880592025" Type="Stereolithography">
+		<Manufacturer>Gecogip GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="615568">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="83980529" Type="SLS Printer">
+		<Manufacturer>Gecoco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>3200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="927203815" Type="FDM printer">
+		<Manufacturer>Gecaco AG</Manufacturer>
+		<Capacity>1200</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="559570">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="109174662" Type="Stereolithography">
+		<Manufacturer>Seforco Inc</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="665229">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="1074548">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="403746">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="654282">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="103915130" Type="Stereolithography">
+		<Manufacturer>Gecoco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="384057">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="644507">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="754859915" Type="FDM printer">
+		<Manufacturer>Secagim Ltd</Manufacturer>
+		<Capacity>3800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="816753">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="251263578" Type="SLS Printer">
+		<Manufacturer>Gimcogip AG</Manufacturer>
+		<Capacity>2000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="161155222" Type="SLS Printer">
+		<Manufacturer>Forgeso Inc</Manufacturer>
+		<Capacity>4800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="218990620" Type="Stereolithography">
+		<Manufacturer>Casoco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="973023">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="583708">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="225338773" Type="SLS Printer">
+		<Manufacturer>Gagecse Inc</Manufacturer>
+		<Capacity>900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="517698">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="746552">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="1058846">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="755689064" Type="Stereolithography">
+		<Manufacturer>Cogegec Inc</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="718854416" Type="SLS Printer">
+		<Manufacturer>Cocofra GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="62688391" Type="Stereolithography">
+		<Manufacturer>Cofraca AG</Manufacturer>
+		<Capacity>3300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="918042">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="830378">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="1170641">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="779088787" Type="Material Jetting">
+		<Manufacturer>Gefrage Ltd</Manufacturer>
+		<Capacity>6400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="928806">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="987563178" Type="SLS Printer">
+		<Manufacturer>Coseco Inc</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="784357538" Type="Stereolithography">
+		<Manufacturer>Sosoge Gmbh</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="693018495" Type="Material Jetting">
+		<Manufacturer>Gesose Gmbh</Manufacturer>
+		<Capacity>4600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="100401721" Type="DLP-printer">
+		<Manufacturer>Segegip Ltd</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="385358">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="273404713" Type="FDM printer">
+		<Manufacturer>Fragegip Inc</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="740907">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="738277385" Type="DLP-printer">
+		<Manufacturer>Cococo Inc</Manufacturer>
+		<Capacity>3700</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1175249">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="928843">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="789390721" Type="Stereolithography">
+		<Manufacturer>Secoco AG</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="573815">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="776408">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="348682">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="491681480" Type="Stereolithography">
+		<Manufacturer>Frosefra Gmbh</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="431386123" Type="Stereolithography">
+		<Manufacturer>Geseca AG</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1001032">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="415788206" Type="SLS Printer">
+		<Manufacturer>Segipco Ltd</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="963211446" Type="Stereolithography">
+		<Manufacturer>Gegipco AG</Manufacturer>
+		<Capacity>2200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="691304245" Type="SLS Printer">
+		<Manufacturer>Gipfroga Inc</Manufacturer>
+		<Capacity>6400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1160172">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="1274884">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="476999115" Type="Stereolithography">
+		<Manufacturer>Gipcoga Gmbh</Manufacturer>
+		<Capacity>4700</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="455118">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="591640">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="1181459">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="366774039" Type="SLS Printer">
+		<Manufacturer>Gimcoge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="307939">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="768348">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="891559862" Type="SLS Printer">
+		<Manufacturer>Forgecse GmbH &amp; CoKG</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="472059944" Type="Material Jetting">
+		<Manufacturer>Cagimco Gmbh</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="654517">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="28903172" Type="DLP-printer">
+		<Manufacturer>Frasefra Inc</Manufacturer>
+		<Capacity>800</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="253015467" Type="Stereolithography">
+		<Manufacturer>Coseca AG</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="547008">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="381422">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="719753993" Type="Stereolithography">
+		<Manufacturer>Socoge Ltd</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="587069540" Type="SLS Printer">
+		<Manufacturer>Geseco AG</Manufacturer>
+		<Capacity>3700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="333179416" Type="DLP-printer">
+		<Manufacturer>Geccoge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>3400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="630771">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="471360752" Type="FDM printer">
+		<Manufacturer>Coforge AG</Manufacturer>
+		<Capacity>3400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="716940">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="1058440">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="104047135" Type="FDM printer">
+		<Manufacturer>Caforco Inc</Manufacturer>
+		<Capacity>5200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="518421">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="377964">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="705479329" Type="DLP-printer">
+		<Manufacturer>Gimfragec GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1200</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1103462">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="1072001">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="330181456" Type="Stereolithography">
+		<Manufacturer>Cogegip Inc</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="438680">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="546411">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="464906355" Type="SLS Printer">
+		<Manufacturer>Gipgeso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="704046">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="663118428" Type="DLP-printer">
+		<Manufacturer>Cogecse Ltd</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="444389">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="526134433" Type="SLS Printer">
+		<Manufacturer>Forforgec Inc</Manufacturer>
+		<Capacity>2500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="760286">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="443290373" Type="FDM printer">
+		<Manufacturer>Geforse Gmbh</Manufacturer>
+		<Capacity>4200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="952865913" Type="SLS Printer">
+		<Manufacturer>Segipge Gmbh</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="486404">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="719005649" Type="DLP-printer">
+		<Manufacturer>Forgimca Inc</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="125263121" Type="SLS Printer">
+		<Manufacturer>Sogaca Gmbh</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="895716">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="1134587">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="302542">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="281031221" Type="DLP-printer">
+		<Manufacturer>Gesege Gmbh</Manufacturer>
+		<Capacity>6900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="140501185" Type="DLP-printer">
+		<Manufacturer>Gegefor AG</Manufacturer>
+		<Capacity>5800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="114703284" Type="SLS Printer">
+		<Manufacturer>Gacogip Ltd</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="487830">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="391329">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="527016546" Type="FDM printer">
+		<Manufacturer>Cocoge Inc</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="463826">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="918042908" Type="DLP-printer">
+		<Manufacturer>Gipcoco Inc</Manufacturer>
+		<Capacity>1200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="822686">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="130115521" Type="Stereolithography">
+		<Manufacturer>Segimco Ltd</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="88705373" Type="Stereolithography">
+		<Manufacturer>Gipsofor Ltd</Manufacturer>
+		<Capacity>1200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="812266">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="409232006" Type="Stereolithography">
+		<Manufacturer>Gagege Inc</Manufacturer>
+		<Capacity>7200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="828319">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="364498419" Type="Material Jetting">
+		<Manufacturer>Segese GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="545622">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="343969">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="875423">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="335104960" Type="SLS Printer">
+		<Manufacturer>Forcafro Inc</Manufacturer>
+		<Capacity>3800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="754657">
+				<Name>Part9</Name>
+			</Part>
+			<Part SerialNo="311576">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="955997528" Type="SLS Printer">
+		<Manufacturer>Forgeco Ltd</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="330983999" Type="Stereolithography">
+		<Manufacturer>Gesefro Gmbh</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1060243">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="747968081" Type="Material Jetting">
+		<Manufacturer>Cocofra AG</Manufacturer>
+		<Capacity>7200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1042744">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="845983747" Type="SLS Printer">
+		<Manufacturer>Froforco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1129731">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="365744215" Type="FDM printer">
+		<Manufacturer>Cacoge Ltd</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="763340">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="808200">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="686427">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="965962025" Type="DLP-printer">
+		<Manufacturer>Soseco AG</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="436368464" Type="Material Jetting">
+		<Manufacturer>Cacoge Ltd</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="710096">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="658694">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="595058814" Type="DLP-printer">
+		<Manufacturer>Cococo AG</Manufacturer>
+		<Capacity>800</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="370618030" Type="FDM printer">
+		<Manufacturer>Cagimco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="790982044" Type="SLS Printer">
+		<Manufacturer>Sofraca Gmbh</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="679073">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="528713">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="425471">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="824554168" Type="FDM printer">
+		<Manufacturer>Cacoge Inc</Manufacturer>
+		<Capacity>6500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="551785">
+				<Name>PartB</Name>
+			</Part>
+			<Part SerialNo="882663">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="267900579" Type="SLS Printer">
+		<Manufacturer>Gimgagec Inc</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="567957258" Type="SLS Printer">
+		<Manufacturer>Coforgip AG</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="107507775" Type="SLS Printer">
+		<Manufacturer>Gecofro Gmbh</Manufacturer>
+		<Capacity>6800</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="994978163" Type="DLP-printer">
+		<Manufacturer>Segimco AG</Manufacturer>
+		<Capacity>800</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="595578">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="118424967" Type="Stereolithography">
+		<Manufacturer>Frafrose Ltd</Manufacturer>
+		<Capacity>6500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="927727878" Type="FDM printer">
+		<Manufacturer>Sogege GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="359732">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="645527931" Type="FDM printer">
+		<Manufacturer>Cocoge AG</Manufacturer>
+		<Capacity>1900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1227306">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="300945">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="931573">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="319792162" Type="Stereolithography">
+		<Manufacturer>Gefrogip Gmbh</Manufacturer>
+		<Capacity>1200</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="663119">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="152721441" Type="SLS Printer">
+		<Manufacturer>Gecofor GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="719566494" Type="Stereolithography">
+		<Manufacturer>Gecogim Gmbh</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="764752">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="609278">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="984216884" Type="Stereolithography">
+		<Manufacturer>Caforfra Gmbh</Manufacturer>
+		<Capacity>2300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="878934">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="866256">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="611787172" Type="Material Jetting">
+		<Manufacturer>Frafrofra GmbH &amp; CoKG</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="579004">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="372849">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="226599562" Type="DLP-printer">
+		<Manufacturer>Coseso Inc</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1109199">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="916295">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="1169855">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="942647">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="375493168" Type="Stereolithography">
+		<Manufacturer>Cogimfra AG</Manufacturer>
+		<Capacity>700</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="807169">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="339288677" Type="Stereolithography">
+		<Manufacturer>Sogese AG</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1188316">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="763762">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="610920">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="779653073" Type="SLS Printer">
+		<Manufacturer>Forgegip GmbH &amp; CoKG</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="132542396" Type="FDM printer">
+		<Manufacturer>Cogipse Inc</Manufacturer>
+		<Capacity>3900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="343038568" Type="Material Jetting">
+		<Manufacturer>Cofrofro Ltd</Manufacturer>
+		<Capacity>6000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1175966">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="976413926" Type="SLS Printer">
+		<Manufacturer>Forgecco AG</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="40657564" Type="Material Jetting">
+		<Manufacturer>Gecagim Gmbh</Manufacturer>
+		<Capacity>6800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1039900">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="50978303" Type="DLP-printer">
+		<Manufacturer>Gesese GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4800</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="979347">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="867317969" Type="SLS Printer">
+		<Manufacturer>Secofra Inc</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="721728143" Type="Stereolithography">
+		<Manufacturer>Gegeco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="829024">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="982593555" Type="DLP-printer">
+		<Manufacturer>Coforgim AG</Manufacturer>
+		<Capacity>6100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="823448">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="127108859" Type="Stereolithography">
+		<Manufacturer>Socoge Ltd</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="147260723" Type="SLS Printer">
+		<Manufacturer>Forgefor AG</Manufacturer>
+		<Capacity>3800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1269117">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="947721">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="241126451" Type="SLS Printer">
+		<Manufacturer>Gecoge Inc</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1095808">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="583512">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="181782922" Type="SLS Printer">
+		<Manufacturer>Gegese GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1195723">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="104696685" Type="Stereolithography">
+		<Manufacturer>Gimgipge Inc</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1252643">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="666405814" Type="SLS Printer">
+		<Manufacturer>Gimcoge Ltd</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="402746">
+				<Name>PartB</Name>
+			</Part>
+			<Part SerialNo="399239">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="762094330" Type="Stereolithography">
+		<Manufacturer>Gasoco AG</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="693373">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="628030675" Type="SLS Printer">
+		<Manufacturer>Gimcafro Ltd</Manufacturer>
+		<Capacity>3400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="934976">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="436814355" Type="FDM printer">
+		<Manufacturer>Cogecco AG</Manufacturer>
+		<Capacity>4500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="438143">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="53885215" Type="FDM printer">
+		<Manufacturer>Gegimse Ltd</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="755241">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="571861671" Type="Stereolithography">
+		<Manufacturer>Gegeco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="745955698" Type="Stereolithography">
+		<Manufacturer>Cococo Inc</Manufacturer>
+		<Capacity>500</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="643605">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="393286">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="716786895" Type="FDM printer">
+		<Manufacturer>Socaco Inc</Manufacturer>
+		<Capacity>800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="556981938" Type="Material Jetting">
+		<Manufacturer>Forforfra Inc</Manufacturer>
+		<Capacity>6700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="464097">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="335422">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="43456505" Type="DLP-printer">
+		<Manufacturer>Coforgim AG</Manufacturer>
+		<Capacity>1900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="934588638" Type="FDM printer">
+		<Manufacturer>Soforco AG</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="994271">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="696603810" Type="Material Jetting">
+		<Manufacturer>Cococa GmbH &amp; CoKG</Manufacturer>
+		<Capacity>900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="457136">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="373062279" Type="Stereolithography">
+		<Manufacturer>Gimgimfor Inc</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="421015">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="944846">
+				<Name>PartB</Name>
+			</Part>
+			<Part SerialNo="604947">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="657571">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="801375740" Type="DLP-printer">
+		<Manufacturer>Forsegec AG</Manufacturer>
+		<Capacity>5200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="848479">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="178401129" Type="SLS Printer">
+		<Manufacturer>Casege Inc</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1151662">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="1055643">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="389333">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="441242875" Type="DLP-printer">
+		<Manufacturer>Forcagip Inc</Manufacturer>
+		<Capacity>4500</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="780900630" Type="Stereolithography">
+		<Manufacturer>Gegeca AG</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="715498299" Type="Material Jetting">
+		<Manufacturer>Geforge Inc</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="925496">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="215069228" Type="Material Jetting">
+		<Manufacturer>Coforfor Ltd</Manufacturer>
+		<Capacity>6400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1202875">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="563767080" Type="FDM printer">
+		<Manufacturer>Frogefor Inc</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1122909">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="818362">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="1033223">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="978345">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="830629285" Type="SLS Printer">
+		<Manufacturer>Segipga Gmbh</Manufacturer>
+		<Capacity>5100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="73582590" Type="DLP-printer">
+		<Manufacturer>Cosegip Gmbh</Manufacturer>
+		<Capacity>6000</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="681212">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="395732">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="269891038" Type="SLS Printer">
+		<Manufacturer>Gecoge AG</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1249110">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="444363193" Type="SLS Printer">
+		<Manufacturer>Sogimge AG</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1027599">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="715679">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="881273936" Type="SLS Printer">
+		<Manufacturer>Gecgege Gmbh</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="518371">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="593408719" Type="SLS Printer">
+		<Manufacturer>Gegege Ltd</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="54344246" Type="Stereolithography">
+		<Manufacturer>Frasoca AG</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1242252">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="965755635" Type="SLS Printer">
+		<Manufacturer>Geccoso Gmbh</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="566965">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="968286">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="417732">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="241178627" Type="Stereolithography">
+		<Manufacturer>Cogeco AG</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="5479895" Type="FDM printer">
+		<Manufacturer>Gesofro AG</Manufacturer>
+		<Capacity>6700</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="464239">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="955902">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="225729439" Type="DLP-printer">
+		<Manufacturer>Gegegec Gmbh</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="817695856" Type="FDM printer">
+		<Manufacturer>Fragipse Inc</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="372831">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="953039">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="621715369" Type="FDM printer">
+		<Manufacturer>Gegecfra AG</Manufacturer>
+		<Capacity>6600</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="864206">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="381642451" Type="SLS Printer">
+		<Manufacturer>Gecogip Inc</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1239383">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="388627">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="630607868" Type="Stereolithography">
+		<Manufacturer>Geforfor Gmbh</Manufacturer>
+		<Capacity>3700</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="113719459" Type="SLS Printer">
+		<Manufacturer>Gipcoco AG</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="84133582" Type="FDM printer">
+		<Manufacturer>Forgipge Ltd</Manufacturer>
+		<Capacity>4200</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="868706">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="1278133">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="774697416" Type="Stereolithography">
+		<Manufacturer>Forgegec Ltd</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="335230680" Type="DLP-printer">
+		<Manufacturer>Coforco Inc</Manufacturer>
+		<Capacity>6700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="344676230" Type="SLS Printer">
+		<Manufacturer>Gipcoco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1230986">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="365794671" Type="DLP-printer">
+		<Manufacturer>Cogagec GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1092319">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="886955516" Type="Material Jetting">
+		<Manufacturer>Gesege Gmbh</Manufacturer>
+		<Capacity>5200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="655887">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="437495961" Type="SLS Printer">
+		<Manufacturer>Gecgipge Gmbh</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1059912">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="92660386" Type="Stereolithography">
+		<Manufacturer>Frosege GmbH &amp; CoKG</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="9197891" Type="SLS Printer">
+		<Manufacturer>Gimseso Gmbh</Manufacturer>
+		<Capacity>3900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="898524">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="420358998" Type="Material Jetting">
+		<Manufacturer>Gesoge Inc</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="398288910" Type="Stereolithography">
+		<Manufacturer>Frocagim GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="585565350" Type="Material Jetting">
+		<Manufacturer>Secogim Gmbh</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="136233114" Type="FDM printer">
+		<Manufacturer>Sogecco Ltd</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="276711868" Type="Material Jetting">
+		<Manufacturer>Sesegim AG</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="26397523" Type="Stereolithography">
+		<Manufacturer>Gegegim GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4000</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1162099">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="82162198" Type="SLS Printer">
+		<Manufacturer>Frogipco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="342182">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="412697799" Type="Stereolithography">
+		<Manufacturer>Forgege Ltd</Manufacturer>
+		<Capacity>4000</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="571136">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="436201230" Type="Stereolithography">
+		<Manufacturer>Cocoge Gmbh</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1042776">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="152685880" Type="DLP-printer">
+		<Manufacturer>Gagimso AG</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="132609583" Type="FDM printer">
+		<Manufacturer>Gefraca Gmbh</Manufacturer>
+		<Capacity>2000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="874238">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="579329518" Type="SLS Printer">
+		<Manufacturer>Gipgimso Ltd</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="320903663" Type="Material Jetting">
+		<Manufacturer>Frocogec Inc</Manufacturer>
+		<Capacity>900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="422529900" Type="Stereolithography">
+		<Manufacturer>Gasese GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="531388">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="559513">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="914499">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="158523612" Type="Stereolithography">
+		<Manufacturer>Gasoso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="499184616" Type="DLP-printer">
+		<Manufacturer>Cogeca Ltd</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="767149">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="659290422" Type="Stereolithography">
+		<Manufacturer>Segipfor Inc</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="860968467" Type="DLP-printer">
+		<Manufacturer>Frageso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>3400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1197015">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="527166508" Type="Stereolithography">
+		<Manufacturer>Froforse Ltd</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="427221">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="444166857" Type="SLS Printer">
+		<Manufacturer>Fracofor AG</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="369213538" Type="Material Jetting">
+		<Manufacturer>Soforge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="797787">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="157548594" Type="FDM printer">
+		<Manufacturer>Sesoco AG</Manufacturer>
+		<Capacity>4600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="664155067" Type="FDM printer">
+		<Manufacturer>Forfrofra Gmbh</Manufacturer>
+		<Capacity>2400</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="950343100" Type="FDM printer">
+		<Manufacturer>Gimcoco Gmbh</Manufacturer>
+		<Capacity>2300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1167029">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="83147887" Type="Stereolithography">
+		<Manufacturer>Cogimco Inc</Manufacturer>
+		<Capacity>6600</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="415367232" Type="DLP-printer">
+		<Manufacturer>Gipsofra Ltd</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="342334177" Type="Material Jetting">
+		<Manufacturer>Cogeco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="895389">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="895516">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="635298432" Type="FDM printer">
+		<Manufacturer>Soseso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="396402692" Type="Material Jetting">
+		<Manufacturer>Secoca GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="991939">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="450387250" Type="Stereolithography">
+		<Manufacturer>Fragimca Gmbh</Manufacturer>
+		<Capacity>4700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="805752">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="474057">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="922874459" Type="DLP-printer">
+		<Manufacturer>Cacoco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="934460">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="593178648" Type="FDM printer">
+		<Manufacturer>Cocose Inc</Manufacturer>
+		<Capacity>5500</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1284044">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="764292485" Type="Stereolithography">
+		<Manufacturer>Sosogec Ltd</Manufacturer>
+		<Capacity>800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1000267">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="918785659" Type="SLS Printer">
+		<Manufacturer>Gegefor Inc</Manufacturer>
+		<Capacity>6600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="841910056" Type="SLS Printer">
+		<Manufacturer>Gegeso Inc</Manufacturer>
+		<Capacity>4400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="628448">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="115263255" Type="Stereolithography">
+		<Manufacturer>Segimgim Inc</Manufacturer>
+		<Capacity>5800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="350142">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="712962">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="627771">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="609871227" Type="FDM printer">
+		<Manufacturer>Seforco Ltd</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="507185">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="213204359" Type="DLP-printer">
+		<Manufacturer>Cococo Ltd</Manufacturer>
+		<Capacity>4000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1136437">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="1186778">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="351867337" Type="Stereolithography">
+		<Manufacturer>Cogipga GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="435744">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="712482490" Type="FDM printer">
+		<Manufacturer>Forforgim GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="413237">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="1873149" Type="Material Jetting">
+		<Manufacturer>Sogecso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="613178">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="651907491" Type="Stereolithography">
+		<Manufacturer>Gimforfra Gmbh</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="693990473" Type="FDM printer">
+		<Manufacturer>Cocofor Ltd</Manufacturer>
+		<Capacity>3600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="179845656" Type="SLS Printer">
+		<Manufacturer>Cogecca AG</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="369579603" Type="SLS Printer">
+		<Manufacturer>Frasoca GmbH &amp; CoKG</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1010517">
+				<Name>PartB</Name>
+			</Part>
+			<Part SerialNo="397032">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="700394">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="746769">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="402897108" Type="FDM printer">
+		<Manufacturer>Forgeco AG</Manufacturer>
+		<Capacity>4600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="45456640" Type="Stereolithography">
+		<Manufacturer>Cococo Gmbh</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="562568">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="680625">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="1205944">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="489744">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="524987">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="886512953" Type="Stereolithography">
+		<Manufacturer>Soforge Ltd</Manufacturer>
+		<Capacity>5800</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="290777317" Type="FDM printer">
+		<Manufacturer>Gegege Gmbh</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="686560626" Type="FDM printer">
+		<Manufacturer>Frageco AG</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1153266">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="572159074" Type="DLP-printer">
+		<Manufacturer>Gecofor Inc</Manufacturer>
+		<Capacity>4000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="449286">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="783785">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="873826">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="1052068">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="1226167">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="624326223" Type="SLS Printer">
+		<Manufacturer>Cosoco AG</Manufacturer>
+		<Capacity>2300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="605765962" Type="SLS Printer">
+		<Manufacturer>Gagimfra AG</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="674070670" Type="Material Jetting">
+		<Manufacturer>Frogega Inc</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="841242936" Type="Stereolithography">
+		<Manufacturer>Segega Gmbh</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="537422">
+				<Name>Part9</Name>
+			</Part>
+			<Part SerialNo="605036">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="813102667" Type="Stereolithography">
+		<Manufacturer>Gimgimco Ltd</Manufacturer>
+		<Capacity>6100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1211031">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="431017020" Type="Material Jetting">
+		<Manufacturer>Gegeco Ltd</Manufacturer>
+		<Capacity>2200</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="367800309" Type="DLP-printer">
+		<Manufacturer>Cocose AG</Manufacturer>
+		<Capacity>6100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="780730">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="66770401" Type="Material Jetting">
+		<Manufacturer>Frasegim Inc</Manufacturer>
+		<Capacity>6500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="949363">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="363892088" Type="DLP-printer">
+		<Manufacturer>Frogecse AG</Manufacturer>
+		<Capacity>6400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="974670">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="776833052" Type="DLP-printer">
+		<Manufacturer>Gecforgim GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="534665">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="592674">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="624324681" Type="SLS Printer">
+		<Manufacturer>Forgeco AG</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="806308470" Type="SLS Printer">
+		<Manufacturer>Secofor AG</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="588016">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="298419891" Type="SLS Printer">
+		<Manufacturer>Forcogip Ltd</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="980040">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="505234450" Type="FDM printer">
+		<Manufacturer>Coforge AG</Manufacturer>
+		<Capacity>6000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="818738">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="501733">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="304987649" Type="Material Jetting">
+		<Manufacturer>Cosoco Gmbh</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1207490">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="738052456" Type="FDM printer">
+		<Manufacturer>Gimsefor GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1076485">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="835145850" Type="SLS Printer">
+		<Manufacturer>Forgecge AG</Manufacturer>
+		<Capacity>5200</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="302492">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="217615538" Type="FDM printer">
+		<Manufacturer>Coseco Gmbh</Manufacturer>
+		<Capacity>2200</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="781926052" Type="DLP-printer">
+		<Manufacturer>Cogefor Inc</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="988856">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="1028338">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="629572812" Type="Material Jetting">
+		<Manufacturer>Gesogim GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="969694855" Type="Material Jetting">
+		<Manufacturer>Gecoco Inc</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="303934350" Type="SLS Printer">
+		<Manufacturer>Gegegip Inc</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1184670">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="338475">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="997545">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="578318">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="706068899" Type="Material Jetting">
+		<Manufacturer>Cagipca AG</Manufacturer>
+		<Capacity>6900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="332743574" Type="DLP-printer">
+		<Manufacturer>Cogimfor Inc</Manufacturer>
+		<Capacity>6100</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="864570161" Type="Material Jetting">
+		<Manufacturer>Sofrafor Ltd</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="466216">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="730679">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="325442">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="233049559" Type="SLS Printer">
+		<Manufacturer>Gimfrafor GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="964156207" Type="Material Jetting">
+		<Manufacturer>Coseco Inc</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="640665">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="607572">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="379978973" Type="Material Jetting">
+		<Manufacturer>Gecoco Ltd</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1138040">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="944237">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="1183863">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="987581864" Type="Stereolithography">
+		<Manufacturer>Gegage Inc</Manufacturer>
+		<Capacity>6400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="468712">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="510226945" Type="SLS Printer">
+		<Manufacturer>Segese AG</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="663782170" Type="Stereolithography">
+		<Manufacturer>Cococo Gmbh</Manufacturer>
+		<Capacity>5800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="274643823" Type="Material Jetting">
+		<Manufacturer>Forforco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="938725">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="661582230" Type="SLS Printer">
+		<Manufacturer>Cofragip Gmbh</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="708540">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="576203">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="516096648" Type="Material Jetting">
+		<Manufacturer>Gecgagec Gmbh</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="602148703" Type="Stereolithography">
+		<Manufacturer>Gipcose AG</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="801121033" Type="DLP-printer">
+		<Manufacturer>Gegimfra Ltd</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="888895">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="1007001">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="631298">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="1260080">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="992304230" Type="Stereolithography">
+		<Manufacturer>Gecoso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1102729">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="9556977" Type="Material Jetting">
+		<Manufacturer>Gesege Ltd</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="466002775" Type="Material Jetting">
+		<Manufacturer>Sesege AG</Manufacturer>
+		<Capacity>3000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="536593693" Type="FDM printer">
+		<Manufacturer>Gagege Gmbh</Manufacturer>
+		<Capacity>3600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="137852230" Type="Stereolithography">
+		<Manufacturer>Secofor Ltd</Manufacturer>
+		<Capacity>3300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1040762">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="376865206" Type="FDM printer">
+		<Manufacturer>Gegipfro Gmbh</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1204074">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="840969422" Type="Stereolithography">
+		<Manufacturer>Cogege AG</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="50432932" Type="SLS Printer">
+		<Manufacturer>Seseco Ltd</Manufacturer>
+		<Capacity>2200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="793145564" Type="FDM printer">
+		<Manufacturer>Gesegec AG</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1267924">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="939929">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="712925975" Type="Material Jetting">
+		<Manufacturer>Gegecfor Gmbh</Manufacturer>
+		<Capacity>3400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="358198">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="852691">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="1174386">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="439226670" Type="Stereolithography">
+		<Manufacturer>Socogec GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="485910">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="797655">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="667038987" Type="FDM printer">
+		<Manufacturer>Segeca GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="623630">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="683942">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="770407">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="987230687" Type="FDM printer">
+		<Manufacturer>Gimsega Inc</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="636280">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="1101535">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="452958">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="414369876" Type="Material Jetting">
+		<Manufacturer>Forfrofor Ltd</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="159692655" Type="SLS Printer">
+		<Manufacturer>Sogeco Gmbh</Manufacturer>
+		<Capacity>5500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="684712996" Type="Material Jetting">
+		<Manufacturer>Froforge Ltd</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="697676">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="750228950" Type="Material Jetting">
+		<Manufacturer>Gesege Ltd</Manufacturer>
+		<Capacity>6800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="357582384" Type="Stereolithography">
+		<Manufacturer>Gasose Ltd</Manufacturer>
+		<Capacity>4000</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="577513">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="820859028" Type="DLP-printer">
+		<Manufacturer>Gegipse Inc</Manufacturer>
+		<Capacity>3800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="152146083" Type="Material Jetting">
+		<Manufacturer>Frogecge Gmbh</Manufacturer>
+		<Capacity>7200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="575604234" Type="FDM printer">
+		<Manufacturer>Frogeca Gmbh</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="218095543" Type="FDM printer">
+		<Manufacturer>Gegeca AG</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="730525">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="767895846" Type="Stereolithography">
+		<Manufacturer>Cogimfro GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1047068">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="1094849">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="638727151" Type="DLP-printer">
+		<Manufacturer>Gimcase Ltd</Manufacturer>
+		<Capacity>5800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="472459068" Type="SLS Printer">
+		<Manufacturer>Gaforso AG</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="356468">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="70985677" Type="SLS Printer">
+		<Manufacturer>Gipgefra AG</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1157495">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="1027333">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="588119">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="408167264" Type="DLP-printer">
+		<Manufacturer>Cocoge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>500</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="444094">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="364906">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="48543051" Type="DLP-printer">
+		<Manufacturer>Cocofor GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1197743">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="295344994" Type="FDM printer">
+		<Manufacturer>Forfrogim Gmbh</Manufacturer>
+		<Capacity>2600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="936947166" Type="SLS Printer">
+		<Manufacturer>Cacose Inc</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="373580">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="174812400" Type="SLS Printer">
+		<Manufacturer>Gecgimfor GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="759366">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="753352630" Type="Stereolithography">
+		<Manufacturer>Frococa AG</Manufacturer>
+		<Capacity>7200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="709861">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="991793">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="124795175" Type="Stereolithography">
+		<Manufacturer>Forsege Ltd</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="996956">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="29709304" Type="FDM printer">
+		<Manufacturer>Segegim Ltd</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="844532772" Type="Stereolithography">
+		<Manufacturer>Cogeca Ltd</Manufacturer>
+		<Capacity>6400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="572504335" Type="FDM printer">
+		<Manufacturer>Frofrage AG</Manufacturer>
+		<Capacity>4500</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="409029">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="886552">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="571565">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="101550006" Type="SLS Printer">
+		<Manufacturer>Gacoge Inc</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1152093">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="883122805" Type="DLP-printer">
+		<Manufacturer>Cogipgip Ltd</Manufacturer>
+		<Capacity>3600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="342265">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="747766964" Type="Stereolithography">
+		<Manufacturer>Cogimfro Gmbh</Manufacturer>
+		<Capacity>900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="488608">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="747927981" Type="SLS Printer">
+		<Manufacturer>Cagefra AG</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="648082">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="973070">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="797869848" Type="SLS Printer">
+		<Manufacturer>Sogimco Inc</Manufacturer>
+		<Capacity>2400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="421953">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="1214713">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="456161431" Type="Stereolithography">
+		<Manufacturer>Gegecso Ltd</Manufacturer>
+		<Capacity>2700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="478406946" Type="FDM printer">
+		<Manufacturer>Fraforge AG</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="917364">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="520809">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="233586155" Type="Material Jetting">
+		<Manufacturer>Gecgimgip Gmbh</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="883420080" Type="DLP-printer">
+		<Manufacturer>Gipgipfor Gmbh</Manufacturer>
+		<Capacity>3400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="489178661" Type="Stereolithography">
+		<Manufacturer>Cacage Gmbh</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1041615">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="533278462" Type="Material Jetting">
+		<Manufacturer>Cogegim Inc</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="148214574" Type="Material Jetting">
+		<Manufacturer>Cofrofor Inc</Manufacturer>
+		<Capacity>4200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="65966939" Type="Material Jetting">
+		<Manufacturer>Gafrage Ltd</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="382502">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="318150556" Type="SLS Printer">
+		<Manufacturer>Cogimso Ltd</Manufacturer>
+		<Capacity>1800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="329353905" Type="Material Jetting">
+		<Manufacturer>Socagim Inc</Manufacturer>
+		<Capacity>3200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1226288">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="782706">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="5005317" Type="Material Jetting">
+		<Manufacturer>Gecaso AG</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1186268">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="884991813" Type="SLS Printer">
+		<Manufacturer>Segecge Inc</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1117040">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="788315659" Type="Material Jetting">
+		<Manufacturer>Casogim Inc</Manufacturer>
+		<Capacity>4200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="994418">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="813375">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="720563">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="984335503" Type="Stereolithography">
+		<Manufacturer>Sogegip Ltd</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1109735">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="966821812" Type="Material Jetting">
+		<Manufacturer>Gimforse AG</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="714054">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="983789186" Type="SLS Printer">
+		<Manufacturer>Cafraca Inc</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1118577">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="912943041" Type="DLP-printer">
+		<Manufacturer>Frogage Ltd</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="912374985" Type="Stereolithography">
+		<Manufacturer>Gimfroge Inc</Manufacturer>
+		<Capacity>2000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="397362">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="748994658" Type="SLS Printer">
+		<Manufacturer>Geforco Gmbh</Manufacturer>
+		<Capacity>3900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1205832">
+				<Name>PartB</Name>
+			</Part>
+			<Part SerialNo="463288">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="1165636">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="888202743" Type="DLP-printer">
+		<Manufacturer>Sogege Gmbh</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="807157">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="974029372" Type="Stereolithography">
+		<Manufacturer>Gimgage Ltd</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1194095">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="860806">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="343132">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="357574602" Type="FDM printer">
+		<Manufacturer>Sogeco AG</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="407554">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="474281576" Type="Stereolithography">
+		<Manufacturer>Gacogip Ltd</Manufacturer>
+		<Capacity>6500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1163000">
+				<Name>Part9</Name>
+			</Part>
+			<Part SerialNo="690258">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="615327">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="451581706" Type="Material Jetting">
+		<Manufacturer>Cosoca Inc</Manufacturer>
+		<Capacity>5800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="4479358" Type="Material Jetting">
+		<Manufacturer>Frogege Gmbh</Manufacturer>
+		<Capacity>3900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="803940996" Type="SLS Printer">
+		<Manufacturer>Forgimgim AG</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="903462">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="886581918" Type="FDM printer">
+		<Manufacturer>Gesese Ltd</Manufacturer>
+		<Capacity>5100</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1109563">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="595637805" Type="Stereolithography">
+		<Manufacturer>Gegege Gmbh</Manufacturer>
+		<Capacity>1800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1215184">
+				<Name>PartB</Name>
+			</Part>
+			<Part SerialNo="617988">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="17148064" Type="DLP-printer">
+		<Manufacturer>Cofraso Gmbh</Manufacturer>
+		<Capacity>1200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1023855">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="426101625" Type="SLS Printer">
+		<Manufacturer>Socoso Inc</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="371510">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="793332743" Type="Stereolithography">
+		<Manufacturer>Gesegip Gmbh</Manufacturer>
+		<Capacity>5500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1172370">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="1219478">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="353911">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="982592804" Type="Stereolithography">
+		<Manufacturer>Gecfrogim Gmbh</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="227811991" Type="Stereolithography">
+		<Manufacturer>Cacogec Inc</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="798873">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="325407530" Type="FDM printer">
+		<Manufacturer>Fraforge Inc</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1098446">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="737221549" Type="FDM printer">
+		<Manufacturer>Forgimge Ltd</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="496277429" Type="Material Jetting">
+		<Manufacturer>Gesogec Gmbh</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1022092">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="634008289" Type="DLP-printer">
+		<Manufacturer>Sosofra Inc</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1240521">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="618840">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="462006005" Type="SLS Printer">
+		<Manufacturer>Coseco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="886042">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="220793361" Type="Stereolithography">
+		<Manufacturer>Gecase Gmbh</Manufacturer>
+		<Capacity>6100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="698524">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="196737187" Type="Stereolithography">
+		<Manufacturer>Cogecfor Ltd</Manufacturer>
+		<Capacity>6000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="645040">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="597764153" Type="FDM printer">
+		<Manufacturer>Gecogim Ltd</Manufacturer>
+		<Capacity>500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1045814">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="1007626">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="547688235" Type="SLS Printer">
+		<Manufacturer>Cogeco Inc</Manufacturer>
+		<Capacity>6800</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="579461">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="827686">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="1017300">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="1098465">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="717789278" Type="Stereolithography">
+		<Manufacturer>Frogimse AG</Manufacturer>
+		<Capacity>7000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="748481974" Type="Stereolithography">
+		<Manufacturer>Gecoco AG</Manufacturer>
+		<Capacity>4200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1231922">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="1171993">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="71851408" Type="SLS Printer">
+		<Manufacturer>Cosofro GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="504904">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="906682569" Type="Material Jetting">
+		<Manufacturer>Gimgimge Ltd</Manufacturer>
+		<Capacity>3900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="586133">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="605962">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="514792671" Type="Stereolithography">
+		<Manufacturer>Sogefor Inc</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="594607">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="705226055" Type="SLS Printer">
+		<Manufacturer>Forcoso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1020424">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="287601460" Type="FDM printer">
+		<Manufacturer>Gagecso Inc</Manufacturer>
+		<Capacity>4800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="431535">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="654857">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="719187328" Type="Stereolithography">
+		<Manufacturer>Secage GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="630299">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="744074819" Type="Material Jetting">
+		<Manufacturer>Sogegim Inc</Manufacturer>
+		<Capacity>800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1136081">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="988156">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="254793400" Type="SLS Printer">
+		<Manufacturer>Gacogip AG</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="764886060" Type="FDM printer">
+		<Manufacturer>Forgecfor Gmbh</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="318010">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="910046452" Type="SLS Printer">
+		<Manufacturer>Gegeco Inc</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="574091">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="433211">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="563279">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="1078264">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="64407264" Type="Material Jetting">
+		<Manufacturer>Gegipco Inc</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="581134678" Type="Stereolithography">
+		<Manufacturer>Gegimco Gmbh</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="758832">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="426971">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="1244775">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="176818925" Type="DLP-printer">
+		<Manufacturer>Gecoge AG</Manufacturer>
+		<Capacity>3900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="471954">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="506483160" Type="SLS Printer">
+		<Manufacturer>Gimcofor Ltd</Manufacturer>
+		<Capacity>3200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="988413029" Type="Stereolithography">
+		<Manufacturer>Fracogip Gmbh</Manufacturer>
+		<Capacity>3900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="684770">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="127264003" Type="Material Jetting">
+		<Manufacturer>Geforfor GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="247702655" Type="Material Jetting">
+		<Manufacturer>Segimfor Inc</Manufacturer>
+		<Capacity>3400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1174945">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="905050663" Type="DLP-printer">
+		<Manufacturer>Gegimge AG</Manufacturer>
+		<Capacity>1800</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="493372">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="46338382" Type="DLP-printer">
+		<Manufacturer>Sosoco Inc</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="77998376" Type="FDM printer">
+		<Manufacturer>Frofrage Gmbh</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="711062">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="444718340" Type="Stereolithography">
+		<Manufacturer>Cagage Gmbh</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="961735">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="926505616" Type="Stereolithography">
+		<Manufacturer>Gecofro Gmbh</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="814925">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="586247">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="667236320" Type="Material Jetting">
+		<Manufacturer>Secofor GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4800</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="920065">
+				<Name>Part9</Name>
+			</Part>
+			<Part SerialNo="1079213">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="34927359" Type="DLP-printer">
+		<Manufacturer>Secofra Ltd</Manufacturer>
+		<Capacity>2400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="617896">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="844210">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="840863213" Type="Material Jetting">
+		<Manufacturer>Cosoco Inc</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="650970">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="898548365" Type="SLS Printer">
+		<Manufacturer>Coforca Gmbh</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="996878827" Type="Stereolithography">
+		<Manufacturer>Gaforca Gmbh</Manufacturer>
+		<Capacity>6900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="380972">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="498643">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="393755">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="847868016" Type="SLS Printer">
+		<Manufacturer>Gecoge Gmbh</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="37593188" Type="FDM printer">
+		<Manufacturer>Secoco Ltd</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="875671">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="1082878">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="1000048808" Type="Stereolithography">
+		<Manufacturer>Gegefra GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="80988711" Type="Material Jetting">
+		<Manufacturer>Secofor Inc</Manufacturer>
+		<Capacity>4800</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="929739918" Type="Stereolithography">
+		<Manufacturer>Frasefor AG</Manufacturer>
+		<Capacity>2600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="636138">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="871940560" Type="DLP-printer">
+		<Manufacturer>Gecogec Gmbh</Manufacturer>
+		<Capacity>6900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1187203">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="772624">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="578448514" Type="FDM printer">
+		<Manufacturer>Cagaso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="572275692" Type="Material Jetting">
+		<Manufacturer>Casefor Ltd</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1253186">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="1210714">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="606286">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="583126732" Type="FDM printer">
+		<Manufacturer>Coforge Inc</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1006398">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="210605228" Type="FDM printer">
+		<Manufacturer>Coforge Gmbh</Manufacturer>
+		<Capacity>4200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="342139">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="347211592" Type="DLP-printer">
+		<Manufacturer>Sogecca Gmbh</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1141698">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="887823843" Type="FDM printer">
+		<Manufacturer>Coforfor Gmbh</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="422483">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="779802">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="266163513" Type="Stereolithography">
+		<Manufacturer>Secoco AG</Manufacturer>
+		<Capacity>4400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="871143601" Type="SLS Printer">
+		<Manufacturer>Gecoca Gmbh</Manufacturer>
+		<Capacity>5100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1166270">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="950306159" Type="SLS Printer">
+		<Manufacturer>Froforgim AG</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="845187">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="371256">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="608665454" Type="DLP-printer">
+		<Manufacturer>Gecoge Ltd</Manufacturer>
+		<Capacity>700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="704711">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="406733430" Type="SLS Printer">
+		<Manufacturer>Geccoco Gmbh</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="623847">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="720298207" Type="Material Jetting">
+		<Manufacturer>Cogipfor Ltd</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="869244386" Type="DLP-printer">
+		<Manufacturer>Gegimge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="961181">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="277996024" Type="FDM printer">
+		<Manufacturer>Gipgegip GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="589111270" Type="DLP-printer">
+		<Manufacturer>Gefraga Ltd</Manufacturer>
+		<Capacity>7100</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1012426">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="795997684" Type="Material Jetting">
+		<Manufacturer>Gegimse Inc</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="342542">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="1145244">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="910339069" Type="DLP-printer">
+		<Manufacturer>Gimcogim GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="438088443" Type="DLP-printer">
+		<Manufacturer>Geccagec AG</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1223384">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="562735">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="430486291" Type="Stereolithography">
+		<Manufacturer>Sesoco Ltd</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1280401">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="1243849">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="155981208" Type="SLS Printer">
+		<Manufacturer>Fragegim AG</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="799009">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="270938498" Type="Material Jetting">
+		<Manufacturer>Gecsoco Ltd</Manufacturer>
+		<Capacity>4600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="340081639" Type="SLS Printer">
+		<Manufacturer>Forgege AG</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="692723">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="946365185" Type="Stereolithography">
+		<Manufacturer>Segeso Ltd</Manufacturer>
+		<Capacity>4000</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="400312">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="300586">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="521610">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="470617">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="130529362" Type="Stereolithography">
+		<Manufacturer>Fraforgip Ltd</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="987470">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="747883075" Type="Stereolithography">
+		<Manufacturer>Socogec Ltd</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="418986">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="878252944" Type="Stereolithography">
+		<Manufacturer>Gafragim Ltd</Manufacturer>
+		<Capacity>5100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1089621">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="59534450" Type="Material Jetting">
+		<Manufacturer>Frasoca AG</Manufacturer>
+		<Capacity>1300</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1202474">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="354193">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="606985829" Type="FDM printer">
+		<Manufacturer>Cacoco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1144249">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="374305682" Type="Stereolithography">
+		<Manufacturer>Cageco Gmbh</Manufacturer>
+		<Capacity>700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1092954">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="1256804">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="921887294" Type="Stereolithography">
+		<Manufacturer>Geforfor AG</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="130415823" Type="FDM printer">
+		<Manufacturer>Fragipco Inc</Manufacturer>
+		<Capacity>7000</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="598692615" Type="SLS Printer">
+		<Manufacturer>Cogeso Ltd</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1298396">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="628399900" Type="SLS Printer">
+		<Manufacturer>Gageso Inc</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="478718150" Type="Stereolithography">
+		<Manufacturer>Secoge Ltd</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1111587">
+				<Name>PartB</Name>
+			</Part>
+			<Part SerialNo="702415">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="451805931" Type="FDM printer">
+		<Manufacturer>Gipgimge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="693582220" Type="SLS Printer">
+		<Manufacturer>Gipcofor Gmbh</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="713449597" Type="SLS Printer">
+		<Manufacturer>Gagecca AG</Manufacturer>
+		<Capacity>4400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="438258737" Type="Material Jetting">
+		<Manufacturer>Gimsoco AG</Manufacturer>
+		<Capacity>4600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="210079024" Type="SLS Printer">
+		<Manufacturer>Coforge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="466189">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="342872044" Type="Material Jetting">
+		<Manufacturer>Segecco Gmbh</Manufacturer>
+		<Capacity>3600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="201738682" Type="Material Jetting">
+		<Manufacturer>Gecoco AG</Manufacturer>
+		<Capacity>6700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="779336">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="674221422" Type="Stereolithography">
+		<Manufacturer>Forforge Ltd</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="764654">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="428601">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="626200">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="162633583" Type="FDM printer">
+		<Manufacturer>Forgegim Gmbh</Manufacturer>
+		<Capacity>2000</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="346373">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="133076528" Type="SLS Printer">
+		<Manufacturer>Sosoco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1182295">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="851383942" Type="Material Jetting">
+		<Manufacturer>Cogefra GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="827270">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="869710">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="935385469" Type="Material Jetting">
+		<Manufacturer>Gegeso Gmbh</Manufacturer>
+		<Capacity>4600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="890903">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="1008503">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="720589729" Type="SLS Printer">
+		<Manufacturer>Gegecge Ltd</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="214908193" Type="DLP-printer">
+		<Manufacturer>Gesofro AG</Manufacturer>
+		<Capacity>1800</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1025372">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="604781">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="690828304" Type="DLP-printer">
+		<Manufacturer>Forgeca AG</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="741060">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="764389870" Type="DLP-printer">
+		<Manufacturer>Forgeco Inc</Manufacturer>
+		<Capacity>3600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="181024939" Type="DLP-printer">
+		<Manufacturer>Cagipge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="615183046" Type="DLP-printer">
+		<Manufacturer>Gipcofor Gmbh</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="272726393" Type="Stereolithography">
+		<Manufacturer>Gegeso Ltd</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="909694986" Type="SLS Printer">
+		<Manufacturer>Caforso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="647629">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="235165031" Type="DLP-printer">
+		<Manufacturer>Forfraso Ltd</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="20660209" Type="DLP-printer">
+		<Manufacturer>Gimsoco Ltd</Manufacturer>
+		<Capacity>3700</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1207439">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="1029374">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="494403456" Type="FDM printer">
+		<Manufacturer>Cogipco AG</Manufacturer>
+		<Capacity>700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="358826496" Type="Stereolithography">
+		<Manufacturer>Frocogim GmbH &amp; CoKG</Manufacturer>
+		<Capacity>4500</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1140731">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="295743806" Type="Stereolithography">
+		<Manufacturer>Frasogec AG</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="959908">
+				<Name>Part5</Name>
+			</Part>
+			<Part SerialNo="929065">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="933976">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="408492985" Type="FDM printer">
+		<Manufacturer>Secoge Gmbh</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="710802670" Type="FDM printer">
+		<Manufacturer>Casege GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="403449787" Type="SLS Printer">
+		<Manufacturer>Sogimfor Ltd</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="969102">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="462683823" Type="DLP-printer">
+		<Manufacturer>Forcoco Ltd</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="629454">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="33305003" Type="FDM printer">
+		<Manufacturer>Geforgec Ltd</Manufacturer>
+		<Capacity>2300</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="268040378" Type="Material Jetting">
+		<Manufacturer>Coforgim GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2600</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="853178963" Type="FDM printer">
+		<Manufacturer>Gegefor AG</Manufacturer>
+		<Capacity>900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="282764240" Type="Material Jetting">
+		<Manufacturer>Cogimgip Gmbh</Manufacturer>
+		<Capacity>4300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="754787">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="821084807" Type="Stereolithography">
+		<Manufacturer>Cosoge Ltd</Manufacturer>
+		<Capacity>4700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1113960">
+				<Name>PartB</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="737192920" Type="DLP-printer">
+		<Manufacturer>Cogimco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="235771214" Type="DLP-printer">
+		<Manufacturer>Sosofro Gmbh</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="981733">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="408613270" Type="DLP-printer">
+		<Manufacturer>Forfragim AG</Manufacturer>
+		<Capacity>3200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="304153">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="459961947" Type="DLP-printer">
+		<Manufacturer>Cocoge Gmbh</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1145404">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="826745">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="789373474" Type="Stereolithography">
+		<Manufacturer>Geforge Gmbh</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="623854">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="762603">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="757587297" Type="FDM printer">
+		<Manufacturer>Gegeca Gmbh</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="818453">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="1016977">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="514194297" Type="FDM printer">
+		<Manufacturer>Seseco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2200</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="860270">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="606095139" Type="FDM printer">
+		<Manufacturer>Sofroco AG</Manufacturer>
+		<Capacity>1200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="397029375" Type="Material Jetting">
+		<Manufacturer>Cosegim Gmbh</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="777320587" Type="DLP-printer">
+		<Manufacturer>Freia AG</Manufacturer>
+		<Capacity>2300</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="841172">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="322615126" Type="DLP-printer">
+		<Manufacturer>Sosose Ltd</Manufacturer>
+		<Capacity>2300</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1097942">
+				<Name>PartD</Name>
+			</Part>
+			<Part SerialNo="576938">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="871152658" Type="SLS Printer">
+		<Manufacturer>Sesegec AG</Manufacturer>
+		<Capacity>300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1029342">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="769793787" Type="Material Jetting">
+		<Manufacturer>Gecoso Inc</Manufacturer>
+		<Capacity>5800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="365958">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="892246366" Type="DLP-printer">
+		<Manufacturer>Gimfraco Inc</Manufacturer>
+		<Capacity>1500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1137240">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="146527615" Type="Material Jetting">
+		<Manufacturer>Gecgeco Ltd</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="558994762" Type="FDM printer">
+		<Manufacturer>Gegaca Ltd</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="742467981" Type="Material Jetting">
+		<Manufacturer>Segeso Inc</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="164768654" Type="DLP-printer">
+		<Manufacturer>Cosegec Inc</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="664870">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="382006">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="615528">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="650124624" Type="Material Jetting">
+		<Manufacturer>Gacoco GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="962461992" Type="Material Jetting">
+		<Manufacturer>Cocoge Inc</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="780538847" Type="Material Jetting">
+		<Manufacturer>Gegege AG</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="641097">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="1210440">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="596530865" Type="DLP-printer">
+		<Manufacturer>Sefroco Inc</Manufacturer>
+		<Capacity>4900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="345077407" Type="Stereolithography">
+		<Manufacturer>Seseso Ltd</Manufacturer>
+		<Capacity>5300</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="384455">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="377277">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="494857851" Type="Stereolithography">
+		<Manufacturer>Gegimse Inc</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="897168">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="776114">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="905726228" Type="FDM printer">
+		<Manufacturer>Gipgimso Ltd</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="997940750" Type="Stereolithography">
+		<Manufacturer>Secoge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="612612">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="972487446" Type="SLS Printer">
+		<Manufacturer>Gimgaca Ltd</Manufacturer>
+		<Capacity>6300</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1230755">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="278274294" Type="SLS Printer">
+		<Manufacturer>Cofroge Ltd</Manufacturer>
+		<Capacity>6000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="824884">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="493872">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="916374097" Type="DLP-printer">
+		<Manufacturer>Fraforso GmbH &amp; CoKG</Manufacturer>
+		<Capacity>3600</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="517301">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="253564745" Type="Material Jetting">
+		<Manufacturer>Cofroca GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="428765">
+				<Name>PartA</Name>
+			</Part>
+			<Part SerialNo="797047">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="791831012" Type="Stereolithography">
+		<Manufacturer>Geforse Gmbh</Manufacturer>
+		<Capacity>5400</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="489680574" Type="DLP-printer">
+		<Manufacturer>Forgege GmbH &amp; CoKG</Manufacturer>
+		<Capacity>3500</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="383068">
+				<Name>PartB</Name>
+			</Part>
+			<Part SerialNo="884267">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="829902">
+				<Name>Part6</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="558834779" Type="Stereolithography">
+		<Manufacturer>Geseco Gmbh</Manufacturer>
+		<Capacity>2900</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="478392322" Type="DLP-printer">
+		<Manufacturer>Socogip GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1072798">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="893704">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="100530424" Type="FDM printer">
+		<Manufacturer>Segese AG</Manufacturer>
+		<Capacity>5100</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1025004">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="945452539" Type="SLS Printer">
+		<Manufacturer>Gesogim Ltd</Manufacturer>
+		<Capacity>3000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="772515949" Type="SLS Printer">
+		<Manufacturer>Cogimso Gmbh</Manufacturer>
+		<Capacity>3000</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="456722">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="157642990" Type="SLS Printer">
+		<Manufacturer>Cofraco Ltd</Manufacturer>
+		<Capacity>7200</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="785451">
+				<Name>Part4</Name>
+			</Part>
+			<Part SerialNo="545233">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="47474201" Type="Material Jetting">
+		<Manufacturer>Segege Ltd</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="737403">
+				<Name>Part6</Name>
+			</Part>
+			<Part SerialNo="880634">
+				<Name>Part7</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="471920776" Type="Stereolithography">
+		<Manufacturer>Fracoco Ltd</Manufacturer>
+		<Capacity>600</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1268306">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="485442489" Type="FDM printer">
+		<Manufacturer>Gecoge Gmbh</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="471240">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="647957747" Type="DLP-printer">
+		<Manufacturer>Cagafra AG</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="902487">
+				<Name>Part5</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="671439278" Type="SLS Printer">
+		<Manufacturer>Gecsega GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="463422">
+				<Name>Part2</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="293559940" Type="Material Jetting">
+		<Manufacturer>Cogeco Ltd</Manufacturer>
+		<Capacity>1700</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="320084455" Type="SLS Printer">
+		<Manufacturer>Cagege Inc</Manufacturer>
+		<Capacity>900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="50986465" Type="Stereolithography">
+		<Manufacturer>Cococo Ltd</Manufacturer>
+		<Capacity>700</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="517605">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="855222580" Type="Stereolithography">
+		<Manufacturer>Forcoge GmbH &amp; CoKG</Manufacturer>
+		<Capacity>6100</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="473347142" Type="Material Jetting">
+		<Manufacturer>Gimcose AG</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="335582843" Type="DLP-printer">
+		<Manufacturer>Fraseco Gmbh</Manufacturer>
+		<Capacity>400</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="530005087" Type="Stereolithography">
+		<Manufacturer>Casoca GmbH &amp; CoKG</Manufacturer>
+		<Capacity>5900</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="797692545" Type="DLP-printer">
+		<Manufacturer>Cocogim Inc</Manufacturer>
+		<Capacity>6400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="154387430" Type="Material Jetting">
+		<Manufacturer>Gegimfra Inc</Manufacturer>
+		<Capacity>3100</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="703079">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="809018">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="833288">
+				<Name>Part3</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="865710035" Type="Material Jetting">
+		<Manufacturer>Gaforfor AG</Manufacturer>
+		<Capacity>6000</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1101979">
+				<Name>Part8</Name>
+			</Part>
+			<Part SerialNo="1137119">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="593341">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="276264065" Type="SLS Printer">
+		<Manufacturer>Gagese AG</Manufacturer>
+		<Capacity>1100</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="663395">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="68438921" Type="DLP-printer">
+		<Manufacturer>Segimso AG</Manufacturer>
+		<Capacity>2800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="214485660" Type="SLS Printer">
+		<Manufacturer>Coforco Gmbh</Manufacturer>
+		<Capacity>5600</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="468092133" Type="Stereolithography">
+		<Manufacturer>Gimgimge Gmbh</Manufacturer>
+		<Capacity>1400</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="972622323" Type="Material Jetting">
+		<Manufacturer>Geseso AG</Manufacturer>
+		<Capacity>6200</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="376617">
+				<Name>Part9</Name>
+			</Part>
+			<Part SerialNo="837301">
+				<Name>PartA</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="969771212" Type="Stereolithography">
+		<Manufacturer>Cosofor Ltd</Manufacturer>
+		<Capacity>3400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="765755">
+				<Name>Part2</Name>
+			</Part>
+			<Part SerialNo="504263">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="950621478" Type="Stereolithography">
+		<Manufacturer>Cococo AG</Manufacturer>
+		<Capacity>4400</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="451727">
+				<Name>Part3</Name>
+			</Part>
+			<Part SerialNo="1191508">
+				<Name>Part8</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="723445765" Type="SLS Printer">
+		<Manufacturer>Forcoca Inc</Manufacturer>
+		<Capacity>6900</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1173103">
+				<Name>Part1</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="34680684" Type="FDM printer">
+		<Manufacturer>Frogimco Ltd</Manufacturer>
+		<Capacity>4100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1006679">
+				<Name>Part7</Name>
+			</Part>
+			<Part SerialNo="605261">
+				<Name>PartC</Name>
+			</Part>
+			<Part SerialNo="1000348">
+				<Name>PartD</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="317554145" Type="Material Jetting">
+		<Manufacturer>Cogege GmbH &amp; CoKG</Manufacturer>
+		<Capacity>2100</Capacity>
+		<FillamentType>Filament2</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="673041046" Type="Stereolithography">
+		<Manufacturer>Gegimse Ltd</Manufacturer>
+		<Capacity>6900</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1288556">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="864577313" Type="FDM printer">
+		<Manufacturer>Gegipco Inc</Manufacturer>
+		<Capacity>6500</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="961803">
+				<Name>Part9</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="960438560" Type="FDM printer">
+		<Manufacturer>Cogipca AG</Manufacturer>
+		<Capacity>1600</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="1061854">
+				<Name>PartC</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="692320631" Type="Material Jetting">
+		<Manufacturer>Gegeco Inc</Manufacturer>
+		<Capacity>5700</Capacity>
+		<FillamentType>Filament1</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="946146580" Type="Material Jetting">
+		<Manufacturer>Fragecso AG</Manufacturer>
+		<Capacity>2500</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="126731056" Type="FDM printer">
+		<Manufacturer>Sogimge Gmbh</Manufacturer>
+		<Capacity>6400</Capacity>
+		<FillamentType>Filament4</FillamentType>
+		<PrinterParts>
+			<Part SerialNo="532197">
+				<Name>Part1</Name>
+			</Part>
+			<Part SerialNo="536626">
+				<Name>Part4</Name>
+			</Part>
+		</PrinterParts>
+	</Printer>
+	<Printer SerialNo="540804041" Type="DLP-printer">
+		<Manufacturer>Socoge Ltd</Manufacturer>
+		<Capacity>1000</Capacity>
+		<FillamentType>Filament5</FillamentType>
+		<PrinterParts/>
+	</Printer>
+	<Printer SerialNo="238624506" Type="Material Jetting">
+		<Manufacturer>Forcaso Gmbh</Manufacturer>
+		<Capacity>5800</Capacity>
+		<FillamentType>Filament3</FillamentType>
+		<PrinterParts/>
+	</Printer>
+</Printers>

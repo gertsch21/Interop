@@ -1,0 +1,4 @@
+get the entire Gross Leasable Area in austria
+
+Result: 
+Double='548100'

@@ -1,0 +1,1 @@
+xmllint --relaxng relax.rng xmlfile.xml

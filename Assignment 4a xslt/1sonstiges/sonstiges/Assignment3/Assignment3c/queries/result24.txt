@@ -1,0 +1,260 @@
+get all printers that start with 'Xerox'
+
+Result: 
+Element='<printer printer_id="342">
+				<printer_info>
+					<name>Xerox naive 8</name>
+					<weight>100</weight>
+					<measurements>
+						   <print_width>45</print_width>
+						   <print_depth>88</print_depth>
+						   <print_height>32</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Bowden</extruder_type>
+				<price>2140</price>
+				<printed_plans>
+					<plan plan_id="175" priority="very high" status="cancelled">
+						   <endproduct_name>The teal late Cable</endproduct_name>
+						   <basic_instruction>Make a Cable</basic_instruction>
+					</plan>
+				</printed_plans>
+			</printer>'
+
+Element='<printer printer_id="412">
+				<printer_info>
+					<name>Xerox reliable 35</name>
+					<weight>70</weight>
+					<measurements>
+						   <print_width>47</print_width>
+						   <print_depth>47</print_depth>
+						   <print_height>31</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Direct</extruder_type>
+				<price>4410</price>
+				<printed_plans>
+					<plan plan_id="400" priority="high" status="almost finished">
+						   <endproduct_name>The pink relevant CD Elton John</endproduct_name>
+						   <basic_instruction>Make a CD Elton John</basic_instruction>
+					</plan>
+					<plan plan_id="732" priority="medium" status="prepared">
+						   <endproduct_name>The cyan additional Filament</endproduct_name>
+						   <basic_instruction>Create a Filament</basic_instruction>
+					</plan>
+				</printed_plans>
+			</printer>'
+
+Element='<printer printer_id="495">
+				<printer_info>
+					<name>Xerox shy - introverted 15</name>
+					<weight>60</weight>
+					<measurements>
+						   <print_width>16</print_width>
+						   <print_depth>72</print_depth>
+						   <print_height>25</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Bowden</extruder_type>
+				<price>5650</price>
+				<printed_plans>
+					<plan plan_id="293" priority="medium" status="cancelled">
+						   <endproduct_name>The magenta typical Keyboard</endproduct_name>
+						   <basic_instruction>Please design me a Keyboard</basic_instruction>
+					</plan>
+				</printed_plans>
+			</printer>'
+
+Element='<printer printer_id="337">
+				<printer_info>
+					<name>Xerox International Partners big-headed 45</name>
+					<weight>30</weight>
+					<measurements>
+						   <print_width>100</print_width>
+						   <print_depth>115</print_depth>
+						   <print_height>35</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Direct</extruder_type>
+				<price>260</price>
+				<printed_plans>
+					<plan plan_id="980" priority="medium" status="finished">
+						   <endproduct_name>The navy exact CD Elton John</endproduct_name>
+						   <basic_instruction>Make a CD Elton John</basic_instruction>
+					</plan>
+				</printed_plans>
+			</printer>'
+
+Element='<printer printer_id="328">
+				<printer_info>
+					<name>Xerox International Partners naive 15</name>
+					<weight>40</weight>
+					<measurements>
+						   <print_width>66</print_width>
+						   <print_depth>114</print_depth>
+						   <print_height>34</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Bowden</extruder_type>
+				<price>1600</price>
+				<printed_plans/>
+			</printer>'
+
+Element='<printer printer_id="448">
+				<printer_info>
+					<name>Xerox mean 43</name>
+					<weight>10</weight>
+					<measurements>
+						   <print_width>85</print_width>
+						   <print_depth>50</print_depth>
+						   <print_height>47</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Bowden</extruder_type>
+				<price>750</price>
+				<printed_plans>
+					<plan plan_id="67" priority="low" status="working">
+						   <endproduct_name>The indigo key Lamp</endproduct_name>
+						   <basic_instruction>Please design me a Lamp</basic_instruction>
+					</plan>
+					<plan plan_id="179" priority="low" status="ready to prepare">
+						   <endproduct_name>The purple basic Webcam</endproduct_name>
+						   <basic_instruction>Create a Webcam</basic_instruction>
+					</plan>
+					<plan plan_id="247" priority="medium" status="almost finished">
+						   <endproduct_name>The navy wild CD Elton John</endproduct_name>
+						   <basic_instruction>Create a CD Elton John</basic_instruction>
+					</plan>
+				</printed_plans>
+			</printer>'
+
+Element='<printer printer_id="173">
+				<printer_info>
+					<name>Xerox bad-tempered 27</name>
+					<weight>70</weight>
+					<measurements>
+						   <print_width>66</print_width>
+						   <print_depth>28</print_depth>
+						   <print_height>44</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Hotend</extruder_type>
+				<price>5100</price>
+				<printed_plans>
+					<plan plan_id="189" priority="medium" status="working">
+						   <endproduct_name>The lime human Bag</endproduct_name>
+						   <basic_instruction>Create a Bag</basic_instruction>
+					</plan>
+					<plan plan_id="461" priority="low" status="finished">
+						   <endproduct_name>The red business USB Stick</endproduct_name>
+						   <basic_instruction>I would like you to do for me a STL file with USB Stick</basic_instruction>
+					</plan>
+					<plan plan_id="521" priority="very high" status="prepared">
+						   <endproduct_name>The pink decent Printer</endproduct_name>
+						   <basic_instruction>I would like you to do for me a STL file with Printer</basic_instruction>
+					</plan>
+				</printed_plans>
+			</printer>'
+
+Element='<printer printer_id="164">
+				<printer_info>
+					<name>Xerox International Partners ambitious 39</name>
+					<weight>80</weight>
+					<measurements>
+						   <print_width>120</print_width>
+						   <print_depth>57</print_depth>
+						   <print_height>16</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Bowden</extruder_type>
+				<price>3360</price>
+				<printed_plans>
+					<plan plan_id="781" priority="high" status="prepared">
+						   <endproduct_name>The green massive Computer</endproduct_name>
+						   <basic_instruction>Make a Computer</basic_instruction>
+					</plan>
+				</printed_plans>
+			</printer>'
+
+Element='<printer printer_id="982">
+				<printer_info>
+					<name>Xerox International Partners quarrelsome 20</name>
+					<weight>60</weight>
+					<measurements>
+						   <print_width>66</print_width>
+						   <print_depth>42</print_depth>
+						   <print_height>23</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Direct</extruder_type>
+				<price>530</price>
+				<printed_plans>
+					<plan plan_id="816" priority="high" status="prepared">
+						   <endproduct_name>The blue consistent Hoover</endproduct_name>
+						   <basic_instruction>Create a Hoover</basic_instruction>
+					</plan>
+				</printed_plans>
+			</printer>'
+
+Element='<printer printer_id="91">
+				<printer_info>
+					<name>Xerox International Partners sensible 46</name>
+					<weight>100</weight>
+					<measurements>
+						   <print_width>36</print_width>
+						   <print_depth>73</print_depth>
+						   <print_height>23</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Hotend</extruder_type>
+				<price>3760</price>
+				<printed_plans>
+					<plan plan_id="350" priority="very high" status="ready to prepare">
+						   <endproduct_name>The purple loose Keyboard</endproduct_name>
+						   <basic_instruction>Please design me a Keyboard</basic_instruction>
+					</plan>
+				</printed_plans>
+			</printer>'
+
+Element='<printer printer_id="807">
+				<printer_info>
+					<name>Xerox shy - introverted 30</name>
+					<weight>30</weight>
+					<measurements>
+						   <print_width>92</print_width>
+						   <print_depth>99</print_depth>
+						   <print_height>14</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Direct</extruder_type>
+				<price>5730</price>
+				<printed_plans/>
+			</printer>'
+
+Element='<printer printer_id="563">
+				<printer_info>
+					<name>Xerox bad-tempered 35</name>
+					<weight>40</weight>
+					<measurements>
+						   <print_width>91</print_width>
+						   <print_depth>63</print_depth>
+						   <print_height>16</print_height>
+					</measurements>
+				</printer_info>
+				<extruder_type>Hotend</extruder_type>
+				<price>2460</price>
+				<printed_plans>
+					<plan plan_id="160" priority="low" status="almost finished">
+						   <endproduct_name>The aquamarine suspicious Guitar</endproduct_name>
+						   <basic_instruction>Create a Guitar</basic_instruction>
+					</plan>
+					<plan plan_id="325" priority="low" status="cancelled">
+						   <endproduct_name>The turquoise temporary Wallet</endproduct_name>
+						   <basic_instruction>I would like you to do for me a STL file with Wallet</basic_instruction>
+					</plan>
+					<plan plan_id="812" priority="low" status="prepared">
+						   <endproduct_name>The green incident Hoover</endproduct_name>
+						   <basic_instruction>Create a Hoover</basic_instruction>
+					</plan>
+				</printed_plans>
+			</printer>'

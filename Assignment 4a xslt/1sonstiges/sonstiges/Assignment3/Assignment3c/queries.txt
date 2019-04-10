@@ -1,0 +1,64 @@
+xpath
+
+for result1
+1 get all worker-vornamen in warehouse 15
+  //worker[warehouse_zugeordnet/@warehouse_id=15]/firstname
+
+2 number of all worker, having access to a printer with an extruder_type 'direct'
+  count(//worker[./warehouse_zugeordnet/printers/printer/extruder_type/text() = 'Direct'])
+
+3 get worker count that have access to printer 200
+  count(//worker[./warehouse_zugeordnet/printers/printer/@printer_id=200])
+
+4 get all printer names that worker 3 can access
+  //printer[ancestor::worker[@svnr=1001201187]]/printer_info/name
+
+5 get printer(could be more than one(also same printer models)) with highest price in warehouse 15
+  //printer[(ancestor::warehouse_zugeordnet[@warehouse_id=15]) and (not(./price/text() < //printer[ancestor::warehouse_zugeordnet[@warehouse_id=15]]/price/text()))]/printer_info/name
+  
+6 get all printer in warehouse 15
+  //printer[ancestor::warehouse_zugeordnet[@warehouse_id=15]]/printer_info/name
+  
+  
+for result2
+1 number of warehouses in austria
+  count(//warehouse[@country = 'Austria'])
+  
+2 get the entire Gross Leasable Area in austria
+  sum(//warehouse[@country = 'Austria']/gla)
+
+3 count all warehouses that contain the word 'lazy' in their name
+  count(//warehouse[contains(./warehousename/text(),'lazy')])
+ 
+4 get all printers that start with 'Xerox'
+  //printer[starts-with(./printer_info/name/text(),'Xerox')]
+
+5 get all warehouse names with more than 18 printers
+  //warehouse[count(./printers/printer)>18]/warehousename
+  
+  
+for result3
+1 get all artists that either the first or the last name start with a 'M'
+  //artist[starts-with(./first_name/text(), 'M') or starts-with(./last_name/text(), 'M')]
+  
+2 get all artists that are/were responsible for more than 5 plans
+  //artist[count(./plans/plan) > 5]
+
+3 get all firstnames from artists that have an 'en' in their firstname
+  //artist[contains(./first_name/text(), 'en')]/first_name
+
+4 get all artists, that work(ed) together with a worker named Johnny Hatfield
+  //artist[descendant::involved_worker/first_name = 'Johnny' and descendant::involved_worker/last_name = 'Hatfield']
+
+5 get all workers where the artist's first_name starts with 'Mic'
+  //involved_worker[starts-with(ancestor::artist/first_name, 'Mic')]
+  
+for result4
+1 get all endproduct_names and all shopping_items from a worker
+  //plan[ancestor::worker/first_name = 'Lauren' and ancestor::worker/last_name = 'Farley']/endproduct_name | //item[ancestor::worker/first_name = 'Lauren' and ancestor::worker/last_name = 'Farley']/item_info/buying_info/name
+  
+2 get firstname and lastname of a worker with svnr= 	
+  //worker[@svnr='1001201187']/first_name | //worker[@svnr='1001201187']/last_name
+
+3  get the names of all finished items
+  //item[@is_finished]/item_info/buying_info/name

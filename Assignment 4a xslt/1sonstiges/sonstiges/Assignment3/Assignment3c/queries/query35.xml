@@ -1,0 +1,1 @@
+//involved_worker[starts-with(ancestor::artist/first_name, 'Mic')]

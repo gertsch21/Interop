@@ -1,0 +1,12 @@
+get all firstnames from artists that have an 'en' in their firstname
+
+Result: 
+Element='<first_name>Kenneth</first_name>'
+Element='<first_name>Kathleen</first_name>'
+Element='<first_name>Brenda</first_name>'
+Element='<first_name>Kathleen</first_name>'
+Element='<first_name>Stephen</first_name>'
+Element='<first_name>Dennis</first_name>'
+Element='<first_name>Dennis</first_name>'
+Element='<first_name>Brenda</first_name>'
+Element='<first_name>Eugene</first_name>'

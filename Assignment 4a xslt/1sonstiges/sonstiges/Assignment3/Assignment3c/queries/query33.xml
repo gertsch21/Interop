@@ -1,0 +1,1 @@
+//artist[contains(./first_name/text(), 'en')]/first_name

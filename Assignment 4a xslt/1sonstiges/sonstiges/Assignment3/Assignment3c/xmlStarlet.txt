@@ -1,0 +1,7 @@
+allgemeines
+xml el -u result1.xml
+
+
+alle vornamen der Arbeiter, welche in dem Warehouse mit der id=15 arbeiten
+xml sel -t -v "/root/worker[warehouse_zugeordnet/@warehouse_id=15]/firstname" result1.xml
+

@@ -1,0 +1,1 @@
+//plan[ancestor::worker/first_name = 'Lauren' and ancestor::worker/last_name = 'Farley']/endproduct_name | //item[ancestor::worker/first_name = 'Lauren' and ancestor::worker/last_name = 'Farley']/item_info/buying_info/name

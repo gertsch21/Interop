@@ -1,0 +1,1 @@
+//artist[descendant::involved_worker/first_name = 'Johnny' and descendant::involved_worker/last_name = 'Hatfield']

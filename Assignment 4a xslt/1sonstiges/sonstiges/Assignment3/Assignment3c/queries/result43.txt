@@ -1,0 +1,186 @@
+get the names of all finished items
+
+Result:
+Element='<name>silver Wallet</name>'
+
+Element='<name>orange CD Elton John</name>'
+
+Element='<name>blue Keyboard</name>'
+
+Element='<name>yellow Latex Book</name>'
+
+Element='<name>teal Box</name>'
+
+Element='<name>gray Printer</name>'
+
+Element='<name>blue Chips</name>'
+
+Element='<name>silver Printer</name>'
+
+Element='<name>olive Box</name>'
+
+Element='<name>lime Bag</name>'
+
+Element='<name>aquamarine Filament</name>'
+
+Element='<name>orange Wallet</name>'
+
+Element='<name>black Hoover</name>'
+
+Element='<name>red Smartphone</name>'
+
+Element='<name>maroon Smartphone</name>'
+
+Element='<name>aquamarine Cable</name>'
+
+Element='<name>maroon Ultrasonic Sensors for Mbot</name>'
+
+Element='<name>black Lamp</name>'
+
+Element='<name>gray Webcam</name>'
+
+Element='<name>yellow Smartphone</name>'
+
+Element='<name>silver Lamp</name>'
+
+Element='<name>green Cable</name>'
+
+Element='<name>black Chips</name>'
+
+Element='<name>teal Hoover</name>'
+
+Element='<name>black Cable</name>'
+
+Element='<name>brown Latex Book</name>'
+
+Element='<name>navy Wallet</name>'
+
+Element='<name>blue Bag</name>'
+
+Element='<name>pink Ultrasonic Sensors for Mbot</name>'
+
+Element='<name>maroon Toast</name>'
+
+Element='<name>blue Toaster</name>'
+
+Element='<name>aquamarine CD Elton John</name>'
+
+Element='<name>red Dog</name>'
+
+Element='<name>gray Cable</name>'
+
+Element='<name>silver Chips</name>'
+
+Element='<name>purple Printer</name>'
+
+Element='<name>green Lamp</name>'
+
+Element='<name>silver Cable</name>'
+
+Element='<name>turquoise Box</name>'
+
+Element='<name>tan Smartphone</name>'
+
+Element='<name>magenta Toaster</name>'
+
+Element='<name>red Webcam</name>'
+
+Element='<name>black Monitor</name>'
+
+Element='<name>gray Lamp</name>'
+
+Element='<name>indigo Box</name>'
+
+Element='<name>green Webcam</name>'
+
+Element='<name>indigo Toast</name>'
+
+Element='<name>aquamarine Wallet</name>'
+
+Element='<name>violet Helmet</name>'
+
+Element='<name>white Toaster</name>'
+
+Element='<name>red Spoon</name>'
+
+Element='<name>lime Bag</name>'
+
+Element='<name>red Filament</name>'
+
+Element='<name>turquoise Lamp</name>'
+
+Element='<name>orange Keyboard</name>'
+
+Element='<name>blue Latex Book</name>'
+
+Element='<name>navy Monitor</name>'
+
+Element='<name>navy Printer</name>'
+
+Element='<name>cyan Ultrasonic Sensors for Mbot</name>'
+
+Element='<name>maroon Latex Book</name>'
+
+Element='<name>aquamarine Lamp</name>'
+
+Element='<name>blue Cable</name>'
+
+Element='<name>lime CD Elton John</name>'
+
+Element='<name>teal Filament</name>'
+
+Element='<name>green Latex Book</name>'
+
+Element='<name>white Computer</name>'
+
+Element='<name>gray Monitor</name>'
+
+Element='<name>turquoise Clock</name>'
+
+Element='<name>tan Toaster</name>'
+
+Element='<name>green Keyboard</name>'
+
+Element='<name>turquoise Computer</name>'
+
+Element='<name>teal Box</name>'
+
+Element='<name>navy Guitar</name>'
+
+Element='<name>indigo Monitor</name>'
+
+Element='<name>aquamarine Spoon</name>'
+
+Element='<name>black Toaster</name>'
+
+Element='<name>gray USB Stick</name>'
+
+Element='<name>blue Ultrasonic Sensors for Mbot</name>'
+
+Element='<name>turquoise Filament</name>'
+
+Element='<name>olive Hoover</name>'
+
+Element='<name>magenta Chips</name>'
+
+Element='<name>cyan Ultrasonic Sensors for Mbot</name>'
+
+Element='<name>brown Latex Book</name>'
+
+Element='<name>cyan Chips</name>'
+
+Element='<name>pink CD Elton John</name>'
+
+Element='<name>blue Smartphone</name>'
+
+Element='<name>brown Bag</name>'
+
+Element='<name>white Bag</name>'
+
+Element='<name>magenta Spoon</name>'
+
+Element='<name>orange CD Elton John</name>'
+
+Element='<name>olive Latex Book</name>'
+
+Element='<name>blue Helmet</name>'
