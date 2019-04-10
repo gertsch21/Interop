@@ -4,22 +4,22 @@
 <xsl:element name="root"> 
 <xsl:element name="worker">
 	<xsl:attribute name="svnr">
-		<xsl:text>1001201187</xsl:text>
+		<xsl:text>1111111111</xsl:text>
 	</xsl:attribute>
 	<xsl:attribute name="entrydate">
-		<xsl:text>2017-04-02</xsl:text>
+		<xsl:text>2000-01-01</xsl:text>
 	</xsl:attribute>
 	<xsl:attribute name="unique_feature">
-		<xsl:text>moody</xsl:text>
+		<xsl:text></xsl:text>
 	</xsl:attribute>
 	<xsl:element name="first_name">
-		<xsl:text>Ann</xsl:text>
+		<xsl:text>firstname</xsl:text>
 	</xsl:element>
 	<xsl:element name="last_name">
-		<xsl:text>Gates</xsl:text>
+		<xsl:text>lastname</xsl:text>
 	</xsl:element>
 	<xsl:element name="nickname">
-		<xsl:text>Piano Red</xsl:text>
+		<xsl:text>nickname</xsl:text>
 	</xsl:element>
 	<xsl:element name="plans">
 		<xsl:for-each select="//Project">
@@ -29,13 +29,13 @@
 				<xsl:value-of select="@ID"/>
 			</xsl:attribute>
 			<xsl:attribute name="status">
-				<xsl:text>ready to prepare</xsl:text>
+				<xsl:text>not known</xsl:text>
 			</xsl:attribute>
 			<xsl:attribute name="priority">
-				<xsl:text>high</xsl:text>
+				<xsl:text>not known</xsl:text>
 			</xsl:attribute>
 			<xsl:element name="endproduct_name">
-				<xsl:text>The red wine Monitor</xsl:text>
+				<xsl:text>not known</xsl:text>
 			</xsl:element>
 		</xsl:element>
 		</xsl:for-each>
