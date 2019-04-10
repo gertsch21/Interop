@@ -18,7 +18,7 @@
     <xsl:element name="plans">
 	
 		<!--<time><xsl:value-of select="FirstName/../../EndTimestamp"/></time> --> <!-- would be to get the project data-->
-		<xsl:element name="plan">
+		<!-- <xsl:element name="plan"> -->
 			<!-- <xsl:attribute name="plan_id"> -->
 				<!-- <xsl:text>0</xsl:text> -->
 			<!-- </xsl:attribute> -->
@@ -51,7 +51,7 @@
 					<!-- <xsl:text>Gates</xsl:text> -->
 				<!-- </xsl:element> -->
 			<!-- </xsl:element> -->
-		</xsl:element>
+		<!-- </xsl:element> -->
 	</xsl:element>
 </xsl:element>
 </xsl:for-each>
