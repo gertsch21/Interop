@@ -1,37 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
-<root> 
-<warehouse warehouse_id="1" country="Austria">
-	<warehousename>The green kind warehouse</warehousename>
-	<gla>100</gla>
-	<printers>
+
+<xsl:element name="root"> 
+
+<xsl:element name="warehouse">
+	<xsl:attribute name="warehouse_id">
+		<xsl:text>1</xsl:text>
+	</xsl:attribute>
+	<xsl:attribute name="country">
+		<xsl:text>Austria</xsl:text>
+	</xsl:attribute>
+	<xsl:element name="warehousename">
+		<xsl:text>The green kind warehouse</xsl:text>
+	</xsl:element>
+	<xsl:element name="gla">
+		<xsl:text>100</xsl:text>
+	</xsl:element>
+	<xsl:element name="printers">
 		<xsl:for-each select="//Printer">
-			<printer>
+			<xsl:element name="printer">
 				<xsl:attribute name="printer_id">
 					<xsl:value-of select="@SerialNo"/>
 				</xsl:attribute>
-				<printer_info>
-					<name>printername</name>
-					<weight>20</weight>
-					<measurements>
-						<print_width>11</print_width>
-						<print_depth>11</print_depth>
-						<print_height>11</print_height>
-					</measurements>
-				</printer_info>
+				<xsl:element name="printer_info">
+					<xsl:element name="name">
+						<xsl:text>printername</xsl:text>
+					</xsl:element>
+					<xsl:element name="weight">
+						<xsl:text>20</xsl:text>
+					</xsl:element>
+					<xsl:element name="measurements">
+						<xsl:element name="print_width">
+							<xsl:text>11</xsl:text>
+						</xsl:element>
+						<xsl:element name="print_depth">
+							<xsl:text>11</xsl:text>
+						</xsl:element>
+						<xsl:element name="print_height">
+							<xsl:text>11</xsl:text>
+						</xsl:element>
+					</xsl:element>
+				</xsl:element>
 				<extruder_type>
 					<!--<xsl:value-of select="@Type"/>--> <!--darf nur bestimmte werte annehmen, die mein kollege nicht gesetzt hat(Direct, Hotend, Bowden, oder leer)-->
 				</extruder_type>
-				<price>100</price>
+				<xsl:element name="price"
+					<xsl:text>100</xsl:text>
+				</xsl:element>
 				<printed_plans>
 					<!-- no information about which printer printed a specific plan -->
 				</printed_plans>
-			</printer>
+			</xsl:element>
 		</xsl:for-each>
-	</printers>
-</warehouse>
-</root>
+	</xsl:element>
+</xsl:element>
+</xsl:element>
 </xsl:template>
 </xsl:stylesheet>
 
