@@ -40,24 +40,24 @@
 							<xsl:text>not known</xsl:text>
 						</xsl:element>
 						<xsl:element name="weight">
-							<xsl:text>0</xsl:text>
+							<xsl:text>1</xsl:text>
 						</xsl:element>
 						<xsl:element name="measurements">
 							<xsl:element name="print_width">
-								<xsl:text>0</xsl:text>
+								<xsl:text>1</xsl:text>
 							</xsl:element>
 							<xsl:element name="print_depth">
-								<xsl:text>0</xsl:text>
+								<xsl:text>1</xsl:text>
 							</xsl:element>
 							<xsl:element name="print_height">
-								<xsl:text>0</xsl:text>
+								<xsl:text>1</xsl:text>
 							</xsl:element>
 						</xsl:element>
 					</xsl:element>
 					<extruder_type>
 						<!--<xsl:value-of select="@Type"/>--> <!--darf nur bestimmte werte annehmen, die mein kollege nicht gesetzt hat(Direct, Hotend, Bowden, oder leer)-->
 					</extruder_type>
-					<price>100</price>
+					<price>1</price>
 					
 				</xsl:element>
 			</xsl:for-each>

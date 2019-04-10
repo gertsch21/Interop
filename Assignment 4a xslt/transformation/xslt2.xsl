@@ -28,17 +28,17 @@
 						<xsl:text>not known</xsl:text>
 					</xsl:element>
 					<xsl:element name="weight">
-						<xsl:text>0</xsl:text>
+						<xsl:text>1</xsl:text>
 					</xsl:element>
 					<xsl:element name="measurements">
 						<xsl:element name="print_width">
-							<xsl:text>0</xsl:text>
+							<xsl:text>1</xsl:text>
 						</xsl:element>
 						<xsl:element name="print_depth">
-							<xsl:text>0</xsl:text>
+							<xsl:text>1</xsl:text>
 						</xsl:element>
 						<xsl:element name="print_height">
-							<xsl:text>0</xsl:text>
+							<xsl:text>1</xsl:text>
 						</xsl:element>
 					</xsl:element>
 				</xsl:element>
@@ -46,7 +46,7 @@
 					<!--<xsl:value-of select="@Type"/>--> <!--darf nur bestimmte werte annehmen, die mein kollege nicht gesetzt hat(Direct, Hotend, Bowden, oder leer)-->
 				</extruder_type>
 				<xsl:element name="price">
-					<xsl:text>0</xsl:text>
+					<xsl:text>1</xsl:text>
 				</xsl:element>
 				<printed_plans>
 					<!-- no information about which printer printed a specific plan -->
