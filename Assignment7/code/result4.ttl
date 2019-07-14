@@ -1,0 +1,2067 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix : <http://www.example.org/> .
+
+<http://www.example.org/items/102>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-06-11" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/orange Keyboard" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Ebay" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/105>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-05-14" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/aquamarine Wallet" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Wish" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/12>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-06-02" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/red Webcam" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/129>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-07-04" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/navy Monitor" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Kohls" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/160>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-06-09" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/tan Smartphone" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Wish" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/162>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-07-17" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/yellow Latex Book" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Kohls" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/19>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-05-14" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/orange Wallet" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Walmart" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/195>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-06-14" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/white Bag" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Wish" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/22>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-07-07" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/indigo Box" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Walmart" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/221>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-05-17" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/green Cable" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Wish" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/231>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-07-16" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/blue Bag" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Sears" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/250>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-05-25" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/blue Keyboard" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Sears" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/264>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-05-27" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/orange CD Elton John" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Amazon" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/265>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-07-15" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/magenta Chips" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Amazon" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/284>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-07-12" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/red Smartphone" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/288>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-05-02" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/silver Lamp" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Costco" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/289>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-05-26" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/turquoise Box" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Wish" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/30>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-07-02" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/indigo Toast" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Aliexpress" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/319>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-06-23" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/brown Latex Book" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/358>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-06-07" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/brown Latex Book" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Aliexpress" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/375>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-05-03" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/olive Latex Book" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Aliexpress" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/376>
+    :hasAdditionalInfo "Call me maybe." ;
+    :hasDueDate "2019-07-16" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/lime Bag" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Costco" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/386>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-05-11" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/red Filament" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Sears" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/387>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-06-06" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/pink CD Elton John" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Conrad" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/391>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-06-26" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/green Webcam" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Ebay" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/394>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-07-11" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/maroon Smartphone" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Conrad" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/399>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-05-09" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/gray Printer" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Costco" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/40>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-07-06" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/navy Wallet" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Ebay" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/403>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-06-02" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/gray Webcam" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Aliexpress" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/407>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-05-04" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/indigo Monitor" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Conrad" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/411>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-06-09" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/green Latex Book" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Wish" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/427>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-05-22" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/gray USB Stick" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Aliexpress" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/433>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-06-02" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/navy Printer" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Aliexpress" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/434>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-07-12" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/blue Smartphone" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Amazon" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/441>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-06-22" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/maroon Toast" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/448>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-07-15" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/green Lamp" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Walmart" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/449>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-06-22" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/black Lamp" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Wish" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/452>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-07-05" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/silver Chips" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Walmart" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/467>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-07-07" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/teal Box" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Ebay" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/510>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-05-15" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/teal Filament" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Conrad" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/513>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-07-25" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/turquoise Filament" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Walmart" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/520>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-06-08" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/green Keyboard" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Sears" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/539>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-06-03" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/black Cable" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/541>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-05-18" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/blue Toaster" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/551>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-06-09" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/yellow Smartphone" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Costco" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/554>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-06-17" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/aquamarine Filament" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Amazon" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/561>
+    :hasAdditionalInfo "Call me maybe." ;
+    :hasDueDate "2019-05-06" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/violet Helmet" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Aliexpress" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/562>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-05-03" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/white Computer" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Walmart" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/611>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-06-06" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/turquoise Clock" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Wish" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/621>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-07-10" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/aquamarine Lamp" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Conrad" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/623>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-07-19" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/aquamarine Cable" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Aliexpress" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/628>
+    :hasAdditionalInfo "Call me maybe." ;
+    :hasDueDate "2019-06-25" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/gray Lamp" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Amazon" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/637>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-06-01" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/silver Wallet" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/649>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-07-07" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/pink Ultrasonic Sensors for Mbot" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Amazon" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/657>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-05-15" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/black Chips" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Costco" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/674>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-07-26" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/cyan Ultrasonic Sensors for Mbot" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Wish" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/689>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-05-11" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/tan Toaster" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Walmart" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/704>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-06-16" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/gray Monitor" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Kohls" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/723>
+    :hasAdditionalInfo "Call me maybe." ;
+    :hasDueDate "2019-06-06" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/aquamarine CD Elton John" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/727>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-06-17" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/magenta Spoon" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/73>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-05-21" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/gray Cable" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Costco" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/731>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-06-18" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/purple Printer" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Costco" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/738>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-06-22" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/blue Helmet" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Kohls" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/75>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-05-13" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/cyan Chips" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/754>
+    :hasAdditionalInfo "Call me maybe." ;
+    :hasDueDate "2019-05-12" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/white Toaster" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Ebay" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/756>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-05-11" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/maroon Ultrasonic Sensors for Mbot" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Sears" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/766>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-06-18" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/black Toaster" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Ebay" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/777>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-06-06" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/aquamarine Spoon" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Wish" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/807>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-06-02" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/black Monitor" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Costco" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/81>
+    :hasAdditionalInfo "Call me maybe." ;
+    :hasDueDate "2019-07-22" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/cyan Ultrasonic Sensors for Mbot" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/817>
+    :hasAdditionalInfo "Make it very nice." ;
+    :hasDueDate "2019-07-01" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/red Dog" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Aliexpress" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/839>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-07-09" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/turquoise Lamp" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Walmart" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/85>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-07-17" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/olive Box" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Amazon" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/857>
+    :hasAdditionalInfo "Call me maybe." ;
+    :hasDueDate "2019-07-22" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/red Spoon" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Walmart" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/859>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-05-21" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/navy Guitar" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Ebay" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/869>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-05-17" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/brown Bag" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Kohls" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/885>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-07-17" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/orange CD Elton John" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Kohls" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/892>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-06-25" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/blue Cable" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Kohls" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/915>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-05-17" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/black Hoover" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/922>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-06-15" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/blue Latex Book" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Amazon" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/923>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-07-04" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/silver Cable" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Conrad" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/931>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-05-19" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/blue Chips" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Amazon" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/936>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-07-09" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/silver Printer" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Ebay" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/959>
+    :hasAdditionalInfo "We are the best! Never forget that." ;
+    :hasDueDate "2019-07-11" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/teal Box" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Kohls" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/969>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-05-04" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/turquoise Computer" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Sears" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/975>
+    :hasAdditionalInfo "Business informatics rocks!" ;
+    :hasDueDate "2019-07-14" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/olive Hoover" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Aliexpress" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/977>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-05-06" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/teal Hoover" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Amazon" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/98>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-05-16" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/lime CD Elton John" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Kohls" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/982>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-06-13" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/lime Bag" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Etsy" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/983>
+    :hasAdditionalInfo "Whenever there is a problem... SOLVE IT!" ;
+    :hasDueDate "2019-05-07" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/blue Ultrasonic Sensors for Mbot" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Sears" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/988>
+    :hasAdditionalInfo "It should be fancy." ;
+    :hasDueDate "2019-06-26" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/maroon Latex Book" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Conrad" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/items/998>
+    :hasAdditionalInfo "Call me maybe." ;
+    :hasDueDate "2019-07-17" ;
+    :hasListEntryDate "2019-03-27" ;
+    :hasName "http://www.example.org/item_names/magenta Toaster" ;
+    :hasSellerSuggestion "http://www.example.org/seller_suggestion/Walmart" ;
+    :is_finished "http://www.example.org/is_finished/false" ;
+    a :item .
+
+<http://www.example.org/plans/1000>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020maroon\u0020spare\u0020Keyboard> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/103>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020magenta\u0020ordinary\u0020Clock> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/105>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020gray\u0020sudden\u0020Hoover> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/123>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020black\u0020fit\u0020Monitor> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/124>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020magenta\u0020broad\u0020Webcam> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/132>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020pink\u0020basic\u0020USB\u0020Stick> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/139>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020red\u0020material\u0020USB\u0020Stick> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/147>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020purple\u0020mother\u0020Box> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/16>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020lime\u0020pretty\u0020Printer> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/170>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020yellow\u0020willing\u0020Hoover> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/18>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020violet\u0020much\u0020Hoover> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/183>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020pink\u0020male\u0020USB\u0020Stick> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/191>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020gray\u0020financial\u0020USB\u0020Stick> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/192>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020olive\u0020public\u0020Computer> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/196>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020red\u0020wine\u0020Monitor> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/197>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020magenta\u0020conscious\u0020Guitar> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/200>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020teal\u0020usual\u0020Smartphone> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/216>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020turquoise\u0020red\u0020Toaster> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/23>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020cyan\u0020corner\u0020Bag> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/242>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020magenta\u0020easy\u0020Toaster> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/249>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020silver\u0020no\u0020Box> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/250>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020cyan\u0020straight\u0020Wallet> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/256>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020gray\u0020action\u0020Guitar> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/265>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020gray\u0020prize\u0020CD\u0020Elton\u0020John> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/266>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020lime\u0020remarkable\u0020Clock> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/287>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020pink\u0020plane\u0020Latex\u0020Book> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/289>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020teal\u0020clean\u0020Cable> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/291>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020olive\u0020east\u0020Lamp> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/292>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020olive\u0020ordinary\u0020Toaster> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/301>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020olive\u0020suspicious\u0020Smartphone> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/307>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020purple\u0020gross\u0020Chips> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/309>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020tan\u0020representative\u0020Hoover> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/310>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020black\u0020even\u0020Computer> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/311>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020orange\u0020strong\u0020Hoover> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/314>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020purple\u0020both\u0020Computer> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/315>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020lime\u0020traditional\u0020Keyboard> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/317>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020pink\u0020fresh\u0020Monitor> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/318>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020magenta\u0020all\u0020Clock> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/333>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020aquamarine\u0020sorry\u0020USB\u0020Stick> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/358>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020magenta\u0020few\u0020Ultrasonic\u0020Sensors\u0020for\u0020Mbot> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/361>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020lime\u0020what\u0020Bag> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/370>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020lime\u0020unique\u0020Lamp> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/379>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020turquoise\u0020specialist\u0020Printer> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/393>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020purple\u0020economy\u0020Wallet> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/397>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020magenta\u0020nasty\u0020Monitor> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/401>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020black\u0020strict\u0020Ultrasonic\u0020Sensors\u0020for\u0020Mbot> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/403>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020orange\u0020swimming\u0020Dog> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/404>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020maroon\u0020nasty\u0020USB\u0020Stick> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/410>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020magenta\u0020western\u0020Box> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/42>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020navy\u0020standard\u0020Guitar> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/437>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020gray\u0020wrong\u0020Guitar> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/440>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020maroon\u0020emotional\u0020Guitar> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/442>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020purple\u0020complex\u0020Wallet> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/446>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020pink\u0020expensive\u0020Cable> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/448>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020yellow\u0020practical\u0020Monitor> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/466>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020blue\u0020extreme\u0020Filament> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/47>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020tan\u0020weekly\u0020Ultrasonic\u0020Sensors\u0020for\u0020Mbot> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/476>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020brown\u0020sweet\u0020Computer> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/479>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020violet\u0020flat\u0020Filament> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/484>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020lime\u0020certain\u0020Bag> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/489>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020blue\u0020nasty\u0020Spoon> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/493>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020yellow\u0020sudden\u0020Guitar> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/512>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020brown\u0020amazing\u0020Hoover> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/517>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020silver\u0020actual\u0020Keyboard> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/522>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020aquamarine\u0020dependent\u0020USB\u0020Stick> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/529>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020cyan\u0020aggressive\u0020Filament> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/534>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020violet\u0020overall\u0020Dog> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/547>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020gray\u0020narrow\u0020Monitor> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/564>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020violet\u0020open\u0020Smartphone> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/572>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020white\u0020standard\u0020Guitar> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/574>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020teal\u0020present\u0020Filament> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/608>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020blue\u0020eastern\u0020Box> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/618>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020magenta\u0020pregnant\u0020Printer> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/634>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020gray\u0020little\u0020Guitar> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/635>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020black\u0020left\u0020Ultrasonic\u0020Sensors\u0020for\u0020Mbot> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/656>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020tan\u0020administrative\u0020Wallet> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/664>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020blue\u0020budget\u0020Dog> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/677>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020gray\u0020rich\u0020Guitar> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/709>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020tan\u0020ordinary\u0020Hoover> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/72>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020gray\u0020practical\u0020Toast> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/721>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020white\u0020yellow\u0020Computer> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/75>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020aquamarine\u0020equivalent\u0020Chips> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/754>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020tan\u0020plus\u0020Bag> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/768>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020turquoise\u0020enough\u0020Guitar> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/785>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020cyan\u0020spiritual\u0020Smartphone> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/791>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020gray\u0020street\u0020Bag> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/802>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020black\u0020federal\u0020Spoon> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/803>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020turquoise\u0020sad\u0020Dog> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/808>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020navy\u0020material\u0020Webcam> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/818>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020silver\u0020main\u0020CD\u0020Elton\u0020John> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/824>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020orange\u0020best\u0020Cable> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/855>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020violet\u0020feeling\u0020Smartphone> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/863>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020orange\u0020massive\u0020Cable> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/866>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020pink\u0020comprehensive\u0020Smartphone> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/873>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020violet\u0020white\u0020Keyboard> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/874>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020silver\u0020consistent\u0020Guitar> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/889>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020tan\u0020any\u0020Bag> ;
+    :priority <http://www.example.org/priority/medium> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/898>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020aquamarine\u0020lucky\u0020CD\u0020Elton\u0020John> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/902>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020cyan\u0020wise\u0020Clock> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/working> ;
+    a :plan .
+
+<http://www.example.org/plans/91>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020navy\u0020bitter\u0020Bag> ;
+    :priority <http://www.example.org/priority/very\u0020high> ;
+    :status <http://www.example.org/status/finished> ;
+    a :plan .
+
+<http://www.example.org/plans/916>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020black\u0020anxious\u0020Ultrasonic\u0020Sensors\u0020for\u0020Mbot> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/prepared> ;
+    a :plan .
+
+<http://www.example.org/plans/937>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020pink\u0020loose\u0020Ultrasonic\u0020Sensors\u0020for\u0020Mbot> ;
+    :priority <http://www.example.org/priority/low> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/939>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020turquoise\u0020enough\u0020Latex\u0020Book> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/cancelled> ;
+    a :plan .
+
+<http://www.example.org/plans/943>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020magenta\u0020tough\u0020Latex\u0020Book> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/plans/957>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020violet\u0020gross\u0020Clock> ;
+    :priority <http://www.example.org/priority/very\u0020low> ;
+    :status <http://www.example.org/status/almost\u0020finished> ;
+    a :plan .
+
+<http://www.example.org/plans/998>
+    :hasEndproductname <http://www.example.org/endproducts/The\u0020silver\u0020remarkable\u0020Toaster> ;
+    :priority <http://www.example.org/priority/high> ;
+    :status <http://www.example.org/status/ready\u0020to\u0020prepare> ;
+    a :plan .
+
+<http://www.example.org/workers/1001201187>
+    :hasFirstname <http://www.example.org/firstnames/Christopher> ;
+    :hasLastname <http://www.example.org/lastnames/Washington> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Piano\u0020Red> ;
+    a :worker .
+
+<http://www.example.org/workers/1001221180>
+    :hasFirstname <http://www.example.org/firstnames/Nicholas> ;
+    :hasLastname <http://www.example.org/lastnames/Gamble> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Blind\u0020Joe\u0020Reynolds> ;
+    a :worker .
+
+<http://www.example.org/workers/1004121294>
+    :hasFirstname <http://www.example.org/firstnames/Carolyn> ;
+    :hasLastname <http://www.example.org/lastnames/Garner> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Cow\u0020Cow\u0020Davenport> ;
+    a :worker .
+
+<http://www.example.org/workers/1016111279>
+    :hasFirstname <http://www.example.org/firstnames/William> ;
+    :hasLastname <http://www.example.org/lastnames/Barnes> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Hound\u0020Dog\u0020Taylor> ;
+    a :worker .
+
+<http://www.example.org/workers/1021191092>
+    :hasFirstname <http://www.example.org/firstnames/Kelly> ;
+    :hasLastname <http://www.example.org/lastnames/Villarreal> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Blind\u0020Mississippi\u0020Morris> ;
+    a :worker .
+
+<http://www.example.org/workers/1024101193>
+    :hasFirstname <http://www.example.org/firstnames/Roger> ;
+    :hasLastname <http://www.example.org/lastnames/Everett> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Lead\u0020Belly> ;
+    a :worker .
+
+<http://www.example.org/workers/1024191282>
+    :hasFirstname <http://www.example.org/firstnames/Katherine> ;
+    :hasLastname <http://www.example.org/lastnames/Galloway> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Catfish\u0020Keith> ;
+    a :worker .
+
+<http://www.example.org/workers/1025131095>
+    :hasFirstname <http://www.example.org/firstnames/Raymond> ;
+    :hasLastname <http://www.example.org/lastnames/Richardson> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Pink\u0020Anderson> ;
+    a :worker .
+
+<http://www.example.org/workers/1040231083>
+    :hasFirstname <http://www.example.org/firstnames/Larry> ;
+    :hasLastname <http://www.example.org/lastnames/Pratt> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Brother\u0020Montgomery> ;
+    a :worker .
+
+<http://www.example.org/workers/1049231272>
+    :hasFirstname <http://www.example.org/firstnames/Alexis> ;
+    :hasLastname <http://www.example.org/lastnames/Mcdowell> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Junior\u0020Wells> ;
+    a :worker .
+
+<http://www.example.org/workers/1056141294>
+    :hasFirstname <http://www.example.org/firstnames/Theresa> ;
+    :hasLastname <http://www.example.org/lastnames/Grimes> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Big\u0020Maceo\u0020Merriweather> ;
+    a :worker .
+
+<http://www.example.org/workers/1064171179>
+    :hasFirstname <http://www.example.org/firstnames/Heather> ;
+    :hasLastname <http://www.example.org/lastnames/Calderon> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Bull\u0020City\u0020Red> ;
+    a :worker .
+
+<http://www.example.org/workers/1082161085>
+    :hasFirstname <http://www.example.org/firstnames/Benjamin> ;
+    :hasLastname <http://www.example.org/lastnames/Burt> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Brownie\u0020McGhee> ;
+    a :worker .
+
+<http://www.example.org/workers/1119121186>
+    :hasFirstname <http://www.example.org/firstnames/Elizabeth> ;
+    :hasLastname <http://www.example.org/lastnames/Ortiz> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Otis\u0020\u0022\u0022Big\u0020Smokey\u0022\u0022\u0020Smothers\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1127131284>
+    :hasFirstname <http://www.example.org/firstnames/Willie> ;
+    :hasLastname <http://www.example.org/lastnames/Alvarez> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Seasick\u0020Steve> ;
+    a :worker .
+
+<http://www.example.org/workers/1135141187>
+    :hasFirstname <http://www.example.org/firstnames/Roger> ;
+    :hasLastname <http://www.example.org/lastnames/Faulkner> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Big\u0020Bill\u0020Broonzy> ;
+    a :worker .
+
+<http://www.example.org/workers/1144121077>
+    :hasFirstname <http://www.example.org/firstnames/Deborah> ;
+    :hasLastname <http://www.example.org/lastnames/Charles> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Buddy\u0020Guy> ;
+    a :worker .
+
+<http://www.example.org/workers/1148161196>
+    :hasFirstname <http://www.example.org/firstnames/Joshua> ;
+    :hasLastname <http://www.example.org/lastnames/Dixon> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Big\u0020Joe\u0020Turner> ;
+    a :worker .
+
+<http://www.example.org/workers/1151151289>
+    :hasFirstname <http://www.example.org/firstnames/Julia> ;
+    :hasLastname <http://www.example.org/lastnames/Cannon> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Blind\u0020Willie\u0020McTell> ;
+    a :worker .
+
+<http://www.example.org/workers/1152221099>
+    :hasFirstname <http://www.example.org/firstnames/Richard> ;
+    :hasLastname <http://www.example.org/lastnames/Neal> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Buster\u0020Pickens> ;
+    a :worker .
+
+<http://www.example.org/workers/1153221292>
+    :hasFirstname <http://www.example.org/firstnames/Danielle> ;
+    :hasLastname <http://www.example.org/lastnames/Herring> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Clarence\u0020\u0022\u0022Gatemouth\u0022\u0022\u0020Brown\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1163161298>
+    :hasFirstname <http://www.example.org/firstnames/Lisa> ;
+    :hasLastname <http://www.example.org/lastnames/Wilcox> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Big\u0020Walter\u0020Horton> ;
+    a :worker .
+
+<http://www.example.org/workers/1164211175>
+    :hasFirstname <http://www.example.org/firstnames/Arthur> ;
+    :hasLastname <http://www.example.org/lastnames/Langley> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Mack\u0020Simmons> ;
+    a :worker .
+
+<http://www.example.org/workers/1165181084>
+    :hasFirstname <http://www.example.org/firstnames/Virginia> ;
+    :hasLastname <http://www.example.org/lastnames/Shepard> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Sugar\u0020Ray\u0020Norcia> ;
+    a :worker .
+
+<http://www.example.org/workers/1177181287>
+    :hasFirstname <http://www.example.org/firstnames/Cynthia> ;
+    :hasLastname <http://www.example.org/lastnames/Lara> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Hatch> ;
+    a :worker .
+
+<http://www.example.org/workers/1183191190>
+    :hasFirstname <http://www.example.org/firstnames/Justin> ;
+    :hasLastname <http://www.example.org/lastnames/Chase> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Gary\u0020B.B.\u0020Coleman> ;
+    a :worker .
+
+<http://www.example.org/workers/1189141198>
+    :hasFirstname <http://www.example.org/firstnames/Jerry> ;
+    :hasLastname <http://www.example.org/lastnames/Barrera> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Barkin\u0020Bill\u0020Smith> ;
+    a :worker .
+
+<http://www.example.org/workers/1200261181>
+    :hasFirstname <http://www.example.org/firstnames/Judy> ;
+    :hasLastname <http://www.example.org/lastnames/Dixon> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Mr.\u0020Blues> ;
+    a :worker .
+
+<http://www.example.org/workers/1212211286>
+    :hasFirstname <http://www.example.org/firstnames/Tyler> ;
+    :hasLastname <http://www.example.org/lastnames/Richards> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Willie\u0020\u0022\u0022Big\u0020Eyes\u0022\u0022\u0020Smith\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1254121079>
+    :hasFirstname <http://www.example.org/firstnames/Kathleen> ;
+    :hasLastname <http://www.example.org/lastnames/Petty> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020T-Model\u0020Ford> ;
+    a :worker .
+
+<http://www.example.org/workers/1268261191>
+    :hasFirstname <http://www.example.org/firstnames/Ryan> ;
+    :hasLastname <http://www.example.org/lastnames/Davidson> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Lead\u0020Belly> ;
+    a :worker .
+
+<http://www.example.org/workers/1289131299>
+    :hasFirstname <http://www.example.org/firstnames/Johnny> ;
+    :hasLastname <http://www.example.org/lastnames/Garrison> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Brother\u0020Montgomery> ;
+    a :worker .
+
+<http://www.example.org/workers/1289231084>
+    :hasFirstname <http://www.example.org/firstnames/Karen> ;
+    :hasLastname <http://www.example.org/lastnames/Kemp> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Mamie\u0020Smith> ;
+    a :worker .
+
+<http://www.example.org/workers/1320251271>
+    :hasFirstname <http://www.example.org/firstnames/Sandra> ;
+    :hasLastname <http://www.example.org/lastnames/Boyle> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Tampa\u0020Red> ;
+    a :worker .
+
+<http://www.example.org/workers/1324171081>
+    :hasFirstname <http://www.example.org/firstnames/Debra> ;
+    :hasLastname <http://www.example.org/lastnames/Harrison> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Eddie\u0020\u0022\u0022Guitar\u0022\u0022\u0020Burns\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1336201089>
+    :hasFirstname <http://www.example.org/firstnames/Mark> ;
+    :hasLastname <http://www.example.org/lastnames/Pace> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Backwards\u0020Sam\u0020Firk> ;
+    a :worker .
+
+<http://www.example.org/workers/1339271270>
+    :hasFirstname <http://www.example.org/firstnames/Deborah> ;
+    :hasLastname <http://www.example.org/lastnames/Blankenship> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Lovie\u0020Austin> ;
+    a :worker .
+
+<http://www.example.org/workers/1340261091>
+    :hasFirstname <http://www.example.org/firstnames/Christina> ;
+    :hasLastname <http://www.example.org/lastnames/Burton> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Washboard\u0020Willie> ;
+    a :worker .
+
+<http://www.example.org/workers/1358151195>
+    :hasFirstname <http://www.example.org/firstnames/Joyce> ;
+    :hasLastname <http://www.example.org/lastnames/Albert> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Buster\u0020Benton> ;
+    a :worker .
+
+<http://www.example.org/workers/1359191195>
+    :hasFirstname <http://www.example.org/firstnames/Michael> ;
+    :hasLastname <http://www.example.org/lastnames/Curtis> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Bo\u0020Diddley> ;
+    a :worker .
+
+<http://www.example.org/workers/1375191292>
+    :hasFirstname <http://www.example.org/firstnames/Hannah> ;
+    :hasLastname <http://www.example.org/lastnames/Wallace> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Drive\u0020Em\u0020Down> ;
+    a :worker .
+
+<http://www.example.org/workers/1387271072>
+    :hasFirstname <http://www.example.org/firstnames/Alexis> ;
+    :hasLastname <http://www.example.org/lastnames/Reyes> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Big\u0020Bill\u0020Broonzy> ;
+    a :worker .
+
+<http://www.example.org/workers/1397221186>
+    :hasFirstname <http://www.example.org/firstnames/Eugene> ;
+    :hasLastname <http://www.example.org/lastnames/Benjamin> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Dave\u0020\u0022\u0022Snaker\u0022\u0022\u0020Ray\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1402171297>
+    :hasFirstname <http://www.example.org/firstnames/Scott> ;
+    :hasLastname <http://www.example.org/lastnames/Gilmore> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Brother\u0020Montgomery> ;
+    a :worker .
+
+<http://www.example.org/workers/1403211074>
+    :hasFirstname <http://www.example.org/firstnames/Alexis> ;
+    :hasLastname <http://www.example.org/lastnames/Pennington> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Ironing\u0020Board\u0020Sam> ;
+    a :worker .
+
+<http://www.example.org/workers/1407261170>
+    :hasFirstname <http://www.example.org/firstnames/Anthony> ;
+    :hasLastname <http://www.example.org/lastnames/Hart> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Sippie\u0020Wallace> ;
+    a :worker .
+
+<http://www.example.org/workers/1413141280>
+    :hasFirstname <http://www.example.org/firstnames/Jose> ;
+    :hasLastname <http://www.example.org/lastnames/Adams> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Blind\u0020Mississippi\u0020Morris> ;
+    a :worker .
+
+<http://www.example.org/workers/1418231092>
+    :hasFirstname <http://www.example.org/firstnames/William> ;
+    :hasLastname <http://www.example.org/lastnames/Marshall> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Mack\u0020Simmons> ;
+    a :worker .
+
+<http://www.example.org/workers/1421201185>
+    :hasFirstname <http://www.example.org/firstnames/Katherine> ;
+    :hasLastname <http://www.example.org/lastnames/Reid> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Jelly\u0020Roll\u0020Morton> ;
+    a :worker .
+
+<http://www.example.org/workers/1423181194>
+    :hasFirstname <http://www.example.org/firstnames/Margaret> ;
+    :hasLastname <http://www.example.org/lastnames/Watson> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Eddie\u0020\u0022\u0022Cleanhead\u0022\u0022\u0020Vinson\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1427171090>
+    :hasFirstname <http://www.example.org/firstnames/Harry> ;
+    :hasLastname <http://www.example.org/lastnames/Gilbert> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Smokey\u0020Wilson> ;
+    a :worker .
+
+<http://www.example.org/workers/1427271093>
+    :hasFirstname <http://www.example.org/firstnames/Brittany> ;
+    :hasLastname <http://www.example.org/lastnames/Charles> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Dave\u0020\u0022\u0022Snaker\u0022\u0022\u0020Ray\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1438131094>
+    :hasFirstname <http://www.example.org/firstnames/Virginia> ;
+    :hasLastname <http://www.example.org/lastnames/Marsh> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Huey\u0020\u0022\u0022Piano\u0022\u0022\u0020Smith\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1446151294>
+    :hasFirstname <http://www.example.org/firstnames/Adam> ;
+    :hasLastname <http://www.example.org/lastnames/Summers> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Magic\u0020Slim> ;
+    a :worker .
+
+<http://www.example.org/workers/1459131271>
+    :hasFirstname <http://www.example.org/firstnames/Tyler> ;
+    :hasLastname <http://www.example.org/lastnames/Shannon> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Black\u0020Ace> ;
+    a :worker .
+
+<http://www.example.org/workers/1461181094>
+    :hasFirstname <http://www.example.org/firstnames/Gabriel> ;
+    :hasLastname <http://www.example.org/lastnames/Pruitt> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Cow\u0020Cow\u0020Davenport> ;
+    a :worker .
+
+<http://www.example.org/workers/1466221179>
+    :hasFirstname <http://www.example.org/firstnames/Brittany> ;
+    :hasLastname <http://www.example.org/lastnames/Bolton> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Lead\u0020Belly> ;
+    a :worker .
+
+<http://www.example.org/workers/1485221295>
+    :hasFirstname <http://www.example.org/firstnames/Jessica> ;
+    :hasLastname <http://www.example.org/lastnames/Buck> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Sunnyland\u0020Slim> ;
+    a :worker .
+
+<http://www.example.org/workers/1489211095>
+    :hasFirstname <http://www.example.org/firstnames/Kyle> ;
+    :hasLastname <http://www.example.org/lastnames/Cooper> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Sonny\u0020Terry> ;
+    a :worker .
+
+<http://www.example.org/workers/1492271191>
+    :hasFirstname <http://www.example.org/firstnames/Keith> ;
+    :hasLastname <http://www.example.org/lastnames/Wall> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Whistlin\u0020Alex\u0020Moore> ;
+    a :worker .
+
+<http://www.example.org/workers/1502111074>
+    :hasFirstname <http://www.example.org/firstnames/Frances> ;
+    :hasLastname <http://www.example.org/lastnames/Murray> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Pops\u0020Staples> ;
+    a :worker .
+
+<http://www.example.org/workers/1506111189>
+    :hasFirstname <http://www.example.org/firstnames/Debra> ;
+    :hasLastname <http://www.example.org/lastnames/Torres> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Lil\u0020Ed\u0020Williams> ;
+    a :worker .
+
+<http://www.example.org/workers/1512191179>
+    :hasFirstname <http://www.example.org/firstnames/Patricia> ;
+    :hasLastname <http://www.example.org/lastnames/Douglas> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Lil\u0020Ed\u0020Williams> ;
+    a :worker .
+
+<http://www.example.org/workers/1537171171>
+    :hasFirstname <http://www.example.org/firstnames/Shirley> ;
+    :hasLastname <http://www.example.org/lastnames/Holcomb> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Papa\u0020Charlie\u0020Jackson> ;
+    a :worker .
+
+<http://www.example.org/workers/1538251287>
+    :hasFirstname <http://www.example.org/firstnames/Michael> ;
+    :hasLastname <http://www.example.org/lastnames/Knapp> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Alger\u0020\u0022\u0022Texas\u0022\u0022\u0020Alexander\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1555241078>
+    :hasFirstname <http://www.example.org/firstnames/Deborah> ;
+    :hasLastname <http://www.example.org/lastnames/Wagner> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Moses\u0020\u0022\u0022Whispering\u0022\u0022\u0020Smith\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1581211077>
+    :hasFirstname <http://www.example.org/firstnames/Joan> ;
+    :hasLastname <http://www.example.org/lastnames/Woodward> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Bo\u0020Diddley> ;
+    a :worker .
+
+<http://www.example.org/workers/1630101294>
+    :hasFirstname <http://www.example.org/firstnames/Ann> ;
+    :hasLastname <http://www.example.org/lastnames/Santiago> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Bull\u0020City\u0020Red> ;
+    a :worker .
+
+<http://www.example.org/workers/1630161073>
+    :hasFirstname <http://www.example.org/firstnames/Ashley> ;
+    :hasLastname <http://www.example.org/lastnames/William> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Catfish\u0020Keith> ;
+    a :worker .
+
+<http://www.example.org/workers/1643121179>
+    :hasFirstname <http://www.example.org/firstnames/Harry> ;
+    :hasLastname <http://www.example.org/lastnames/Lara> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Drive\u0020Em\u0020Down> ;
+    a :worker .
+
+<http://www.example.org/workers/1652181289>
+    :hasFirstname <http://www.example.org/firstnames/Zachary> ;
+    :hasLastname <http://www.example.org/lastnames/Brock> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Milton> ;
+    a :worker .
+
+<http://www.example.org/workers/1658221076>
+    :hasFirstname <http://www.example.org/firstnames/Lawrence> ;
+    :hasLastname <http://www.example.org/lastnames/Welch> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Big\u0020Walter\u0020Horton> ;
+    a :worker .
+
+<http://www.example.org/workers/1662271180>
+    :hasFirstname <http://www.example.org/firstnames/Harry> ;
+    :hasLastname <http://www.example.org/lastnames/Pickett> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Sonny\u0020Boy\u0020Williamson\u0020II> ;
+    a :worker .
+
+<http://www.example.org/workers/1665221182>
+    :hasFirstname <http://www.example.org/firstnames/Amber> ;
+    :hasLastname <http://www.example.org/lastnames/Wilcox> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Blind\u0020Lemon\u0020Jefferson> ;
+    a :worker .
+
+<http://www.example.org/workers/1671261278>
+    :hasFirstname <http://www.example.org/firstnames/Catherine> ;
+    :hasLastname <http://www.example.org/lastnames/Hickman> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Clarence\u0020\u0022\u0022Gatemouth\u0022\u0022\u0020Brown\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1687271192>
+    :hasFirstname <http://www.example.org/firstnames/Austin> ;
+    :hasLastname <http://www.example.org/lastnames/Frank> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Alger\u0020\u0022\u0022Texas\u0022\u0022\u0020Alexander\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1710171096>
+    :hasFirstname <http://www.example.org/firstnames/Rose> ;
+    :hasLastname <http://www.example.org/lastnames/Mcneil> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Sonny\u0020Boy\u0020Williamson\u0020I> ;
+    a :worker .
+
+<http://www.example.org/workers/1724181171>
+    :hasFirstname <http://www.example.org/firstnames/Lawrence> ;
+    :hasLastname <http://www.example.org/lastnames/Gardner> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Washboard\u0020Sam> ;
+    a :worker .
+
+<http://www.example.org/workers/1754261294>
+    :hasFirstname <http://www.example.org/firstnames/Beverly> ;
+    :hasLastname <http://www.example.org/lastnames/Johnston> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Hatch> ;
+    a :worker .
+
+<http://www.example.org/workers/1778191293>
+    :hasFirstname <http://www.example.org/firstnames/Anthony> ;
+    :hasLastname <http://www.example.org/lastnames/Rosa> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Koko\u0020Taylor> ;
+    a :worker .
+
+<http://www.example.org/workers/1784191084>
+    :hasFirstname <http://www.example.org/firstnames/Jonathan> ;
+    :hasLastname <http://www.example.org/lastnames/Phillips> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Sippie\u0020Wallace> ;
+    a :worker .
+
+<http://www.example.org/workers/1790181189>
+    :hasFirstname <http://www.example.org/firstnames/Christine> ;
+    :hasLastname <http://www.example.org/lastnames/Ashley> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Lightnin\u0020Hopkins> ;
+    a :worker .
+
+<http://www.example.org/workers/1819121287>
+    :hasFirstname <http://www.example.org/firstnames/Alice> ;
+    :hasLastname <http://www.example.org/lastnames/Reid> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Blind\u0020Gary\u0020Davis> ;
+    a :worker .
+
+<http://www.example.org/workers/1827251272>
+    :hasFirstname <http://www.example.org/firstnames/Paul> ;
+    :hasLastname <http://www.example.org/lastnames/Brennan> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Willie\u0020Littlefield> ;
+    a :worker .
+
+<http://www.example.org/workers/1829241278>
+    :hasFirstname <http://www.example.org/firstnames/Anthony> ;
+    :hasLastname <http://www.example.org/lastnames/Harris> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Mississippi\u0020John\u0020Hurt> ;
+    a :worker .
+
+<http://www.example.org/workers/1833141198>
+    :hasFirstname <http://www.example.org/firstnames/Nicholas> ;
+    :hasLastname <http://www.example.org/lastnames/Graves> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Hip\u0020Linkchain> ;
+    a :worker .
+
+<http://www.example.org/workers/1851221099>
+    :hasFirstname <http://www.example.org/firstnames/Emma> ;
+    :hasLastname <http://www.example.org/lastnames/Lang> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Hatch> ;
+    a :worker .
+
+<http://www.example.org/workers/1855191070>
+    :hasFirstname <http://www.example.org/firstnames/Daniel> ;
+    :hasLastname <http://www.example.org/lastnames/Juarez> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Smoky\u0020Babe> ;
+    a :worker .
+
+<http://www.example.org/workers/1862271187>
+    :hasFirstname <http://www.example.org/firstnames/William> ;
+    :hasLastname <http://www.example.org/lastnames/Eaton> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Bumble\u0020Bee\u0020Slim> ;
+    a :worker .
+
+<http://www.example.org/workers/1877141182>
+    :hasFirstname <http://www.example.org/firstnames/Lawrence> ;
+    :hasLastname <http://www.example.org/lastnames/Bryant> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Cow\u0020Cow\u0020Davenport> ;
+    a :worker .
+
+<http://www.example.org/workers/1878231091>
+    :hasFirstname <http://www.example.org/firstnames/David> ;
+    :hasLastname <http://www.example.org/lastnames/Hamilton> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Shakey\u0020Jake\u0020Harris> ;
+    a :worker .
+
+<http://www.example.org/workers/1892201074>
+    :hasFirstname <http://www.example.org/firstnames/Megan> ;
+    :hasLastname <http://www.example.org/lastnames/Thompson> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Sippie\u0020Wallace> ;
+    a :worker .
+
+<http://www.example.org/workers/1896101093>
+    :hasFirstname <http://www.example.org/firstnames/Jonathan> ;
+    :hasLastname <http://www.example.org/lastnames/Sutton> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Pinetop\u0020Smith> ;
+    a :worker .
+
+<http://www.example.org/workers/1897101273>
+    :hasFirstname <http://www.example.org/firstnames/Steven> ;
+    :hasLastname <http://www.example.org/lastnames/Gilbert> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020\u0022Eddie\u0020\u0022\u0022Cleanhead\u0022\u0022\u0020Vinson\u0022> ;
+    a :worker .
+
+<http://www.example.org/workers/1918181296>
+    :hasFirstname <http://www.example.org/firstnames/Randy> ;
+    :hasLastname <http://www.example.org/lastnames/Beasley> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Peg\u0020Leg\u0020Howell> ;
+    a :worker .
+
+<http://www.example.org/workers/1936151070>
+    :hasFirstname <http://www.example.org/firstnames/Zachary> ;
+    :hasLastname <http://www.example.org/lastnames/Hayden> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Georgia\u0020Tom> ;
+    a :worker .
+
+<http://www.example.org/workers/1939141280>
+    :hasFirstname <http://www.example.org/firstnames/Ralph> ;
+    :hasLastname <http://www.example.org/lastnames/Clark> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Big\u0020Walter\u0020Horton> ;
+    a :worker .
+
+<http://www.example.org/workers/1944261072>
+    :hasFirstname <http://www.example.org/firstnames/Deborah> ;
+    :hasLastname <http://www.example.org/lastnames/Cohen> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Little\u0020Milton> ;
+    a :worker .
+
+<http://www.example.org/workers/1951221290>
+    :hasFirstname <http://www.example.org/firstnames/Kayla> ;
+    :hasLastname <http://www.example.org/lastnames/Franklin> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Sleepy\u0020John\u0020Estes> ;
+    a :worker .
+
+<http://www.example.org/workers/1962101191>
+    :hasFirstname <http://www.example.org/firstnames/Lauren> ;
+    :hasLastname <http://www.example.org/lastnames/Farley> ;
+    :hasNickname <http://www.example.org/nicknames/\u0020Mamie\u0020Smith> ;
+    a :worker .
+

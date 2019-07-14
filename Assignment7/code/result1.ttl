@@ -1,0 +1,4297 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix : <http://www.example.org/> .
+
+<http://www.example.org/printers/1>
+    :hasPrintername "http://www.example.org/printernames/Bell-Mark boring 7" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/1000>
+    :hasPrintername "http://www.example.org/printernames/Samsung argumentative 9" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/102>
+    :hasPrintername "http://www.example.org/printernames/Diablo cheerful 23" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/103>
+    :hasPrintername "http://www.example.org/printernames/Office Automation Systems Inc (OASYS) open-minded 47" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/104>
+    :hasPrintername "http://www.example.org/printernames/Lenovo sensitive 49" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/105>
+    :hasPrintername "http://www.example.org/printernames/Eltron charming 45" ;
+    :inWarehouse "http://www.example.org/warehouses/100" ;
+    a :printer .
+
+<http://www.example.org/printers/106>
+    :hasPrintername "http://www.example.org/printernames/Control Data Corporation dull 5" ;
+    :inWarehouse "http://www.example.org/warehouses/54" ;
+    a :printer .
+
+<http://www.example.org/printers/107>
+    :hasPrintername "http://www.example.org/printernames/Panasonic carefree 49" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/108>
+    :hasPrintername "http://www.example.org/printernames/Sewoo polite 16" ;
+    :inWarehouse "http://www.example.org/warehouses/82" ;
+    a :printer .
+
+<http://www.example.org/printers/11>
+    :hasPrintername "http://www.example.org/printernames/Trilog dull 26" ;
+    :inWarehouse "http://www.example.org/warehouses/77" ;
+    a :printer .
+
+<http://www.example.org/printers/110>
+    :hasPrintername "http://www.example.org/printernames/Microcom Corporation stubborn 7" ;
+    :inWarehouse "http://www.example.org/warehouses/100" ;
+    a :printer .
+
+<http://www.example.org/printers/111>
+    :hasPrintername "http://www.example.org/printernames/Memorex Telex annoying 8" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/113>
+    :hasPrintername "http://www.example.org/printernames/Fujitsu polite 22" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/114>
+    :hasPrintername "http://www.example.org/printernames/Konica argumentative 24" ;
+    :inWarehouse "http://www.example.org/warehouses/61" ;
+    a :printer .
+
+<http://www.example.org/printers/115>
+    :hasPrintername "http://www.example.org/printernames/A. B. Dick ambitious 2" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/116>
+    :hasPrintername "http://www.example.org/printernames/Comtec loyal 2" ;
+    :inWarehouse "http://www.example.org/warehouses/77" ;
+    a :printer .
+
+<http://www.example.org/printers/117>
+    :hasPrintername "http://www.example.org/printernames/IBM cheerful 50" ;
+    :inWarehouse "http://www.example.org/warehouses/7" ;
+    a :printer .
+
+<http://www.example.org/printers/118>
+    :hasPrintername "http://www.example.org/printernames/Source Technologies two-faced 4" ;
+    :inWarehouse "http://www.example.org/warehouses/44" ;
+    a :printer .
+
+<http://www.example.org/printers/119>
+    :hasPrintername "http://www.example.org/printernames/Canon annoying 48" ;
+    :inWarehouse "http://www.example.org/warehouses/33" ;
+    a :printer .
+
+<http://www.example.org/printers/120>
+    :hasPrintername "http://www.example.org/printernames/Wipro Technologies mean 32" ;
+    :inWarehouse "http://www.example.org/warehouses/34" ;
+    a :printer .
+
+<http://www.example.org/printers/121>
+    :hasPrintername "http://www.example.org/printernames/Microcom Corporation careless 49" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/122>
+    :hasPrintername "http://www.example.org/printernames/Heidelberg conventional 44" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/124>
+    :hasPrintername "http://www.example.org/printernames/Hewlett-Packard moody 26" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/125>
+    :hasPrintername "http://www.example.org/printernames/Facit cruel 10" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/127>
+    :hasPrintername "http://www.example.org/printernames/Datamax-ONeil generous 50" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/128>
+    :hasPrintername "http://www.example.org/printernames/Zebra hard-working 26" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/13>
+    :hasPrintername "http://www.example.org/printernames/Comtec cantankerous 6" ;
+    :inWarehouse "http://www.example.org/warehouses/87" ;
+    a :printer .
+
+<http://www.example.org/printers/130>
+    :hasPrintername "http://www.example.org/printernames/Tally stubborn 14" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/131>
+    :hasPrintername "http://www.example.org/printernames/Bull honest 5" ;
+    :inWarehouse "http://www.example.org/warehouses/31" ;
+    a :printer .
+
+<http://www.example.org/printers/132>
+    :hasPrintername "http://www.example.org/printernames/QMS self-confident 29" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/133>
+    :hasPrintername "http://www.example.org/printernames/Oki Data narrow-minded 32" ;
+    :inWarehouse "http://www.example.org/warehouses/6" ;
+    a :printer .
+
+<http://www.example.org/printers/134>
+    :hasPrintername "http://www.example.org/printernames/Fargo brave 34" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/136>
+    :hasPrintername "http://www.example.org/printernames/Apple hard-working 18" ;
+    :inWarehouse "http://www.example.org/warehouses/92" ;
+    a :printer .
+
+<http://www.example.org/printers/137>
+    :hasPrintername "http://www.example.org/printernames/Lenovo conceited 40" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/138>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics ambitious 27" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/139>
+    :hasPrintername "http://www.example.org/printernames/Printronix generous 48" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/14>
+    :hasPrintername "http://www.example.org/printernames/Bull brave 32" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/140>
+    :hasPrintername "http://www.example.org/printernames/Lanier very cruel 19" ;
+    :inWarehouse "http://www.example.org/warehouses/4" ;
+    a :printer .
+
+<http://www.example.org/printers/141>
+    :hasPrintername "http://www.example.org/printernames/Océ loyal 25" ;
+    :inWarehouse "http://www.example.org/warehouses/86" ;
+    a :printer .
+
+<http://www.example.org/printers/142>
+    :hasPrintername "http://www.example.org/printernames/Ricoh kind 25" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/143>
+    :hasPrintername "http://www.example.org/printernames/Benson, Inc. loyal 27" ;
+    :inWarehouse "http://www.example.org/warehouses/6" ;
+    a :printer .
+
+<http://www.example.org/printers/145>
+    :hasPrintername "http://www.example.org/printernames/ALPS proud 17" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/146>
+    :hasPrintername "http://www.example.org/printernames/Everex (Abaton div.) friendly 6" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/147>
+    :hasPrintername "http://www.example.org/printernames/TEC brave 15" ;
+    :inWarehouse "http://www.example.org/warehouses/71" ;
+    a :printer .
+
+<http://www.example.org/printers/148>
+    :hasPrintername "http://www.example.org/printernames/Trilog proud 27" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/149>
+    :hasPrintername "http://www.example.org/printernames/Printer Systems International kind 28" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/150>
+    :hasPrintername "http://www.example.org/printernames/Toshiba moody 44" ;
+    :inWarehouse "http://www.example.org/warehouses/77" ;
+    a :printer .
+
+<http://www.example.org/printers/151>
+    :hasPrintername "http://www.example.org/printernames/Toshiba dull 29" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/153>
+    :hasPrintername "http://www.example.org/printernames/Datamax-ONeil ambitious 2" ;
+    :inWarehouse "http://www.example.org/warehouses/44" ;
+    a :printer .
+
+<http://www.example.org/printers/154>
+    :hasPrintername "http://www.example.org/printernames/AMT Datasouth trustworthy 40" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/155>
+    :hasPrintername "http://www.example.org/printernames/Panasonic argumentative 50" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/157>
+    :hasPrintername "http://www.example.org/printernames/Pentax annoying 24" ;
+    :inWarehouse "http://www.example.org/warehouses/83" ;
+    a :printer .
+
+<http://www.example.org/printers/158>
+    :hasPrintername "http://www.example.org/printernames/Control Data Corporation dull 34" ;
+    :inWarehouse "http://www.example.org/warehouses/97" ;
+    a :printer .
+
+<http://www.example.org/printers/16>
+    :hasPrintername "http://www.example.org/printernames/Rank Xerox shy - introverted 34" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/160>
+    :hasPrintername "http://www.example.org/printernames/Océ modest 37" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/161>
+    :hasPrintername "http://www.example.org/printernames/Office Automation Systems Inc (OASYS) strict 33" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/162>
+    :hasPrintername "http://www.example.org/printernames/Canon friendly 20" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/163>
+    :hasPrintername "http://www.example.org/printernames/Star friendly 34" ;
+    :inWarehouse "http://www.example.org/warehouses/77" ;
+    a :printer .
+
+<http://www.example.org/printers/164>
+    :hasPrintername "http://www.example.org/printernames/Xerox International Partners ambitious 39" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/165>
+    :hasPrintername "http://www.example.org/printernames/Microcom Corporation bitchy 46" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/166>
+    :hasPrintername "http://www.example.org/printernames/Fargo cautious 33" ;
+    :inWarehouse "http://www.example.org/warehouses/92" ;
+    a :printer .
+
+<http://www.example.org/printers/167>
+    :hasPrintername "http://www.example.org/printernames/Kentek charming 28" ;
+    :inWarehouse "http://www.example.org/warehouses/81" ;
+    a :printer .
+
+<http://www.example.org/printers/169>
+    :hasPrintername "http://www.example.org/printernames/Fargo sensitive 4" ;
+    :inWarehouse "http://www.example.org/warehouses/71" ;
+    a :printer .
+
+<http://www.example.org/printers/172>
+    :hasPrintername "http://www.example.org/printernames/Avery Dennison generous 39" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/174>
+    :hasPrintername "http://www.example.org/printernames/Juki honest 36" ;
+    :inWarehouse "http://www.example.org/warehouses/6" ;
+    a :printer .
+
+<http://www.example.org/printers/175>
+    :hasPrintername "http://www.example.org/printernames/Mannesmann Tally quarrelsome 22" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/176>
+    :hasPrintername "http://www.example.org/printernames/Compuprint conceited 16" ;
+    :inWarehouse "http://www.example.org/warehouses/74" ;
+    a :printer .
+
+<http://www.example.org/printers/177>
+    :hasPrintername "http://www.example.org/printernames/Fujifilm conventional 23" ;
+    :inWarehouse "http://www.example.org/warehouses/38" ;
+    a :printer .
+
+<http://www.example.org/printers/178>
+    :hasPrintername "http://www.example.org/printernames/TEC self-confident 5" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/179>
+    :hasPrintername "http://www.example.org/printernames/Epson annoying 27" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/18>
+    :hasPrintername "http://www.example.org/printernames/Versatec weird 21" ;
+    :inWarehouse "http://www.example.org/warehouses/7" ;
+    a :printer .
+
+<http://www.example.org/printers/180>
+    :hasPrintername "http://www.example.org/printernames/Decision Data lazy 46" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/182>
+    :hasPrintername "http://www.example.org/printernames/Delphax Technologies inc two-faced 29" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/183>
+    :hasPrintername "http://www.example.org/printernames/Zebra boring 41" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/184>
+    :hasPrintername "http://www.example.org/printernames/Lanier narrow-minded 30" ;
+    :inWarehouse "http://www.example.org/warehouses/4" ;
+    a :printer .
+
+<http://www.example.org/printers/185>
+    :hasPrintername "http://www.example.org/printernames/AMT Datasouth boring 39" ;
+    :inWarehouse "http://www.example.org/warehouses/35" ;
+    a :printer .
+
+<http://www.example.org/printers/186>
+    :hasPrintername "http://www.example.org/printernames/Nakajima very cruel 39" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/187>
+    :hasPrintername "http://www.example.org/printernames/Syscan boring 39" ;
+    :inWarehouse "http://www.example.org/warehouses/86" ;
+    a :printer .
+
+<http://www.example.org/printers/188>
+    :hasPrintername "http://www.example.org/printernames/Sato ambitious 25" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/189>
+    :hasPrintername "http://www.example.org/printernames/TEC flirtatious 21" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/19>
+    :hasPrintername "http://www.example.org/printernames/Sharp naughty 43" ;
+    :inWarehouse "http://www.example.org/warehouses/7" ;
+    a :printer .
+
+<http://www.example.org/printers/190>
+    :hasPrintername "http://www.example.org/printernames/Trilog narrow-minded 13" ;
+    :inWarehouse "http://www.example.org/warehouses/86" ;
+    a :printer .
+
+<http://www.example.org/printers/191>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics open-minded 23" ;
+    :inWarehouse "http://www.example.org/warehouses/15" ;
+    a :printer .
+
+<http://www.example.org/printers/192>
+    :hasPrintername "http://www.example.org/printernames/GENICOM sensitive 31" ;
+    :inWarehouse "http://www.example.org/warehouses/86" ;
+    a :printer .
+
+<http://www.example.org/printers/193>
+    :hasPrintername "http://www.example.org/printernames/Hitachi moody 4" ;
+    :inWarehouse "http://www.example.org/warehouses/12" ;
+    a :printer .
+
+<http://www.example.org/printers/194>
+    :hasPrintername "http://www.example.org/printernames/Hewlett-Packard cautious 45" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/195>
+    :hasPrintername "http://www.example.org/printernames/ALPS sensitive 47" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/196>
+    :hasPrintername "http://www.example.org/printernames/Epson shy - introverted 13" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/199>
+    :hasPrintername "http://www.example.org/printernames/Riso Kagaku Corporation reliable 39" ;
+    :inWarehouse "http://www.example.org/warehouses/86" ;
+    a :printer .
+
+<http://www.example.org/printers/2>
+    :hasPrintername "http://www.example.org/printernames/Dell narrow-minded 25" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/20>
+    :hasPrintername "http://www.example.org/printernames/Printronix strict 15" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/200>
+    :hasPrintername "http://www.example.org/printernames/Compuprint nuts 24" ;
+    :inWarehouse "http://www.example.org/warehouses/15" ;
+    a :printer .
+
+<http://www.example.org/printers/204>
+    :hasPrintername "http://www.example.org/printernames/Datasouth flirtatious 28" ;
+    :inWarehouse "http://www.example.org/warehouses/38" ;
+    a :printer .
+
+<http://www.example.org/printers/208>
+    :hasPrintername "http://www.example.org/printernames/Output Technology nuts 7" ;
+    :inWarehouse "http://www.example.org/warehouses/34" ;
+    a :printer .
+
+<http://www.example.org/printers/209>
+    :hasPrintername "http://www.example.org/printernames/Lanier proud 39" ;
+    :inWarehouse "http://www.example.org/warehouses/51" ;
+    a :printer .
+
+<http://www.example.org/printers/21>
+    :hasPrintername "http://www.example.org/printernames/Toshiba naive 7" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/210>
+    :hasPrintername "http://www.example.org/printernames/GCC Printers nuts 15" ;
+    :inWarehouse "http://www.example.org/warehouses/51" ;
+    a :printer .
+
+<http://www.example.org/printers/211>
+    :hasPrintername "http://www.example.org/printernames/DASCOM shy - introverted 12" ;
+    :inWarehouse "http://www.example.org/warehouses/9" ;
+    a :printer .
+
+<http://www.example.org/printers/215>
+    :hasPrintername "http://www.example.org/printernames/Seiko narrow-minded 38" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/216>
+    :hasPrintername "http://www.example.org/printernames/Eltron dull 39" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/217>
+    :hasPrintername "http://www.example.org/printernames/Digital Equipment Corporation generous 43" ;
+    :inWarehouse "http://www.example.org/warehouses/15" ;
+    a :printer .
+
+<http://www.example.org/printers/218>
+    :hasPrintername "http://www.example.org/printernames/Tektronix stubborn 39" ;
+    :inWarehouse "http://www.example.org/warehouses/4" ;
+    a :printer .
+
+<http://www.example.org/printers/219>
+    :hasPrintername "http://www.example.org/printernames/Compress UV Printers laid-back 25" ;
+    :inWarehouse "http://www.example.org/warehouses/94" ;
+    a :printer .
+
+<http://www.example.org/printers/22>
+    :hasPrintername "http://www.example.org/printernames/Citizen naughty 5" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/221>
+    :hasPrintername "http://www.example.org/printernames/A. B. Dick moody 21" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/222>
+    :hasPrintername "http://www.example.org/printernames/Cognitive ambitious 30" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/223>
+    :hasPrintername "http://www.example.org/printernames/Fuji Xerox open-minded 42" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/225>
+    :hasPrintername "http://www.example.org/printernames/Syscan talkative 27" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/226>
+    :hasPrintername "http://www.example.org/printernames/Datamax-ONeil cheerful 32" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/229>
+    :hasPrintername "http://www.example.org/printernames/Konica Minolta careless 8" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/230>
+    :hasPrintername "http://www.example.org/printernames/Compress UV Printers charming 40" ;
+    :inWarehouse "http://www.example.org/warehouses/98" ;
+    a :printer .
+
+<http://www.example.org/printers/232>
+    :hasPrintername "http://www.example.org/printernames/A. B. Dick loyal 4" ;
+    :inWarehouse "http://www.example.org/warehouses/71" ;
+    a :printer .
+
+<http://www.example.org/printers/233>
+    :hasPrintername "http://www.example.org/printernames/Rank Xerox bitchy 18" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/234>
+    :hasPrintername "http://www.example.org/printernames/RJS conservative 48" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/235>
+    :hasPrintername "http://www.example.org/printernames/Xeikon reliable 48" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/238>
+    :hasPrintername "http://www.example.org/printernames/Sato strict 50" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/24>
+    :hasPrintername "http://www.example.org/printernames/Memorex Telex sensible 33" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/240>
+    :hasPrintername "http://www.example.org/printernames/GCC Printers bitchy 29" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/241>
+    :hasPrintername "http://www.example.org/printernames/Memorex Telex carefree 47" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/242>
+    :hasPrintername "http://www.example.org/printernames/Compress UV Printers ambitious 17" ;
+    :inWarehouse "http://www.example.org/warehouses/58" ;
+    a :printer .
+
+<http://www.example.org/printers/244>
+    :hasPrintername "http://www.example.org/printernames/Compuprint cowardly 43" ;
+    :inWarehouse "http://www.example.org/warehouses/54" ;
+    a :printer .
+
+<http://www.example.org/printers/245>
+    :hasPrintername "http://www.example.org/printernames/Juki flirtatious 32" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/246>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics boring 21" ;
+    :inWarehouse "http://www.example.org/warehouses/87" ;
+    a :printer .
+
+<http://www.example.org/printers/248>
+    :hasPrintername "http://www.example.org/printernames/Epson brave 9" ;
+    :inWarehouse "http://www.example.org/warehouses/40" ;
+    a :printer .
+
+<http://www.example.org/printers/25>
+    :hasPrintername "http://www.example.org/printernames/Panasonic cautious 25" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/250>
+    :hasPrintername "http://www.example.org/printernames/Qume cowardly 30" ;
+    :inWarehouse "http://www.example.org/warehouses/87" ;
+    a :printer .
+
+<http://www.example.org/printers/251>
+    :hasPrintername "http://www.example.org/printernames/ALPS open-minded 22" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/254>
+    :hasPrintername "http://www.example.org/printernames/MapleJet dull 6" ;
+    :inWarehouse "http://www.example.org/warehouses/18" ;
+    a :printer .
+
+<http://www.example.org/printers/259>
+    :hasPrintername "http://www.example.org/printernames/TEC trustworthy 47" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/260>
+    :hasPrintername "http://www.example.org/printernames/Heidelberg flirtatious 39" ;
+    :inWarehouse "http://www.example.org/warehouses/6" ;
+    a :printer .
+
+<http://www.example.org/printers/261>
+    :hasPrintername "http://www.example.org/printernames/NEC self-confident 46" ;
+    :inWarehouse "http://www.example.org/warehouses/4" ;
+    a :printer .
+
+<http://www.example.org/printers/262>
+    :hasPrintername "http://www.example.org/printernames/Heidelberg lazy 31" ;
+    :inWarehouse "http://www.example.org/warehouses/86" ;
+    a :printer .
+
+<http://www.example.org/printers/264>
+    :hasPrintername "http://www.example.org/printernames/Bell-Mark strict 29" ;
+    :inWarehouse "http://www.example.org/warehouses/83" ;
+    a :printer .
+
+<http://www.example.org/printers/265>
+    :hasPrintername "http://www.example.org/printernames/Sewoo careless 25" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/267>
+    :hasPrintername "http://www.example.org/printernames/Output Technology laid-back 44" ;
+    :inWarehouse "http://www.example.org/warehouses/44" ;
+    a :printer .
+
+<http://www.example.org/printers/269>
+    :hasPrintername "http://www.example.org/printernames/Bell-Mark sensitive 26" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/27>
+    :hasPrintername "http://www.example.org/printernames/Printer System Corporation cruel 38" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/270>
+    :hasPrintername "http://www.example.org/printernames/Sharp mean 48" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/271>
+    :hasPrintername "http://www.example.org/printernames/Control Data Corporation selfish 21" ;
+    :inWarehouse "http://www.example.org/warehouses/6" ;
+    a :printer .
+
+<http://www.example.org/printers/273>
+    :hasPrintername "http://www.example.org/printernames/Minolta-QMS cruel 48" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/274>
+    :hasPrintername "http://www.example.org/printernames/Datamax-ONeil dull 11" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/275>
+    :hasPrintername "http://www.example.org/printernames/DASCOM argumentative 15" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/276>
+    :hasPrintername "http://www.example.org/printernames/Fujitsu big-headed 36" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/277>
+    :hasPrintername "http://www.example.org/printernames/Heidelberg sensitive 26" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/278>
+    :hasPrintername "http://www.example.org/printernames/Cognitive nuts 27" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/279>
+    :hasPrintername "http://www.example.org/printernames/Microcom Corporation charming 40" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/28>
+    :hasPrintername "http://www.example.org/printernames/TallyGenicom modest 19" ;
+    :inWarehouse "http://www.example.org/warehouses/17" ;
+    a :printer .
+
+<http://www.example.org/printers/282>
+    :hasPrintername "http://www.example.org/printernames/Datasouth cautious 6" ;
+    :inWarehouse "http://www.example.org/warehouses/15" ;
+    a :printer .
+
+<http://www.example.org/printers/283>
+    :hasPrintername "http://www.example.org/printernames/Seiko kind 41" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/284>
+    :hasPrintername "http://www.example.org/printernames/Office Automation Systems Inc (OASYS) cowardly 44" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/286>
+    :hasPrintername "http://www.example.org/printernames/Samsung strict 32" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/288>
+    :hasPrintername "http://www.example.org/printernames/Toshiba crazy 33" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/289>
+    :hasPrintername "http://www.example.org/printernames/Microcom Corporation cautious 33" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/29>
+    :hasPrintername "http://www.example.org/printernames/Epson two-faced 13" ;
+    :inWarehouse "http://www.example.org/warehouses/40" ;
+    a :printer .
+
+<http://www.example.org/printers/291>
+    :hasPrintername "http://www.example.org/printernames/Hewlett-Packard moody 28" ;
+    :inWarehouse "http://www.example.org/warehouses/92" ;
+    a :printer .
+
+<http://www.example.org/printers/292>
+    :hasPrintername "http://www.example.org/printernames/Tally cantankerous 27" ;
+    :inWarehouse "http://www.example.org/warehouses/17" ;
+    a :printer .
+
+<http://www.example.org/printers/293>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics self-confident 31" ;
+    :inWarehouse "http://www.example.org/warehouses/44" ;
+    a :printer .
+
+<http://www.example.org/printers/295>
+    :hasPrintername "http://www.example.org/printernames/Centronics loyal 33" ;
+    :inWarehouse "http://www.example.org/warehouses/35" ;
+    a :printer .
+
+<http://www.example.org/printers/299>
+    :hasPrintername "http://www.example.org/printernames/Fujifilm very cruel 20" ;
+    :inWarehouse "http://www.example.org/warehouses/30" ;
+    a :printer .
+
+<http://www.example.org/printers/3>
+    :hasPrintername "http://www.example.org/printernames/AMT Datasouth moody 27" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/30>
+    :hasPrintername "http://www.example.org/printernames/Fujitsu cantankerous 19" ;
+    :inWarehouse "http://www.example.org/warehouses/98" ;
+    a :printer .
+
+<http://www.example.org/printers/300>
+    :hasPrintername "http://www.example.org/printernames/Apple very cruel 7" ;
+    :inWarehouse "http://www.example.org/warehouses/18" ;
+    a :printer .
+
+<http://www.example.org/printers/301>
+    :hasPrintername "http://www.example.org/printernames/Fujifilm nuts 25" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/302>
+    :hasPrintername "http://www.example.org/printernames/Control Data Corporation conceited 40" ;
+    :inWarehouse "http://www.example.org/warehouses/61" ;
+    a :printer .
+
+<http://www.example.org/printers/303>
+    :hasPrintername "http://www.example.org/printernames/Swecoin trustworthy 15" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/305>
+    :hasPrintername "http://www.example.org/printernames/Checkpoint Meto kind 48" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/307>
+    :hasPrintername "http://www.example.org/printernames/Panasonic argumentative 24" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/308>
+    :hasPrintername "http://www.example.org/printernames/Nipson mean 28" ;
+    :inWarehouse "http://www.example.org/warehouses/82" ;
+    a :printer .
+
+<http://www.example.org/printers/31>
+    :hasPrintername "http://www.example.org/printernames/Konica Minolta laid-back 33" ;
+    :inWarehouse "http://www.example.org/warehouses/30" ;
+    a :printer .
+
+<http://www.example.org/printers/311>
+    :hasPrintername "http://www.example.org/printernames/Axonix stubborn 19" ;
+    :inWarehouse "http://www.example.org/warehouses/12" ;
+    a :printer .
+
+<http://www.example.org/printers/312>
+    :hasPrintername "http://www.example.org/printernames/Trilog conventional 48" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/313>
+    :hasPrintername "http://www.example.org/printernames/Control Data Corporation charming 3" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/315>
+    :hasPrintername "http://www.example.org/printernames/ASK Technology conceited 20" ;
+    :inWarehouse "http://www.example.org/warehouses/93" ;
+    a :printer .
+
+<http://www.example.org/printers/318>
+    :hasPrintername "http://www.example.org/printernames/Konica sensitive 8" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/319>
+    :hasPrintername "http://www.example.org/printernames/Riso Kagaku Corporation flirtatious 10" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/320>
+    :hasPrintername "http://www.example.org/printernames/Siemens Nixdorf flirtatious 48" ;
+    :inWarehouse "http://www.example.org/warehouses/2" ;
+    a :printer .
+
+<http://www.example.org/printers/321>
+    :hasPrintername "http://www.example.org/printernames/Copal flirtatious 32" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/322>
+    :hasPrintername "http://www.example.org/printernames/Panasonic stubborn 2" ;
+    :inWarehouse "http://www.example.org/warehouses/30" ;
+    a :printer .
+
+<http://www.example.org/printers/323>
+    :hasPrintername "http://www.example.org/printernames/Printronix argumentative 24" ;
+    :inWarehouse "http://www.example.org/warehouses/93" ;
+    a :printer .
+
+<http://www.example.org/printers/325>
+    :hasPrintername "http://www.example.org/printernames/TallyGenicom naughty 44" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/326>
+    :hasPrintername "http://www.example.org/printernames/Printer System Corporation loyal 26" ;
+    :inWarehouse "http://www.example.org/warehouses/83" ;
+    a :printer .
+
+<http://www.example.org/printers/327>
+    :hasPrintername "http://www.example.org/printernames/Cognitive modest 40" ;
+    :inWarehouse "http://www.example.org/warehouses/81" ;
+    a :printer .
+
+<http://www.example.org/printers/329>
+    :hasPrintername "http://www.example.org/printernames/DASCOM strict 17" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/33>
+    :hasPrintername "http://www.example.org/printernames/Versatec mean 8" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/330>
+    :hasPrintername "http://www.example.org/printernames/Office Automation Systems Inc (OASYS) self-confident 24" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/331>
+    :hasPrintername "http://www.example.org/printernames/Rank Xerox cruel 7" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/332>
+    :hasPrintername "http://www.example.org/printernames/PSI Engineering proud 8" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/335>
+    :hasPrintername "http://www.example.org/printernames/Checkpoint Meto friendly 25" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/337>
+    :hasPrintername "http://www.example.org/printernames/Xerox International Partners big-headed 45" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/338>
+    :hasPrintername "http://www.example.org/printernames/Nidec Copal two-faced 13" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/339>
+    :hasPrintername "http://www.example.org/printernames/Minolta-QMS crazy 17" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/34>
+    :hasPrintername "http://www.example.org/printernames/UBIX Corp. sympathetic (understanding) 47" ;
+    :inWarehouse "http://www.example.org/warehouses/35" ;
+    a :printer .
+
+<http://www.example.org/printers/340>
+    :hasPrintername "http://www.example.org/printernames/RJS naughty 12" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/341>
+    :hasPrintername "http://www.example.org/printernames/Sato sensible 20" ;
+    :inWarehouse "http://www.example.org/warehouses/98" ;
+    a :printer .
+
+<http://www.example.org/printers/343>
+    :hasPrintername "http://www.example.org/printernames/Control Data Corporation weird 30" ;
+    :inWarehouse "http://www.example.org/warehouses/54" ;
+    a :printer .
+
+<http://www.example.org/printers/344>
+    :hasPrintername "http://www.example.org/printernames/Compress UV Printers annoying 50" ;
+    :inWarehouse "http://www.example.org/warehouses/64" ;
+    a :printer .
+
+<http://www.example.org/printers/345>
+    :hasPrintername "http://www.example.org/printernames/Nidec Copal open-minded 22" ;
+    :inWarehouse "http://www.example.org/warehouses/81" ;
+    a :printer .
+
+<http://www.example.org/printers/346>
+    :hasPrintername "http://www.example.org/printernames/Source Technologies big-headed 45" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/347>
+    :hasPrintername "http://www.example.org/printernames/Citizen big-headed 48" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/349>
+    :hasPrintername "http://www.example.org/printernames/Bull bad-tempered 39" ;
+    :inWarehouse "http://www.example.org/warehouses/97" ;
+    a :printer .
+
+<http://www.example.org/printers/35>
+    :hasPrintername "http://www.example.org/printernames/Tally reliable 3" ;
+    :inWarehouse "http://www.example.org/warehouses/82" ;
+    a :printer .
+
+<http://www.example.org/printers/350>
+    :hasPrintername "http://www.example.org/printernames/Tektronix conceited 3" ;
+    :inWarehouse "http://www.example.org/warehouses/2" ;
+    a :printer .
+
+<http://www.example.org/printers/352>
+    :hasPrintername "http://www.example.org/printernames/Avery Dennison honest 24" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/353>
+    :hasPrintername "http://www.example.org/printernames/Printer System Corporation reliable 25" ;
+    :inWarehouse "http://www.example.org/warehouses/100" ;
+    a :printer .
+
+<http://www.example.org/printers/354>
+    :hasPrintername "http://www.example.org/printernames/Sewoo shy - introverted 25" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/355>
+    :hasPrintername "http://www.example.org/printernames/Sato sympathetic (understanding) 50" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/356>
+    :hasPrintername "http://www.example.org/printernames/Advanced Matrix Technology mean 48" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/357>
+    :hasPrintername "http://www.example.org/printernames/Everex (Abaton div.) dull 45" ;
+    :inWarehouse "http://www.example.org/warehouses/86" ;
+    a :printer .
+
+<http://www.example.org/printers/358>
+    :hasPrintername "http://www.example.org/printernames/Diablo charming 17" ;
+    :inWarehouse "http://www.example.org/warehouses/58" ;
+    a :printer .
+
+<http://www.example.org/printers/36>
+    :hasPrintername "http://www.example.org/printernames/Siemens Nixdorf weird 45" ;
+    :inWarehouse "http://www.example.org/warehouses/64" ;
+    a :printer .
+
+<http://www.example.org/printers/363>
+    :hasPrintername "http://www.example.org/printernames/Siemens Nixdorf bad-tempered 49" ;
+    :inWarehouse "http://www.example.org/warehouses/81" ;
+    a :printer .
+
+<http://www.example.org/printers/364>
+    :hasPrintername "http://www.example.org/printernames/Qume shy - introverted 45" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/365>
+    :hasPrintername "http://www.example.org/printernames/Hewlett-Packard selfish 7" ;
+    :inWarehouse "http://www.example.org/warehouses/31" ;
+    a :printer .
+
+<http://www.example.org/printers/367>
+    :hasPrintername "http://www.example.org/printernames/Rank Xerox self-confident 12" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/368>
+    :hasPrintername "http://www.example.org/printernames/Minolta-QMS stubborn 39" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/369>
+    :hasPrintername "http://www.example.org/printernames/Minolta-QMS kind 10" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/370>
+    :hasPrintername "http://www.example.org/printernames/Seiko Epson hard-working 28" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/372>
+    :hasPrintername "http://www.example.org/printernames/MapleJet careless 46" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/373>
+    :hasPrintername "http://www.example.org/printernames/Star Micronics sympathetic (understanding) 13" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/374>
+    :hasPrintername "http://www.example.org/printernames/DASCOM bad-tempered 44" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/376>
+    :hasPrintername "http://www.example.org/printernames/Fargo proud 44" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/377>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics cantankerous 31" ;
+    :inWarehouse "http://www.example.org/warehouses/17" ;
+    a :printer .
+
+<http://www.example.org/printers/378>
+    :hasPrintername "http://www.example.org/printernames/Fujitsu brave 16" ;
+    :inWarehouse "http://www.example.org/warehouses/15" ;
+    a :printer .
+
+<http://www.example.org/printers/380>
+    :hasPrintername "http://www.example.org/printernames/IBM narrow-minded 28" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/382>
+    :hasPrintername "http://www.example.org/printernames/Facit cowardly 25" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/383>
+    :hasPrintername "http://www.example.org/printernames/Citizen generous 22" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/386>
+    :hasPrintername "http://www.example.org/printernames/TallyGenicom weird 29" ;
+    :inWarehouse "http://www.example.org/warehouses/17" ;
+    a :printer .
+
+<http://www.example.org/printers/387>
+    :hasPrintername "http://www.example.org/printernames/Qume honest 19" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/388>
+    :hasPrintername "http://www.example.org/printernames/Checkpoint Meto quarrelsome 6" ;
+    :inWarehouse "http://www.example.org/warehouses/71" ;
+    a :printer .
+
+<http://www.example.org/printers/389>
+    :hasPrintername "http://www.example.org/printernames/IBM cruel 17" ;
+    :inWarehouse "http://www.example.org/warehouses/77" ;
+    a :printer .
+
+<http://www.example.org/printers/39>
+    :hasPrintername "http://www.example.org/printernames/Hewlett-Packard cautious 24" ;
+    :inWarehouse "http://www.example.org/warehouses/93" ;
+    a :printer .
+
+<http://www.example.org/printers/390>
+    :hasPrintername "http://www.example.org/printernames/Fargo annoying 20" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/392>
+    :hasPrintername "http://www.example.org/printernames/Xeikon sympathetic (understanding) 49" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/394>
+    :hasPrintername "http://www.example.org/printernames/Xeikon shy - introverted 7" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/395>
+    :hasPrintername "http://www.example.org/printernames/Seiko Epson lazy 17" ;
+    :inWarehouse "http://www.example.org/warehouses/94" ;
+    a :printer .
+
+<http://www.example.org/printers/396>
+    :hasPrintername "http://www.example.org/printernames/Sewoo selfish 33" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/397>
+    :hasPrintername "http://www.example.org/printernames/Seiko nuts 34" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/398>
+    :hasPrintername "http://www.example.org/printernames/Fujifilm talkative 37" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/399>
+    :hasPrintername "http://www.example.org/printernames/Wipro Technologies friendly 5" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/40>
+    :hasPrintername "http://www.example.org/printernames/Olivetti crazy 42" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/400>
+    :hasPrintername "http://www.example.org/printernames/Samsung flirtatious 21" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/402>
+    :hasPrintername "http://www.example.org/printernames/Citizen cantankerous 16" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/405>
+    :hasPrintername "http://www.example.org/printernames/RJS cheerful 28" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/407>
+    :hasPrintername "http://www.example.org/printernames/Facit reliable 32" ;
+    :inWarehouse "http://www.example.org/warehouses/87" ;
+    a :printer .
+
+<http://www.example.org/printers/408>
+    :hasPrintername "http://www.example.org/printernames/Hitachi flirtatious 13" ;
+    :inWarehouse "http://www.example.org/warehouses/100" ;
+    a :printer .
+
+<http://www.example.org/printers/409>
+    :hasPrintername "http://www.example.org/printernames/Fargo mean 42" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/41>
+    :hasPrintername "http://www.example.org/printernames/Star Micronics conceited 25" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/410>
+    :hasPrintername "http://www.example.org/printernames/Cognitive modest 35" ;
+    :inWarehouse "http://www.example.org/warehouses/30" ;
+    a :printer .
+
+<http://www.example.org/printers/411>
+    :hasPrintername "http://www.example.org/printernames/Sewoo friendly 32" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/413>
+    :hasPrintername "http://www.example.org/printernames/Sato strict 43" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/416>
+    :hasPrintername "http://www.example.org/printernames/TallyGenicom cowardly 30" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/418>
+    :hasPrintername "http://www.example.org/printernames/Hitachi strict 6" ;
+    :inWarehouse "http://www.example.org/warehouses/17" ;
+    a :printer .
+
+<http://www.example.org/printers/42>
+    :hasPrintername "http://www.example.org/printernames/Lake Erie Systems naive 36" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/421>
+    :hasPrintername "http://www.example.org/printernames/PSI Engineering laid-back 45" ;
+    :inWarehouse "http://www.example.org/warehouses/87" ;
+    a :printer .
+
+<http://www.example.org/printers/422>
+    :hasPrintername "http://www.example.org/printernames/Oki Data moody 13" ;
+    :inWarehouse "http://www.example.org/warehouses/44" ;
+    a :printer .
+
+<http://www.example.org/printers/424>
+    :hasPrintername "http://www.example.org/printernames/Trilog strict 23" ;
+    :inWarehouse "http://www.example.org/warehouses/7" ;
+    a :printer .
+
+<http://www.example.org/printers/425>
+    :hasPrintername "http://www.example.org/printernames/Datasouth kind 24" ;
+    :inWarehouse "http://www.example.org/warehouses/12" ;
+    a :printer .
+
+<http://www.example.org/printers/426>
+    :hasPrintername "http://www.example.org/printernames/Printer System Corporation annoying 12" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/428>
+    :hasPrintername "http://www.example.org/printernames/Minolta-QMS loyal 14" ;
+    :inWarehouse "http://www.example.org/warehouses/83" ;
+    a :printer .
+
+<http://www.example.org/printers/429>
+    :hasPrintername "http://www.example.org/printernames/Output Technology two-faced 44" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/430>
+    :hasPrintername "http://www.example.org/printernames/Facit modest 35" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/431>
+    :hasPrintername "http://www.example.org/printernames/Compress UV Printers mean 24" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/433>
+    :hasPrintername "http://www.example.org/printernames/Panasonic generous 41" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/435>
+    :hasPrintername "http://www.example.org/printernames/Kyocera Mita shy - introverted 25" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/436>
+    :hasPrintername "http://www.example.org/printernames/Bell-Mark two-faced 24" ;
+    :inWarehouse "http://www.example.org/warehouses/93" ;
+    a :printer .
+
+<http://www.example.org/printers/439>
+    :hasPrintername "http://www.example.org/printernames/Canon very cruel 43" ;
+    :inWarehouse "http://www.example.org/warehouses/13" ;
+    a :printer .
+
+<http://www.example.org/printers/44>
+    :hasPrintername "http://www.example.org/printernames/Everex (Abaton div.) kind 18" ;
+    :inWarehouse "http://www.example.org/warehouses/94" ;
+    a :printer .
+
+<http://www.example.org/printers/440>
+    :hasPrintername "http://www.example.org/printernames/Compuprint charming 8" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/441>
+    :hasPrintername "http://www.example.org/printernames/TEC open-minded 5" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/442>
+    :hasPrintername "http://www.example.org/printernames/Facit honest 49" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/443>
+    :hasPrintername "http://www.example.org/printernames/Panasonic very cruel 6" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/445>
+    :hasPrintername "http://www.example.org/printernames/QMS loyal 18" ;
+    :inWarehouse "http://www.example.org/warehouses/100" ;
+    a :printer .
+
+<http://www.example.org/printers/446>
+    :hasPrintername "http://www.example.org/printernames/Control Data Corporation naughty 15" ;
+    :inWarehouse "http://www.example.org/warehouses/54" ;
+    a :printer .
+
+<http://www.example.org/printers/447>
+    :hasPrintername "http://www.example.org/printernames/Canon conventional 39" ;
+    :inWarehouse "http://www.example.org/warehouses/15" ;
+    a :printer .
+
+<http://www.example.org/printers/448>
+    :hasPrintername "http://www.example.org/printernames/Xerox mean 43" ;
+    :inWarehouse "http://www.example.org/warehouses/58" ;
+    a :printer .
+
+<http://www.example.org/printers/45>
+    :hasPrintername "http://www.example.org/printernames/Checkpoint Meto polite 12" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/451>
+    :hasPrintername "http://www.example.org/printernames/Nipson conceited 47" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/456>
+    :hasPrintername "http://www.example.org/printernames/Syscan boring 32" ;
+    :inWarehouse "http://www.example.org/warehouses/64" ;
+    a :printer .
+
+<http://www.example.org/printers/457>
+    :hasPrintername "http://www.example.org/printernames/Sharp cruel 45" ;
+    :inWarehouse "http://www.example.org/warehouses/40" ;
+    a :printer .
+
+<http://www.example.org/printers/458>
+    :hasPrintername "http://www.example.org/printernames/Wipro Technologies moody 44" ;
+    :inWarehouse "http://www.example.org/warehouses/30" ;
+    a :printer .
+
+<http://www.example.org/printers/46>
+    :hasPrintername "http://www.example.org/printernames/Kodak cruel 20" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/461>
+    :hasPrintername "http://www.example.org/printernames/Canon dull 6" ;
+    :inWarehouse "http://www.example.org/warehouses/38" ;
+    a :printer .
+
+<http://www.example.org/printers/462>
+    :hasPrintername "http://www.example.org/printernames/Rank Xerox carefree 31" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/463>
+    :hasPrintername "http://www.example.org/printernames/Diablo stubborn 50" ;
+    :inWarehouse "http://www.example.org/warehouses/54" ;
+    a :printer .
+
+<http://www.example.org/printers/464>
+    :hasPrintername "http://www.example.org/printernames/Axonix brave 2" ;
+    :inWarehouse "http://www.example.org/warehouses/17" ;
+    a :printer .
+
+<http://www.example.org/printers/465>
+    :hasPrintername "http://www.example.org/printernames/Diablo ambitious 22" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/467>
+    :hasPrintername "http://www.example.org/printernames/Lexmark conventional 19" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/468>
+    :hasPrintername "http://www.example.org/printernames/Versatec trustworthy 7" ;
+    :inWarehouse "http://www.example.org/warehouses/77" ;
+    a :printer .
+
+<http://www.example.org/printers/469>
+    :hasPrintername "http://www.example.org/printernames/Lexmark friendly 20" ;
+    :inWarehouse "http://www.example.org/warehouses/9" ;
+    a :printer .
+
+<http://www.example.org/printers/47>
+    :hasPrintername "http://www.example.org/printernames/Zebra quarrelsome 25" ;
+    :inWarehouse "http://www.example.org/warehouses/100" ;
+    a :printer .
+
+<http://www.example.org/printers/470>
+    :hasPrintername "http://www.example.org/printernames/Fujitsu cheerful 33" ;
+    :inWarehouse "http://www.example.org/warehouses/51" ;
+    a :printer .
+
+<http://www.example.org/printers/471>
+    :hasPrintername "http://www.example.org/printernames/Konica Minolta cowardly 6" ;
+    :inWarehouse "http://www.example.org/warehouses/83" ;
+    a :printer .
+
+<http://www.example.org/printers/472>
+    :hasPrintername "http://www.example.org/printernames/Konica dull 23" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/473>
+    :hasPrintername "http://www.example.org/printernames/Advanced Matrix Technology big-headed 29" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/474>
+    :hasPrintername "http://www.example.org/printernames/Comtec sensitive 37" ;
+    :inWarehouse "http://www.example.org/warehouses/15" ;
+    a :printer .
+
+<http://www.example.org/printers/475>
+    :hasPrintername "http://www.example.org/printernames/Tally quarrelsome 3" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/476>
+    :hasPrintername "http://www.example.org/printernames/Océ shy - introverted 9" ;
+    :inWarehouse "http://www.example.org/warehouses/2" ;
+    a :printer .
+
+<http://www.example.org/printers/479>
+    :hasPrintername "http://www.example.org/printernames/Printer Systems International naive 39" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/48>
+    :hasPrintername "http://www.example.org/printernames/Epson reliable 19" ;
+    :inWarehouse "http://www.example.org/warehouses/6" ;
+    a :printer .
+
+<http://www.example.org/printers/480>
+    :hasPrintername "http://www.example.org/printernames/Star Micronics cheerful 7" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/481>
+    :hasPrintername "http://www.example.org/printernames/Fargo sensible 50" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/483>
+    :hasPrintername "http://www.example.org/printernames/Sato brave 12" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/484>
+    :hasPrintername "http://www.example.org/printernames/Nakajima naughty 1" ;
+    :inWarehouse "http://www.example.org/warehouses/18" ;
+    a :printer .
+
+<http://www.example.org/printers/485>
+    :hasPrintername "http://www.example.org/printernames/Brother sensible 21" ;
+    :inWarehouse "http://www.example.org/warehouses/44" ;
+    a :printer .
+
+<http://www.example.org/printers/488>
+    :hasPrintername "http://www.example.org/printernames/Mannesmann Tally generous 9" ;
+    :inWarehouse "http://www.example.org/warehouses/77" ;
+    a :printer .
+
+<http://www.example.org/printers/489>
+    :hasPrintername "http://www.example.org/printernames/Pentax careless 14" ;
+    :inWarehouse "http://www.example.org/warehouses/93" ;
+    a :printer .
+
+<http://www.example.org/printers/49>
+    :hasPrintername "http://www.example.org/printernames/Memorex Telex carefree 43" ;
+    :inWarehouse "http://www.example.org/warehouses/58" ;
+    a :printer .
+
+<http://www.example.org/printers/491>
+    :hasPrintername "http://www.example.org/printernames/Texas Instruments bitchy 29" ;
+    :inWarehouse "http://www.example.org/warehouses/61" ;
+    a :printer .
+
+<http://www.example.org/printers/492>
+    :hasPrintername "http://www.example.org/printernames/InfoPrint open-minded 35" ;
+    :inWarehouse "http://www.example.org/warehouses/2" ;
+    a :printer .
+
+<http://www.example.org/printers/495>
+    :hasPrintername "http://www.example.org/printernames/Xerox shy - introverted 15" ;
+    :inWarehouse "http://www.example.org/warehouses/35" ;
+    a :printer .
+
+<http://www.example.org/printers/496>
+    :hasPrintername "http://www.example.org/printernames/Toshiba cautious 24" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/497>
+    :hasPrintername "http://www.example.org/printernames/Qume cautious 3" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/499>
+    :hasPrintername "http://www.example.org/printernames/TallyGenicom cheerful 46" ;
+    :inWarehouse "http://www.example.org/warehouses/33" ;
+    a :printer .
+
+<http://www.example.org/printers/50>
+    :hasPrintername "http://www.example.org/printernames/Fuji Xerox modest 22" ;
+    :inWarehouse "http://www.example.org/warehouses/12" ;
+    a :printer .
+
+<http://www.example.org/printers/502>
+    :hasPrintername "http://www.example.org/printernames/Memorex Telex very cruel 6" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/504>
+    :hasPrintername "http://www.example.org/printernames/Nipson nuts 33" ;
+    :inWarehouse "http://www.example.org/warehouses/2" ;
+    a :printer .
+
+<http://www.example.org/printers/506>
+    :hasPrintername "http://www.example.org/printernames/Printronix moody 7" ;
+    :inWarehouse "http://www.example.org/warehouses/58" ;
+    a :printer .
+
+<http://www.example.org/printers/507>
+    :hasPrintername "http://www.example.org/printernames/QMS annoying 17" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/509>
+    :hasPrintername "http://www.example.org/printernames/Oki Data careless 42" ;
+    :inWarehouse "http://www.example.org/warehouses/18" ;
+    a :printer .
+
+<http://www.example.org/printers/51>
+    :hasPrintername "http://www.example.org/printernames/Dell strict 31" ;
+    :inWarehouse "http://www.example.org/warehouses/61" ;
+    a :printer .
+
+<http://www.example.org/printers/510>
+    :hasPrintername "http://www.example.org/printernames/Rank Xerox moody 40" ;
+    :inWarehouse "http://www.example.org/warehouses/34" ;
+    a :printer .
+
+<http://www.example.org/printers/511>
+    :hasPrintername "http://www.example.org/printernames/Sewoo stubborn 48" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/513>
+    :hasPrintername "http://www.example.org/printernames/Decision Data sensible 45" ;
+    :inWarehouse "http://www.example.org/warehouses/83" ;
+    a :printer .
+
+<http://www.example.org/printers/515>
+    :hasPrintername "http://www.example.org/printernames/Printer System Corporation argumentative 9" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/517>
+    :hasPrintername "http://www.example.org/printernames/Canon talkative 3" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/519>
+    :hasPrintername "http://www.example.org/printernames/Qume sensible 44" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/52>
+    :hasPrintername "http://www.example.org/printernames/Minolta-QMS sensitive 37" ;
+    :inWarehouse "http://www.example.org/warehouses/97" ;
+    a :printer .
+
+<http://www.example.org/printers/520>
+    :hasPrintername "http://www.example.org/printernames/RJS sensitive 10" ;
+    :inWarehouse "http://www.example.org/warehouses/64" ;
+    a :printer .
+
+<http://www.example.org/printers/521>
+    :hasPrintername "http://www.example.org/printernames/GENICOM honest 45" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/522>
+    :hasPrintername "http://www.example.org/printernames/Printer Systems International careless 45" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/523>
+    :hasPrintername "http://www.example.org/printernames/Nakajima dull 23" ;
+    :inWarehouse "http://www.example.org/warehouses/2" ;
+    a :printer .
+
+<http://www.example.org/printers/524>
+    :hasPrintername "http://www.example.org/printernames/Toshiba laid-back 39" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/526>
+    :hasPrintername "http://www.example.org/printernames/Fuji Xerox argumentative 42" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/527>
+    :hasPrintername "http://www.example.org/printernames/Panasonic proud 44" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/529>
+    :hasPrintername "http://www.example.org/printernames/ALPS polite 8" ;
+    :inWarehouse "http://www.example.org/warehouses/35" ;
+    a :printer .
+
+<http://www.example.org/printers/536>
+    :hasPrintername "http://www.example.org/printernames/Star brave 37" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/537>
+    :hasPrintername "http://www.example.org/printernames/Nipson bitchy 14" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/538>
+    :hasPrintername "http://www.example.org/printernames/Datasouth mean 19" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/539>
+    :hasPrintername "http://www.example.org/printernames/TallyGenicom crazy 14" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/54>
+    :hasPrintername "http://www.example.org/printernames/Facit boring 27" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/540>
+    :hasPrintername "http://www.example.org/printernames/Kyocera Mita annoying 7" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/543>
+    :hasPrintername "http://www.example.org/printernames/Teletype nuts 50" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/545>
+    :hasPrintername "http://www.example.org/printernames/Everex (Abaton div.) cruel 5" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/548>
+    :hasPrintername "http://www.example.org/printernames/Copal naughty 19" ;
+    :inWarehouse "http://www.example.org/warehouses/54" ;
+    a :printer .
+
+<http://www.example.org/printers/549>
+    :hasPrintername "http://www.example.org/printernames/Fuji Xerox reliable 40" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/55>
+    :hasPrintername "http://www.example.org/printernames/LiPi Data sys. friendly 2" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/551>
+    :hasPrintername "http://www.example.org/printernames/ALPS conceited 34" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/553>
+    :hasPrintername "http://www.example.org/printernames/Compress UV Printers weird 6" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/554>
+    :hasPrintername "http://www.example.org/printernames/Toshiba cautious 47" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/555>
+    :hasPrintername "http://www.example.org/printernames/TEC sensible 10" ;
+    :inWarehouse "http://www.example.org/warehouses/7" ;
+    a :printer .
+
+<http://www.example.org/printers/556>
+    :hasPrintername "http://www.example.org/printernames/Tektronix boring 23" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/557>
+    :hasPrintername "http://www.example.org/printernames/Fuji Xerox cruel 31" ;
+    :inWarehouse "http://www.example.org/warehouses/92" ;
+    a :printer .
+
+<http://www.example.org/printers/558>
+    :hasPrintername "http://www.example.org/printernames/General Electric bad-tempered 23" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/559>
+    :hasPrintername "http://www.example.org/printernames/Copal cheerful 13" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/56>
+    :hasPrintername "http://www.example.org/printernames/Zebra loyal 24" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/560>
+    :hasPrintername "http://www.example.org/printernames/GENICOM naive 4" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/561>
+    :hasPrintername "http://www.example.org/printernames/Mannesmann Tally generous 4" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/565>
+    :hasPrintername "http://www.example.org/printernames/ALPS dull 26" ;
+    :inWarehouse "http://www.example.org/warehouses/54" ;
+    a :printer .
+
+<http://www.example.org/printers/566>
+    :hasPrintername "http://www.example.org/printernames/Fuji Xerox honest 22" ;
+    :inWarehouse "http://www.example.org/warehouses/61" ;
+    a :printer .
+
+<http://www.example.org/printers/567>
+    :hasPrintername "http://www.example.org/printernames/Dell stubborn 23" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/568>
+    :hasPrintername "http://www.example.org/printernames/General Electric ambitious 19" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/571>
+    :hasPrintername "http://www.example.org/printernames/Brother honest 33" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/573>
+    :hasPrintername "http://www.example.org/printernames/Rank Xerox cowardly 3" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/576>
+    :hasPrintername "http://www.example.org/printernames/Toshiba argumentative 1" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/579>
+    :hasPrintername "http://www.example.org/printernames/Delphax Technologies inc naive 11" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/58>
+    :hasPrintername "http://www.example.org/printernames/Minolta-QMS shy - introverted 45" ;
+    :inWarehouse "http://www.example.org/warehouses/7" ;
+    a :printer .
+
+<http://www.example.org/printers/581>
+    :hasPrintername "http://www.example.org/printernames/Minolta-QMS loyal 37" ;
+    :inWarehouse "http://www.example.org/warehouses/58" ;
+    a :printer .
+
+<http://www.example.org/printers/583>
+    :hasPrintername "http://www.example.org/printernames/Juki annoying 15" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/585>
+    :hasPrintername "http://www.example.org/printernames/Heidelberg dull 25" ;
+    :inWarehouse "http://www.example.org/warehouses/38" ;
+    a :printer .
+
+<http://www.example.org/printers/586>
+    :hasPrintername "http://www.example.org/printernames/Dell ambitious 5" ;
+    :inWarehouse "http://www.example.org/warehouses/64" ;
+    a :printer .
+
+<http://www.example.org/printers/590>
+    :hasPrintername "http://www.example.org/printernames/Citizen flirtatious 43" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/594>
+    :hasPrintername "http://www.example.org/printernames/Canon hard-working 46" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/595>
+    :hasPrintername "http://www.example.org/printernames/Hewlett-Packard moody 49" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/596>
+    :hasPrintername "http://www.example.org/printernames/Lexmark shy - introverted 27" ;
+    :inWarehouse "http://www.example.org/warehouses/9" ;
+    a :printer .
+
+<http://www.example.org/printers/597>
+    :hasPrintername "http://www.example.org/printernames/Juki cowardly 30" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/598>
+    :hasPrintername "http://www.example.org/printernames/Konica polite 48" ;
+    :inWarehouse "http://www.example.org/warehouses/12" ;
+    a :printer .
+
+<http://www.example.org/printers/599>
+    :hasPrintername "http://www.example.org/printernames/Seiko dull 34" ;
+    :inWarehouse "http://www.example.org/warehouses/81" ;
+    a :printer .
+
+<http://www.example.org/printers/6>
+    :hasPrintername "http://www.example.org/printernames/Decision Data self-confident 38" ;
+    :inWarehouse "http://www.example.org/warehouses/33" ;
+    a :printer .
+
+<http://www.example.org/printers/60>
+    :hasPrintername "http://www.example.org/printernames/Lexmark bitchy 20" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/600>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics lazy 26" ;
+    :inWarehouse "http://www.example.org/warehouses/15" ;
+    a :printer .
+
+<http://www.example.org/printers/602>
+    :hasPrintername "http://www.example.org/printernames/Tektronix dull 44" ;
+    :inWarehouse "http://www.example.org/warehouses/94" ;
+    a :printer .
+
+<http://www.example.org/printers/603>
+    :hasPrintername "http://www.example.org/printernames/Benson, Inc. naive 39" ;
+    :inWarehouse "http://www.example.org/warehouses/74" ;
+    a :printer .
+
+<http://www.example.org/printers/604>
+    :hasPrintername "http://www.example.org/printernames/Seiko Epson selfish 24" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/607>
+    :hasPrintername "http://www.example.org/printernames/Copal flirtatious 45" ;
+    :inWarehouse "http://www.example.org/warehouses/2" ;
+    a :printer .
+
+<http://www.example.org/printers/608>
+    :hasPrintername "http://www.example.org/printernames/Comtec mean 50" ;
+    :inWarehouse "http://www.example.org/warehouses/35" ;
+    a :printer .
+
+<http://www.example.org/printers/609>
+    :hasPrintername "http://www.example.org/printernames/Compuprint trustworthy 16" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/61>
+    :hasPrintername "http://www.example.org/printernames/Control Data Corporation sensible 42" ;
+    :inWarehouse "http://www.example.org/warehouses/83" ;
+    a :printer .
+
+<http://www.example.org/printers/611>
+    :hasPrintername "http://www.example.org/printernames/A. B. Dick sensible 40" ;
+    :inWarehouse "http://www.example.org/warehouses/34" ;
+    a :printer .
+
+<http://www.example.org/printers/613>
+    :hasPrintername "http://www.example.org/printernames/Minolta big-headed 17" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/614>
+    :hasPrintername "http://www.example.org/printernames/IBM nuts 44" ;
+    :inWarehouse "http://www.example.org/warehouses/33" ;
+    a :printer .
+
+<http://www.example.org/printers/615>
+    :hasPrintername "http://www.example.org/printernames/Lanier two-faced 17" ;
+    :inWarehouse "http://www.example.org/warehouses/13" ;
+    a :printer .
+
+<http://www.example.org/printers/616>
+    :hasPrintername "http://www.example.org/printernames/Printer Systems International ambitious 7" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/617>
+    :hasPrintername "http://www.example.org/printernames/Olivetti open-minded 35" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/618>
+    :hasPrintername "http://www.example.org/printernames/Nipson selfish 17" ;
+    :inWarehouse "http://www.example.org/warehouses/97" ;
+    a :printer .
+
+<http://www.example.org/printers/62>
+    :hasPrintername "http://www.example.org/printernames/Qume naughty 22" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/620>
+    :hasPrintername "http://www.example.org/printernames/MTX lazy 25" ;
+    :inWarehouse "http://www.example.org/warehouses/13" ;
+    a :printer .
+
+<http://www.example.org/printers/621>
+    :hasPrintername "http://www.example.org/printernames/Epson crazy 13" ;
+    :inWarehouse "http://www.example.org/warehouses/7" ;
+    a :printer .
+
+<http://www.example.org/printers/623>
+    :hasPrintername "http://www.example.org/printernames/AMT Datasouth conceited 18" ;
+    :inWarehouse "http://www.example.org/warehouses/6" ;
+    a :printer .
+
+<http://www.example.org/printers/624>
+    :hasPrintername "http://www.example.org/printernames/A. B. Dick generous 25" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/625>
+    :hasPrintername "http://www.example.org/printernames/Olivetti reliable 34" ;
+    :inWarehouse "http://www.example.org/warehouses/12" ;
+    a :printer .
+
+<http://www.example.org/printers/626>
+    :hasPrintername "http://www.example.org/printernames/ASK Technology honest 33" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/627>
+    :hasPrintername "http://www.example.org/printernames/Minolta lazy 17" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/628>
+    :hasPrintername "http://www.example.org/printernames/QMS cowardly 11" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/629>
+    :hasPrintername "http://www.example.org/printernames/QMS crazy 24" ;
+    :inWarehouse "http://www.example.org/warehouses/61" ;
+    a :printer .
+
+<http://www.example.org/printers/63>
+    :hasPrintername "http://www.example.org/printernames/Datasouth sensible 9" ;
+    :inWarehouse "http://www.example.org/warehouses/58" ;
+    a :printer .
+
+<http://www.example.org/printers/630>
+    :hasPrintername "http://www.example.org/printernames/Eastman Kodak laid-back 1" ;
+    :inWarehouse "http://www.example.org/warehouses/17" ;
+    a :printer .
+
+<http://www.example.org/printers/631>
+    :hasPrintername "http://www.example.org/printernames/ALPS shy - introverted 17" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/632>
+    :hasPrintername "http://www.example.org/printernames/Hewlett-Packard nuts 22" ;
+    :inWarehouse "http://www.example.org/warehouses/9" ;
+    a :printer .
+
+<http://www.example.org/printers/634>
+    :hasPrintername "http://www.example.org/printernames/Output Technology conservative 6" ;
+    :inWarehouse "http://www.example.org/warehouses/92" ;
+    a :printer .
+
+<http://www.example.org/printers/635>
+    :hasPrintername "http://www.example.org/printernames/Bull hard-working 48" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/637>
+    :hasPrintername "http://www.example.org/printernames/Datasouth talkative 31" ;
+    :inWarehouse "http://www.example.org/warehouses/74" ;
+    a :printer .
+
+<http://www.example.org/printers/64>
+    :hasPrintername "http://www.example.org/printernames/NEC lazy 20" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/641>
+    :hasPrintername "http://www.example.org/printernames/Texas Instruments modest 25" ;
+    :inWarehouse "http://www.example.org/warehouses/86" ;
+    a :printer .
+
+<http://www.example.org/printers/644>
+    :hasPrintername "http://www.example.org/printernames/Versatec lazy 36" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/645>
+    :hasPrintername "http://www.example.org/printernames/Toshiba strict 28" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/646>
+    :hasPrintername "http://www.example.org/printernames/Checkpoint Meto conservative 18" ;
+    :inWarehouse "http://www.example.org/warehouses/58" ;
+    a :printer .
+
+<http://www.example.org/printers/648>
+    :hasPrintername "http://www.example.org/printernames/GCC Printers moody 6" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/649>
+    :hasPrintername "http://www.example.org/printernames/Bull nuts 49" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/65>
+    :hasPrintername "http://www.example.org/printernames/Toshiba hard-working 47" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/650>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics boring 18" ;
+    :inWarehouse "http://www.example.org/warehouses/4" ;
+    a :printer .
+
+<http://www.example.org/printers/651>
+    :hasPrintername "http://www.example.org/printernames/Bull cowardly 22" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/652>
+    :hasPrintername "http://www.example.org/printernames/Fujitsu carefree 7" ;
+    :inWarehouse "http://www.example.org/warehouses/15" ;
+    a :printer .
+
+<http://www.example.org/printers/653>
+    :hasPrintername "http://www.example.org/printernames/Swecoin bitchy 45" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/654>
+    :hasPrintername "http://www.example.org/printernames/Canon sensitive 12" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/656>
+    :hasPrintername "http://www.example.org/printernames/Minolta-QMS argumentative 40" ;
+    :inWarehouse "http://www.example.org/warehouses/35" ;
+    a :printer .
+
+<http://www.example.org/printers/657>
+    :hasPrintername "http://www.example.org/printernames/Delphax Technologies inc two-faced 8" ;
+    :inWarehouse "http://www.example.org/warehouses/18" ;
+    a :printer .
+
+<http://www.example.org/printers/658>
+    :hasPrintername "http://www.example.org/printernames/Olivetti careless 7" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/659>
+    :hasPrintername "http://www.example.org/printernames/Memorex Telex narrow-minded 20" ;
+    :inWarehouse "http://www.example.org/warehouses/92" ;
+    a :printer .
+
+<http://www.example.org/printers/662>
+    :hasPrintername "http://www.example.org/printernames/Nidec Copal quarrelsome 22" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/663>
+    :hasPrintername "http://www.example.org/printernames/Checkpoint Meto narrow-minded 42" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/664>
+    :hasPrintername "http://www.example.org/printernames/GCC Printers hard-working 47" ;
+    :inWarehouse "http://www.example.org/warehouses/51" ;
+    a :printer .
+
+<http://www.example.org/printers/666>
+    :hasPrintername "http://www.example.org/printernames/Syscan conventional 19" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/667>
+    :hasPrintername "http://www.example.org/printernames/Lake Erie Systems moody 18" ;
+    :inWarehouse "http://www.example.org/warehouses/71" ;
+    a :printer .
+
+<http://www.example.org/printers/668>
+    :hasPrintername "http://www.example.org/printernames/Cognitive conventional 5" ;
+    :inWarehouse "http://www.example.org/warehouses/82" ;
+    a :printer .
+
+<http://www.example.org/printers/669>
+    :hasPrintername "http://www.example.org/printernames/General Electric bad-tempered 23" ;
+    :inWarehouse "http://www.example.org/warehouses/77" ;
+    a :printer .
+
+<http://www.example.org/printers/67>
+    :hasPrintername "http://www.example.org/printernames/Océ hard-working 29" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/673>
+    :hasPrintername "http://www.example.org/printernames/NEC very cruel 43" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/674>
+    :hasPrintername "http://www.example.org/printernames/Minolta flirtatious 22" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/675>
+    :hasPrintername "http://www.example.org/printernames/IBM cowardly 40" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/677>
+    :hasPrintername "http://www.example.org/printernames/Eastman Kodak very cruel 34" ;
+    :inWarehouse "http://www.example.org/warehouses/74" ;
+    a :printer .
+
+<http://www.example.org/printers/68>
+    :hasPrintername "http://www.example.org/printernames/Brother talkative 19" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/680>
+    :hasPrintername "http://www.example.org/printernames/ASK Technology crazy 39" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/683>
+    :hasPrintername "http://www.example.org/printernames/Dell open-minded 26" ;
+    :inWarehouse "http://www.example.org/warehouses/77" ;
+    a :printer .
+
+<http://www.example.org/printers/684>
+    :hasPrintername "http://www.example.org/printernames/Memorex Telex generous 9" ;
+    :inWarehouse "http://www.example.org/warehouses/2" ;
+    a :printer .
+
+<http://www.example.org/printers/685>
+    :hasPrintername "http://www.example.org/printernames/Dell ambitious 30" ;
+    :inWarehouse "http://www.example.org/warehouses/74" ;
+    a :printer .
+
+<http://www.example.org/printers/686>
+    :hasPrintername "http://www.example.org/printernames/LiPi Data sys. carefree 30" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/687>
+    :hasPrintername "http://www.example.org/printernames/Advanced Matrix Technology talkative 46" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/688>
+    :hasPrintername "http://www.example.org/printernames/Memorex Telex annoying 46" ;
+    :inWarehouse "http://www.example.org/warehouses/98" ;
+    a :printer .
+
+<http://www.example.org/printers/689>
+    :hasPrintername "http://www.example.org/printernames/Teletype conventional 22" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/690>
+    :hasPrintername "http://www.example.org/printernames/Tally laid-back 16" ;
+    :inWarehouse "http://www.example.org/warehouses/6" ;
+    a :printer .
+
+<http://www.example.org/printers/691>
+    :hasPrintername "http://www.example.org/printernames/Source Technologies kind 37" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/692>
+    :hasPrintername "http://www.example.org/printernames/Toshiba loyal 3" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/693>
+    :hasPrintername "http://www.example.org/printernames/Seiko lazy 15" ;
+    :inWarehouse "http://www.example.org/warehouses/12" ;
+    a :printer .
+
+<http://www.example.org/printers/696>
+    :hasPrintername "http://www.example.org/printernames/Copal proud 7" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/698>
+    :hasPrintername "http://www.example.org/printernames/ALPS conventional 41" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/703>
+    :hasPrintername "http://www.example.org/printernames/A. B. Dick stubborn 47" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/705>
+    :hasPrintername "http://www.example.org/printernames/Citizen honest 23" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/706>
+    :hasPrintername "http://www.example.org/printernames/Bell-Mark self-confident 22" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/707>
+    :hasPrintername "http://www.example.org/printernames/AMT Datasouth argumentative 18" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/708>
+    :hasPrintername "http://www.example.org/printernames/Lanier lazy 48" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/709>
+    :hasPrintername "http://www.example.org/printernames/IBM selfish 48" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/71>
+    :hasPrintername "http://www.example.org/printernames/Citizen argumentative 5" ;
+    :inWarehouse "http://www.example.org/warehouses/97" ;
+    a :printer .
+
+<http://www.example.org/printers/713>
+    :hasPrintername "http://www.example.org/printernames/GENICOM kind 25" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/714>
+    :hasPrintername "http://www.example.org/printernames/Eltron careless 39" ;
+    :inWarehouse "http://www.example.org/warehouses/34" ;
+    a :printer .
+
+<http://www.example.org/printers/716>
+    :hasPrintername "http://www.example.org/printernames/MapleJet conservative 44" ;
+    :inWarehouse "http://www.example.org/warehouses/93" ;
+    a :printer .
+
+<http://www.example.org/printers/717>
+    :hasPrintername "http://www.example.org/printernames/Star self-confident 34" ;
+    :inWarehouse "http://www.example.org/warehouses/93" ;
+    a :printer .
+
+<http://www.example.org/printers/718>
+    :hasPrintername "http://www.example.org/printernames/GENICOM crazy 6" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/721>
+    :hasPrintername "http://www.example.org/printernames/Sato big-headed 34" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/722>
+    :hasPrintername "http://www.example.org/printernames/Office Automation Systems Inc (OASYS) big-headed 28" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/723>
+    :hasPrintername "http://www.example.org/printernames/Riso Kagaku Corporation hard-working 48" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/724>
+    :hasPrintername "http://www.example.org/printernames/Lake Erie Systems cheerful 38" ;
+    :inWarehouse "http://www.example.org/warehouses/35" ;
+    a :printer .
+
+<http://www.example.org/printers/725>
+    :hasPrintername "http://www.example.org/printernames/Mannesmann Tally modest 49" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/726>
+    :hasPrintername "http://www.example.org/printernames/Samsung conventional 48" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/727>
+    :hasPrintername "http://www.example.org/printernames/Brother careless 30" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/728>
+    :hasPrintername "http://www.example.org/printernames/Avery Dennison brave 49" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/731>
+    :hasPrintername "http://www.example.org/printernames/Citizen narrow-minded 27" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/733>
+    :hasPrintername "http://www.example.org/printernames/Olivetti dull 24" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/734>
+    :hasPrintername "http://www.example.org/printernames/Lenovo weird 44" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/736>
+    :hasPrintername "http://www.example.org/printernames/Panasonic talkative 27" ;
+    :inWarehouse "http://www.example.org/warehouses/31" ;
+    a :printer .
+
+<http://www.example.org/printers/737>
+    :hasPrintername "http://www.example.org/printernames/Sharp cruel 33" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/738>
+    :hasPrintername "http://www.example.org/printernames/Oki Data brave 20" ;
+    :inWarehouse "http://www.example.org/warehouses/4" ;
+    a :printer .
+
+<http://www.example.org/printers/74>
+    :hasPrintername "http://www.example.org/printernames/Minolta-QMS sympathetic (understanding) 15" ;
+    :inWarehouse "http://www.example.org/warehouses/34" ;
+    a :printer .
+
+<http://www.example.org/printers/741>
+    :hasPrintername "http://www.example.org/printernames/Printronix cowardly 39" ;
+    :inWarehouse "http://www.example.org/warehouses/13" ;
+    a :printer .
+
+<http://www.example.org/printers/742>
+    :hasPrintername "http://www.example.org/printernames/Ricoh cowardly 26" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/743>
+    :hasPrintername "http://www.example.org/printernames/General Electric flirtatious 15" ;
+    :inWarehouse "http://www.example.org/warehouses/100" ;
+    a :printer .
+
+<http://www.example.org/printers/744>
+    :hasPrintername "http://www.example.org/printernames/Texas Instruments flirtatious 15" ;
+    :inWarehouse "http://www.example.org/warehouses/98" ;
+    a :printer .
+
+<http://www.example.org/printers/745>
+    :hasPrintername "http://www.example.org/printernames/Kentek laid-back 27" ;
+    :inWarehouse "http://www.example.org/warehouses/81" ;
+    a :printer .
+
+<http://www.example.org/printers/746>
+    :hasPrintername "http://www.example.org/printernames/Fuji Xerox open-minded 35" ;
+    :inWarehouse "http://www.example.org/warehouses/92" ;
+    a :printer .
+
+<http://www.example.org/printers/747>
+    :hasPrintername "http://www.example.org/printernames/Brother ambitious 43" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/748>
+    :hasPrintername "http://www.example.org/printernames/Computer Peripherals Inc sensitive 25" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/749>
+    :hasPrintername "http://www.example.org/printernames/Sharp conservative 2" ;
+    :inWarehouse "http://www.example.org/warehouses/13" ;
+    a :printer .
+
+<http://www.example.org/printers/751>
+    :hasPrintername "http://www.example.org/printernames/IBM conceited 12" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/752>
+    :hasPrintername "http://www.example.org/printernames/Trilog annoying 31" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/753>
+    :hasPrintername "http://www.example.org/printernames/GENICOM shy - introverted 2" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/754>
+    :hasPrintername "http://www.example.org/printernames/Epson proud 37" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/756>
+    :hasPrintername "http://www.example.org/printernames/Citizen friendly 2" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/757>
+    :hasPrintername "http://www.example.org/printernames/Teletype modest 20" ;
+    :inWarehouse "http://www.example.org/warehouses/93" ;
+    a :printer .
+
+<http://www.example.org/printers/758>
+    :hasPrintername "http://www.example.org/printernames/LiPi Data sys. sympathetic (understanding) 6" ;
+    :inWarehouse "http://www.example.org/warehouses/54" ;
+    a :printer .
+
+<http://www.example.org/printers/759>
+    :hasPrintername "http://www.example.org/printernames/Diablo sensible 41" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/760>
+    :hasPrintername "http://www.example.org/printernames/Fargo sympathetic (understanding) 12" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/761>
+    :hasPrintername "http://www.example.org/printernames/Compress UV Printers boring 16" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/762>
+    :hasPrintername "http://www.example.org/printernames/GENICOM conservative 23" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/766>
+    :hasPrintername "http://www.example.org/printernames/MTX conceited 48" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/767>
+    :hasPrintername "http://www.example.org/printernames/Siemens Nixdorf bitchy 37" ;
+    :inWarehouse "http://www.example.org/warehouses/87" ;
+    a :printer .
+
+<http://www.example.org/printers/77>
+    :hasPrintername "http://www.example.org/printernames/DASCOM nuts 12" ;
+    :inWarehouse "http://www.example.org/warehouses/30" ;
+    a :printer .
+
+<http://www.example.org/printers/771>
+    :hasPrintername "http://www.example.org/printernames/Nakajima cheerful 1" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/772>
+    :hasPrintername "http://www.example.org/printernames/Eastman Kodak honest 27" ;
+    :inWarehouse "http://www.example.org/warehouses/61" ;
+    a :printer .
+
+<http://www.example.org/printers/773>
+    :hasPrintername "http://www.example.org/printernames/Tektronix very cruel 38" ;
+    :inWarehouse "http://www.example.org/warehouses/100" ;
+    a :printer .
+
+<http://www.example.org/printers/775>
+    :hasPrintername "http://www.example.org/printernames/Tally polite 38" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/776>
+    :hasPrintername "http://www.example.org/printernames/Lanier flirtatious 44" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/777>
+    :hasPrintername "http://www.example.org/printernames/Fargo cowardly 1" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/779>
+    :hasPrintername "http://www.example.org/printernames/Kodak narrow-minded 1" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/78>
+    :hasPrintername "http://www.example.org/printernames/Tektronix nuts 47" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/780>
+    :hasPrintername "http://www.example.org/printernames/ASK Technology kind 4" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/781>
+    :hasPrintername "http://www.example.org/printernames/Star weird 18" ;
+    :inWarehouse "http://www.example.org/warehouses/71" ;
+    a :printer .
+
+<http://www.example.org/printers/782>
+    :hasPrintername "http://www.example.org/printernames/ASK Technology mean 7" ;
+    :inWarehouse "http://www.example.org/warehouses/12" ;
+    a :printer .
+
+<http://www.example.org/printers/787>
+    :hasPrintername "http://www.example.org/printernames/Sewoo sensible 44" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/788>
+    :hasPrintername "http://www.example.org/printernames/QMS boring 38" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/79>
+    :hasPrintername "http://www.example.org/printernames/Oki Data cantankerous 17" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/790>
+    :hasPrintername "http://www.example.org/printernames/MapleJet ambitious 27" ;
+    :inWarehouse "http://www.example.org/warehouses/38" ;
+    a :printer .
+
+<http://www.example.org/printers/791>
+    :hasPrintername "http://www.example.org/printernames/Trilog boring 41" ;
+    :inWarehouse "http://www.example.org/warehouses/51" ;
+    a :printer .
+
+<http://www.example.org/printers/792>
+    :hasPrintername "http://www.example.org/printernames/Compuprint sensitive 7" ;
+    :inWarehouse "http://www.example.org/warehouses/96" ;
+    a :printer .
+
+<http://www.example.org/printers/793>
+    :hasPrintername "http://www.example.org/printernames/NEC polite 41" ;
+    :inWarehouse "http://www.example.org/warehouses/86" ;
+    a :printer .
+
+<http://www.example.org/printers/794>
+    :hasPrintername "http://www.example.org/printernames/Oki Data cantankerous 24" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/796>
+    :hasPrintername "http://www.example.org/printernames/Lake Erie Systems open-minded 48" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/798>
+    :hasPrintername "http://www.example.org/printernames/Oki Data cautious 7" ;
+    :inWarehouse "http://www.example.org/warehouses/94" ;
+    a :printer .
+
+<http://www.example.org/printers/8>
+    :hasPrintername "http://www.example.org/printernames/QMS naughty 34" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/800>
+    :hasPrintername "http://www.example.org/printernames/Facit weird 39" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/801>
+    :hasPrintername "http://www.example.org/printernames/Lexmark cautious 41" ;
+    :inWarehouse "http://www.example.org/warehouses/94" ;
+    a :printer .
+
+<http://www.example.org/printers/806>
+    :hasPrintername "http://www.example.org/printernames/Nakajima crazy 1" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/807>
+    :hasPrintername "http://www.example.org/printernames/Xerox shy - introverted 30" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/808>
+    :hasPrintername "http://www.example.org/printernames/InfoPrint careless 48" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/810>
+    :hasPrintername "http://www.example.org/printernames/Datamax-ONeil crazy 14" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/812>
+    :hasPrintername "http://www.example.org/printernames/Syscan nuts 28" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/813>
+    :hasPrintername "http://www.example.org/printernames/Control Data Corporation talkative 20" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/816>
+    :hasPrintername "http://www.example.org/printernames/Printronix nuts 49" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/818>
+    :hasPrintername "http://www.example.org/printernames/RJS sympathetic (understanding) 40" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/819>
+    :hasPrintername "http://www.example.org/printernames/TallyGenicom loyal 17" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/822>
+    :hasPrintername "http://www.example.org/printernames/QMS strict 39" ;
+    :inWarehouse "http://www.example.org/warehouses/98" ;
+    a :printer .
+
+<http://www.example.org/printers/823>
+    :hasPrintername "http://www.example.org/printernames/Toshiba cheerful 8" ;
+    :inWarehouse "http://www.example.org/warehouses/38" ;
+    a :printer .
+
+<http://www.example.org/printers/824>
+    :hasPrintername "http://www.example.org/printernames/Riso Kagaku Corporation sensitive 2" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/825>
+    :hasPrintername "http://www.example.org/printernames/QMS stubborn 44" ;
+    :inWarehouse "http://www.example.org/warehouses/61" ;
+    a :printer .
+
+<http://www.example.org/printers/826>
+    :hasPrintername "http://www.example.org/printernames/Sato sensitive 45" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/83>
+    :hasPrintername "http://www.example.org/printernames/Advanced Matrix Technology careless 36" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/831>
+    :hasPrintername "http://www.example.org/printernames/NEC reliable 25" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/832>
+    :hasPrintername "http://www.example.org/printernames/Ricoh modest 3" ;
+    :inWarehouse "http://www.example.org/warehouses/7" ;
+    a :printer .
+
+<http://www.example.org/printers/833>
+    :hasPrintername "http://www.example.org/printernames/A. B. Dick conservative 44" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/834>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics stubborn 44" ;
+    :inWarehouse "http://www.example.org/warehouses/33" ;
+    a :printer .
+
+<http://www.example.org/printers/835>
+    :hasPrintername "http://www.example.org/printernames/Pentax carefree 42" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/836>
+    :hasPrintername "http://www.example.org/printernames/Decision Data honest 44" ;
+    :inWarehouse "http://www.example.org/warehouses/35" ;
+    a :printer .
+
+<http://www.example.org/printers/838>
+    :hasPrintername "http://www.example.org/printernames/Microcom Corporation quarrelsome 7" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/840>
+    :hasPrintername "http://www.example.org/printernames/Datasouth cantankerous 11" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/841>
+    :hasPrintername "http://www.example.org/printernames/Oki Data friendly 25" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/842>
+    :hasPrintername "http://www.example.org/printernames/Olivetti cautious 27" ;
+    :inWarehouse "http://www.example.org/warehouses/4" ;
+    a :printer .
+
+<http://www.example.org/printers/844>
+    :hasPrintername "http://www.example.org/printernames/Sato honest 10" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/847>
+    :hasPrintername "http://www.example.org/printernames/Printronix cowardly 23" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/848>
+    :hasPrintername "http://www.example.org/printernames/Kentek cautious 3" ;
+    :inWarehouse "http://www.example.org/warehouses/97" ;
+    a :printer .
+
+<http://www.example.org/printers/849>
+    :hasPrintername "http://www.example.org/printernames/Eastman Kodak lazy 49" ;
+    :inWarehouse "http://www.example.org/warehouses/83" ;
+    a :printer .
+
+<http://www.example.org/printers/85>
+    :hasPrintername "http://www.example.org/printernames/Samsung flirtatious 10" ;
+    :inWarehouse "http://www.example.org/warehouses/76" ;
+    a :printer .
+
+<http://www.example.org/printers/851>
+    :hasPrintername "http://www.example.org/printernames/Star Micronics proud 43" ;
+    :inWarehouse "http://www.example.org/warehouses/12" ;
+    a :printer .
+
+<http://www.example.org/printers/852>
+    :hasPrintername "http://www.example.org/printernames/Eastman Kodak mean 19" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/853>
+    :hasPrintername "http://www.example.org/printernames/AMT Datasouth cowardly 17" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/858>
+    :hasPrintername "http://www.example.org/printernames/Sharp cantankerous 29" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/859>
+    :hasPrintername "http://www.example.org/printernames/Syscan conventional 11" ;
+    :inWarehouse "http://www.example.org/warehouses/73" ;
+    a :printer .
+
+<http://www.example.org/printers/86>
+    :hasPrintername "http://www.example.org/printernames/Kentek cantankerous 22" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/860>
+    :hasPrintername "http://www.example.org/printernames/InfoPrint sensible 18" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/863>
+    :hasPrintername "http://www.example.org/printernames/Panasonic selfish 26" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/864>
+    :hasPrintername "http://www.example.org/printernames/Sharp open-minded 43" ;
+    :inWarehouse "http://www.example.org/warehouses/18" ;
+    a :printer .
+
+<http://www.example.org/printers/866>
+    :hasPrintername "http://www.example.org/printernames/QMS cheerful 38" ;
+    :inWarehouse "http://www.example.org/warehouses/98" ;
+    a :printer .
+
+<http://www.example.org/printers/867>
+    :hasPrintername "http://www.example.org/printernames/Qume lazy 15" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/87>
+    :hasPrintername "http://www.example.org/printernames/UBIX Corp. hard-working 14" ;
+    :inWarehouse "http://www.example.org/warehouses/10" ;
+    a :printer .
+
+<http://www.example.org/printers/870>
+    :hasPrintername "http://www.example.org/printernames/Memorex Telex lazy 47" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/871>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics proud 21" ;
+    :inWarehouse "http://www.example.org/warehouses/71" ;
+    a :printer .
+
+<http://www.example.org/printers/872>
+    :hasPrintername "http://www.example.org/printernames/IBM selfish 20" ;
+    :inWarehouse "http://www.example.org/warehouses/56" ;
+    a :printer .
+
+<http://www.example.org/printers/874>
+    :hasPrintername "http://www.example.org/printernames/Fargo big-headed 27" ;
+    :inWarehouse "http://www.example.org/warehouses/98" ;
+    a :printer .
+
+<http://www.example.org/printers/875>
+    :hasPrintername "http://www.example.org/printernames/Checkpoint Meto carefree 39" ;
+    :inWarehouse "http://www.example.org/warehouses/4" ;
+    a :printer .
+
+<http://www.example.org/printers/876>
+    :hasPrintername "http://www.example.org/printernames/Advanced Matrix Technology two-faced 35" ;
+    :inWarehouse "http://www.example.org/warehouses/93" ;
+    a :printer .
+
+<http://www.example.org/printers/878>
+    :hasPrintername "http://www.example.org/printernames/GCC Printers two-faced 12" ;
+    :inWarehouse "http://www.example.org/warehouses/97" ;
+    a :printer .
+
+<http://www.example.org/printers/880>
+    :hasPrintername "http://www.example.org/printernames/Computer Peripherals Inc annoying 35" ;
+    :inWarehouse "http://www.example.org/warehouses/54" ;
+    a :printer .
+
+<http://www.example.org/printers/881>
+    :hasPrintername "http://www.example.org/printernames/Konica Minolta cantankerous 42" ;
+    :inWarehouse "http://www.example.org/warehouses/83" ;
+    a :printer .
+
+<http://www.example.org/printers/882>
+    :hasPrintername "http://www.example.org/printernames/Centronics conventional 17" ;
+    :inWarehouse "http://www.example.org/warehouses/87" ;
+    a :printer .
+
+<http://www.example.org/printers/884>
+    :hasPrintername "http://www.example.org/printernames/RJS polite 39" ;
+    :inWarehouse "http://www.example.org/warehouses/44" ;
+    a :printer .
+
+<http://www.example.org/printers/886>
+    :hasPrintername "http://www.example.org/printernames/Nakajima cruel 37" ;
+    :inWarehouse "http://www.example.org/warehouses/15" ;
+    a :printer .
+
+<http://www.example.org/printers/89>
+    :hasPrintername "http://www.example.org/printernames/Benson, Inc. moody 28" ;
+    :inWarehouse "http://www.example.org/warehouses/47" ;
+    a :printer .
+
+<http://www.example.org/printers/890>
+    :hasPrintername "http://www.example.org/printernames/Sewoo cautious 24" ;
+    :inWarehouse "http://www.example.org/warehouses/81" ;
+    a :printer .
+
+<http://www.example.org/printers/891>
+    :hasPrintername "http://www.example.org/printernames/TallyGenicom sensitive 41" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/892>
+    :hasPrintername "http://www.example.org/printernames/Facit two-faced 4" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/894>
+    :hasPrintername "http://www.example.org/printernames/InfoPrint sensible 30" ;
+    :inWarehouse "http://www.example.org/warehouses/4" ;
+    a :printer .
+
+<http://www.example.org/printers/897>
+    :hasPrintername "http://www.example.org/printernames/Benson, Inc. stubborn 4" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/90>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics self-confident 43" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/900>
+    :hasPrintername "http://www.example.org/printernames/Zebra big-headed 10" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/901>
+    :hasPrintername "http://www.example.org/printernames/Ricoh argumentative 25" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/903>
+    :hasPrintername "http://www.example.org/printernames/Lenovo narrow-minded 26" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/904>
+    :hasPrintername "http://www.example.org/printernames/A. B. Dick narrow-minded 16" ;
+    :inWarehouse "http://www.example.org/warehouses/23" ;
+    a :printer .
+
+<http://www.example.org/printers/905>
+    :hasPrintername "http://www.example.org/printernames/Kodak reliable 17" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/906>
+    :hasPrintername "http://www.example.org/printernames/Datasouth stubborn 43" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/908>
+    :hasPrintername "http://www.example.org/printernames/Kyocera Mita flirtatious 38" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/91>
+    :hasPrintername "http://www.example.org/printernames/Xerox International Partners sensible 46" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/910>
+    :hasPrintername "http://www.example.org/printernames/Nidec Copal strict 38" ;
+    :inWarehouse "http://www.example.org/warehouses/64" ;
+    a :printer .
+
+<http://www.example.org/printers/911>
+    :hasPrintername "http://www.example.org/printernames/Rank Xerox sympathetic (understanding) 33" ;
+    :inWarehouse "http://www.example.org/warehouses/33" ;
+    a :printer .
+
+<http://www.example.org/printers/914>
+    :hasPrintername "http://www.example.org/printernames/Star Micronics brave 2" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/915>
+    :hasPrintername "http://www.example.org/printernames/PSI Engineering self-confident 5" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/916>
+    :hasPrintername "http://www.example.org/printernames/Delphax Technologies inc cheerful 36" ;
+    :inWarehouse "http://www.example.org/warehouses/28" ;
+    a :printer .
+
+<http://www.example.org/printers/917>
+    :hasPrintername "http://www.example.org/printernames/DASCOM sensible 9" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/918>
+    :hasPrintername "http://www.example.org/printernames/Output Technology charming 12" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/919>
+    :hasPrintername "http://www.example.org/printernames/Riso Kagaku Corporation conservative 1" ;
+    :inWarehouse "http://www.example.org/warehouses/52" ;
+    a :printer .
+
+<http://www.example.org/printers/92>
+    :hasPrintername "http://www.example.org/printernames/GENICOM cantankerous 25" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/920>
+    :hasPrintername "http://www.example.org/printernames/Benson, Inc. dull 28" ;
+    :inWarehouse "http://www.example.org/warehouses/84" ;
+    a :printer .
+
+<http://www.example.org/printers/921>
+    :hasPrintername "http://www.example.org/printernames/Seiko Epson honest 26" ;
+    :inWarehouse "http://www.example.org/warehouses/69" ;
+    a :printer .
+
+<http://www.example.org/printers/922>
+    :hasPrintername "http://www.example.org/printernames/Compress UV Printers modest 8" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/923>
+    :hasPrintername "http://www.example.org/printernames/Advanced Matrix Technology conceited 25" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/924>
+    :hasPrintername "http://www.example.org/printernames/UBIX Corp. sensitive 26" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/925>
+    :hasPrintername "http://www.example.org/printernames/MTX modest 9" ;
+    :inWarehouse "http://www.example.org/warehouses/44" ;
+    a :printer .
+
+<http://www.example.org/printers/926>
+    :hasPrintername "http://www.example.org/printernames/Seiko argumentative 9" ;
+    :inWarehouse "http://www.example.org/warehouses/97" ;
+    a :printer .
+
+<http://www.example.org/printers/928>
+    :hasPrintername "http://www.example.org/printernames/Zebra cautious 1" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/929>
+    :hasPrintername "http://www.example.org/printernames/DASCOM crazy 4" ;
+    :inWarehouse "http://www.example.org/warehouses/37" ;
+    a :printer .
+
+<http://www.example.org/printers/93>
+    :hasPrintername "http://www.example.org/printernames/Printek talkative 46" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/931>
+    :hasPrintername "http://www.example.org/printernames/InfoPrint lazy 43" ;
+    :inWarehouse "http://www.example.org/warehouses/32" ;
+    a :printer .
+
+<http://www.example.org/printers/932>
+    :hasPrintername "http://www.example.org/printernames/Copal trustworthy 23" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/936>
+    :hasPrintername "http://www.example.org/printernames/Olivetti sensitive 10" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/937>
+    :hasPrintername "http://www.example.org/printernames/ASK Technology modest 9" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/938>
+    :hasPrintername "http://www.example.org/printernames/GENICOM modest 5" ;
+    :inWarehouse "http://www.example.org/warehouses/27" ;
+    a :printer .
+
+<http://www.example.org/printers/939>
+    :hasPrintername "http://www.example.org/printernames/Fujitsu conventional 30" ;
+    :inWarehouse "http://www.example.org/warehouses/81" ;
+    a :printer .
+
+<http://www.example.org/printers/940>
+    :hasPrintername "http://www.example.org/printernames/Sewoo nuts 37" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/942>
+    :hasPrintername "http://www.example.org/printernames/Everex (Abaton div.) naughty 23" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/944>
+    :hasPrintername "http://www.example.org/printernames/Fuji Xerox polite 23" ;
+    :inWarehouse "http://www.example.org/warehouses/33" ;
+    a :printer .
+
+<http://www.example.org/printers/945>
+    :hasPrintername "http://www.example.org/printernames/Sharp annoying 40" ;
+    :inWarehouse "http://www.example.org/warehouses/7" ;
+    a :printer .
+
+<http://www.example.org/printers/946>
+    :hasPrintername "http://www.example.org/printernames/Avery Dennison ambitious 18" ;
+    :inWarehouse "http://www.example.org/warehouses/30" ;
+    a :printer .
+
+<http://www.example.org/printers/947>
+    :hasPrintername "http://www.example.org/printernames/Output Technology sensible 11" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/949>
+    :hasPrintername "http://www.example.org/printernames/Avery Dennison ambitious 36" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/95>
+    :hasPrintername "http://www.example.org/printernames/Eltron sensible 27" ;
+    :inWarehouse "http://www.example.org/warehouses/85" ;
+    a :printer .
+
+<http://www.example.org/printers/950>
+    :hasPrintername "http://www.example.org/printernames/Star Micronics conceited 30" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/953>
+    :hasPrintername "http://www.example.org/printernames/Axonix cantankerous 47" ;
+    :inWarehouse "http://www.example.org/warehouses/40" ;
+    a :printer .
+
+<http://www.example.org/printers/955>
+    :hasPrintername "http://www.example.org/printernames/Computer Peripherals Inc very cruel 24" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/956>
+    :hasPrintername "http://www.example.org/printernames/Heidelberg very cruel 48" ;
+    :inWarehouse "http://www.example.org/warehouses/90" ;
+    a :printer .
+
+<http://www.example.org/printers/958>
+    :hasPrintername "http://www.example.org/printernames/RJS trustworthy 34" ;
+    :inWarehouse "http://www.example.org/warehouses/71" ;
+    a :printer .
+
+<http://www.example.org/printers/959>
+    :hasPrintername "http://www.example.org/printernames/Kentek stubborn 42" ;
+    :inWarehouse "http://www.example.org/warehouses/24" ;
+    a :printer .
+
+<http://www.example.org/printers/96>
+    :hasPrintername "http://www.example.org/printernames/Output Technology big-headed 21" ;
+    :inWarehouse "http://www.example.org/warehouses/68" ;
+    a :printer .
+
+<http://www.example.org/printers/960>
+    :hasPrintername "http://www.example.org/printernames/Star Micronics bad-tempered 2" ;
+    :inWarehouse "http://www.example.org/warehouses/89" ;
+    a :printer .
+
+<http://www.example.org/printers/961>
+    :hasPrintername "http://www.example.org/printernames/Fujitsu careless 48" ;
+    :inWarehouse "http://www.example.org/warehouses/58" ;
+    a :printer .
+
+<http://www.example.org/printers/962>
+    :hasPrintername "http://www.example.org/printernames/Syscan sensible 35" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/965>
+    :hasPrintername "http://www.example.org/printernames/Compress UV Printers narrow-minded 46" ;
+    :inWarehouse "http://www.example.org/warehouses/20" ;
+    a :printer .
+
+<http://www.example.org/printers/967>
+    :hasPrintername "http://www.example.org/printernames/Cognitive annoying 16" ;
+    :inWarehouse "http://www.example.org/warehouses/82" ;
+    a :printer .
+
+<http://www.example.org/printers/968>
+    :hasPrintername "http://www.example.org/printernames/Benson, Inc. shy - introverted 24" ;
+    :inWarehouse "http://www.example.org/warehouses/67" ;
+    a :printer .
+
+<http://www.example.org/printers/969>
+    :hasPrintername "http://www.example.org/printernames/Comtec careless 38" ;
+    :inWarehouse "http://www.example.org/warehouses/9" ;
+    a :printer .
+
+<http://www.example.org/printers/97>
+    :hasPrintername "http://www.example.org/printernames/Printer System Corporation quarrelsome 1" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/973>
+    :hasPrintername "http://www.example.org/printernames/Brother laid-back 19" ;
+    :inWarehouse "http://www.example.org/warehouses/82" ;
+    a :printer .
+
+<http://www.example.org/printers/974>
+    :hasPrintername "http://www.example.org/printernames/Teletype kind 45" ;
+    :inWarehouse "http://www.example.org/warehouses/31" ;
+    a :printer .
+
+<http://www.example.org/printers/976>
+    :hasPrintername "http://www.example.org/printernames/ASK Technology flirtatious 19" ;
+    :inWarehouse "http://www.example.org/warehouses/71" ;
+    a :printer .
+
+<http://www.example.org/printers/977>
+    :hasPrintername "http://www.example.org/printernames/Kyocera Mita quarrelsome 39" ;
+    :inWarehouse "http://www.example.org/warehouses/91" ;
+    a :printer .
+
+<http://www.example.org/printers/979>
+    :hasPrintername "http://www.example.org/printernames/Xeikon conventional 39" ;
+    :inWarehouse "http://www.example.org/warehouses/97" ;
+    a :printer .
+
+<http://www.example.org/printers/98>
+    :hasPrintername "http://www.example.org/printernames/Seiko nuts 26" ;
+    :inWarehouse "http://www.example.org/warehouses/18" ;
+    a :printer .
+
+<http://www.example.org/printers/980>
+    :hasPrintername "http://www.example.org/printernames/Panasonic reliable 41" ;
+    :inWarehouse "http://www.example.org/warehouses/77" ;
+    a :printer .
+
+<http://www.example.org/printers/981>
+    :hasPrintername "http://www.example.org/printernames/Teletype friendly 26" ;
+    :inWarehouse "http://www.example.org/warehouses/49" ;
+    a :printer .
+
+<http://www.example.org/printers/983>
+    :hasPrintername "http://www.example.org/printernames/ALPS friendly 34" ;
+    :inWarehouse "http://www.example.org/warehouses/53" ;
+    a :printer .
+
+<http://www.example.org/printers/985>
+    :hasPrintername "http://www.example.org/printernames/Everex (Abaton div.) very cruel 39" ;
+    :inWarehouse "http://www.example.org/warehouses/25" ;
+    a :printer .
+
+<http://www.example.org/printers/987>
+    :hasPrintername "http://www.example.org/printernames/TVS Electronics cantankerous 13" ;
+    :inWarehouse "http://www.example.org/warehouses/2" ;
+    a :printer .
+
+<http://www.example.org/printers/988>
+    :hasPrintername "http://www.example.org/printernames/Zebra conventional 25" ;
+    :inWarehouse "http://www.example.org/warehouses/48" ;
+    a :printer .
+
+<http://www.example.org/printers/991>
+    :hasPrintername "http://www.example.org/printernames/Cognitive boring 1" ;
+    :inWarehouse "http://www.example.org/warehouses/42" ;
+    a :printer .
+
+<http://www.example.org/printers/992>
+    :hasPrintername "http://www.example.org/printernames/Bell-Mark hard-working 27" ;
+    :inWarehouse "http://www.example.org/warehouses/94" ;
+    a :printer .
+
+<http://www.example.org/printers/993>
+    :hasPrintername "http://www.example.org/printernames/ALPS conservative 16" ;
+    :inWarehouse "http://www.example.org/warehouses/9" ;
+    a :printer .
+
+<http://www.example.org/printers/994>
+    :hasPrintername "http://www.example.org/printernames/TEC charming 33" ;
+    :inWarehouse "http://www.example.org/warehouses/55" ;
+    a :printer .
+
+<http://www.example.org/printers/996>
+    :hasPrintername "http://www.example.org/printernames/Comtec bitchy 12" ;
+    :inWarehouse "http://www.example.org/warehouses/59" ;
+    a :printer .
+
+<http://www.example.org/printers/997>
+    :hasPrintername "http://www.example.org/printernames/TallyGenicom cantankerous 31" ;
+    :inWarehouse "http://www.example.org/warehouses/81" ;
+    a :printer .
+
+<http://www.example.org/printers/998>
+    :hasPrintername "http://www.example.org/printernames/Fujifilm cantankerous 50" ;
+    :inWarehouse "http://www.example.org/warehouses/86" ;
+    a :printer .
+
+<http://www.example.org/printers/999>
+    :hasPrintername "http://www.example.org/printernames/Lexmark open-minded 41" ;
+    :inWarehouse "http://www.example.org/warehouses/97" ;
+    a :printer .
+
+<http://www.example.org/warehouses/10>
+    :hasWarehousename "http://www.example.org/warehousenames/The blue hard-working warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/100>
+    :hasWarehousename "http://www.example.org/warehousenames/The indigo conventional warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/12>
+    :hasWarehousename "http://www.example.org/warehousenames/The yellow strict warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/13>
+    :hasWarehousename "http://www.example.org/warehousenames/The tan honest warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/15>
+    :hasWarehousename "http://www.example.org/warehousenames/The cyan carefree warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/17>
+    :hasWarehousename "http://www.example.org/warehousenames/The green naive warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/18>
+    :hasWarehousename "http://www.example.org/warehousenames/The green naive warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/2>
+    :hasWarehousename "http://www.example.org/warehousenames/The blue selfish warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/20>
+    :hasWarehousename "http://www.example.org/warehousenames/The silver cantankerous warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/23>
+    :hasWarehousename "http://www.example.org/warehousenames/The silver honest warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/24>
+    :hasWarehousename "http://www.example.org/warehousenames/The olive selfish warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/25>
+    :hasWarehousename "http://www.example.org/warehousenames/The violet narrow-minded warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/27>
+    :hasWarehousename "http://www.example.org/warehousenames/The aquamarine boring warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/28>
+    :hasWarehousename "http://www.example.org/warehousenames/The silver lazy warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/30>
+    :hasWarehousename "http://www.example.org/warehousenames/The purple sensible warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/31>
+    :hasWarehousename "http://www.example.org/warehousenames/The violet flirtatious warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/32>
+    :hasWarehousename "http://www.example.org/warehousenames/The tan self-confident warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/33>
+    :hasWarehousename "http://www.example.org/warehousenames/The yellow talkative warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/34>
+    :hasWarehousename "http://www.example.org/warehousenames/The black boring warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/35>
+    :hasWarehousename "http://www.example.org/warehousenames/The orange argumentative warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/37>
+    :hasWarehousename "http://www.example.org/warehousenames/The violet conservative warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/38>
+    :hasWarehousename "http://www.example.org/warehousenames/The silver loyal warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/4>
+    :hasWarehousename "http://www.example.org/warehousenames/The turquoise loyal warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/40>
+    :hasWarehousename "http://www.example.org/warehousenames/The black reliable warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/42>
+    :hasWarehousename "http://www.example.org/warehousenames/The teal conceited warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/44>
+    :hasWarehousename "http://www.example.org/warehousenames/The black nuts warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/47>
+    :hasWarehousename "http://www.example.org/warehousenames/The red argumentative warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/48>
+    :hasWarehousename "http://www.example.org/warehousenames/The violet carefree warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/49>
+    :hasWarehousename "http://www.example.org/warehousenames/The gray trustworthy warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/51>
+    :hasWarehousename "http://www.example.org/warehousenames/The blue hard-working warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/52>
+    :hasWarehousename "http://www.example.org/warehousenames/The gray crazy warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/53>
+    :hasWarehousename "http://www.example.org/warehousenames/The violet naive warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/54>
+    :hasWarehousename "http://www.example.org/warehousenames/The maroon cantankerous warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/55>
+    :hasWarehousename "http://www.example.org/warehousenames/The violet nuts warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/56>
+    :hasWarehousename "http://www.example.org/warehousenames/The aquamarine open-minded warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/58>
+    :hasWarehousename "http://www.example.org/warehousenames/The tan trustworthy warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/59>
+    :hasWarehousename "http://www.example.org/warehousenames/The green loyal warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/6>
+    :hasWarehousename "http://www.example.org/warehousenames/The red mean warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/61>
+    :hasWarehousename "http://www.example.org/warehousenames/The red talkative warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/64>
+    :hasWarehousename "http://www.example.org/warehousenames/The black very cruel warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/67>
+    :hasWarehousename "http://www.example.org/warehousenames/The maroon ambitious warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/68>
+    :hasWarehousename "http://www.example.org/warehousenames/The tan bitchy warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/69>
+    :hasWarehousename "http://www.example.org/warehousenames/The gray sensible warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/7>
+    :hasWarehousename "http://www.example.org/warehousenames/The olive conservative warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/71>
+    :hasWarehousename "http://www.example.org/warehousenames/The brown shy - introverted warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/73>
+    :hasWarehousename "http://www.example.org/warehousenames/The tan quarrelsome warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/74>
+    :hasWarehousename "http://www.example.org/warehousenames/The gray lazy warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/76>
+    :hasWarehousename "http://www.example.org/warehousenames/The navy lazy warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/77>
+    :hasWarehousename "http://www.example.org/warehousenames/The purple lazy warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/81>
+    :hasWarehousename "http://www.example.org/warehousenames/The black modest warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/82>
+    :hasWarehousename "http://www.example.org/warehousenames/The pink carefree warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/83>
+    :hasWarehousename "http://www.example.org/warehousenames/The indigo proud warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/84>
+    :hasWarehousename "http://www.example.org/warehousenames/The brown kind warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/85>
+    :hasWarehousename "http://www.example.org/warehousenames/The green conservative warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/86>
+    :hasWarehousename "http://www.example.org/warehousenames/The purple quarrelsome warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/87>
+    :hasWarehousename "http://www.example.org/warehousenames/The teal ambitious warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/89>
+    :hasWarehousename "http://www.example.org/warehousenames/The gray modest warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/9>
+    :hasWarehousename "http://www.example.org/warehousenames/The navy cantankerous warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/90>
+    :hasWarehousename "http://www.example.org/warehousenames/The maroon reliable warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/91>
+    :hasWarehousename "http://www.example.org/warehousenames/The purple brave warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/92>
+    :hasWarehousename "http://www.example.org/warehousenames/The navy talkative warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/93>
+    :hasWarehousename "http://www.example.org/warehousenames/The green conservative warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/94>
+    :hasWarehousename "http://www.example.org/warehousenames/The aquamarine friendly warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/96>
+    :hasWarehousename "http://www.example.org/warehousenames/The green open-minded warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/97>
+    :hasWarehousename "http://www.example.org/warehousenames/The brown polite warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/warehouses/98>
+    :hasWarehousename "http://www.example.org/warehousenames/The yellow brave warehouse" ;
+    a :warehouse .
+
+<http://www.example.org/workers/1001201187>
+    :hasFirstname :Christopher ;
+    :hasLastname :Washington ;
+    :hasNickname <http://www.example.org/\u0020Piano\u0020Red> ;
+    :inWarehouse <http://www.example.org/warehouses/15> ;
+    a :person .
+
+<http://www.example.org/workers/1001221180>
+    :hasFirstname :Nicholas ;
+    :hasLastname :Gamble ;
+    :hasNickname <http://www.example.org/\u0020Blind\u0020Joe\u0020Reynolds> ;
+    :inWarehouse <http://www.example.org/warehouses/91> ;
+    a :person .
+
+<http://www.example.org/workers/1004121294>
+    :hasFirstname :Carolyn ;
+    :hasLastname :Garner ;
+    :hasNickname <http://www.example.org/\u0020Cow\u0020Cow\u0020Davenport> ;
+    :inWarehouse <http://www.example.org/warehouses/58> ;
+    a :person .
+
+<http://www.example.org/workers/1016111279>
+    :hasFirstname :William ;
+    :hasLastname :Barnes ;
+    :hasNickname <http://www.example.org/\u0020Hound\u0020Dog\u0020Taylor> ;
+    :inWarehouse <http://www.example.org/warehouses/2> ;
+    a :person .
+
+<http://www.example.org/workers/1021191092>
+    :hasFirstname :Kelly ;
+    :hasLastname :Villarreal ;
+    :hasNickname <http://www.example.org/\u0020Blind\u0020Mississippi\u0020Morris> ;
+    :inWarehouse <http://www.example.org/warehouses/74> ;
+    a :person .
+
+<http://www.example.org/workers/1024101193>
+    :hasFirstname :Roger ;
+    :hasLastname :Everett ;
+    :hasNickname <http://www.example.org/\u0020Lead\u0020Belly> ;
+    :inWarehouse <http://www.example.org/warehouses/52> ;
+    a :person .
+
+<http://www.example.org/workers/1024191282>
+    :hasFirstname :Katherine ;
+    :hasLastname :Galloway ;
+    :hasNickname <http://www.example.org/\u0020Catfish\u0020Keith> ;
+    :inWarehouse <http://www.example.org/warehouses/71> ;
+    a :person .
+
+<http://www.example.org/workers/1025131095>
+    :hasFirstname :Raymond ;
+    :hasLastname :Richardson ;
+    :hasNickname <http://www.example.org/\u0020Pink\u0020Anderson> ;
+    :inWarehouse <http://www.example.org/warehouses/90> ;
+    a :person .
+
+<http://www.example.org/workers/1040231083>
+    :hasFirstname :Larry ;
+    :hasLastname :Pratt ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Brother\u0020Montgomery> ;
+    :inWarehouse <http://www.example.org/warehouses/94> ;
+    a :person .
+
+<http://www.example.org/workers/1049231272>
+    :hasFirstname :Alexis ;
+    :hasLastname :Mcdowell ;
+    :hasNickname <http://www.example.org/\u0020Junior\u0020Wells> ;
+    :inWarehouse <http://www.example.org/warehouses/30> ;
+    a :person .
+
+<http://www.example.org/workers/1056141294>
+    :hasFirstname :Theresa ;
+    :hasLastname :Grimes ;
+    :hasNickname <http://www.example.org/\u0020Big\u0020Maceo\u0020Merriweather> ;
+    :inWarehouse <http://www.example.org/warehouses/71> ;
+    a :person .
+
+<http://www.example.org/workers/1064171179>
+    :hasFirstname :Heather ;
+    :hasLastname :Calderon ;
+    :hasNickname <http://www.example.org/\u0020Bull\u0020City\u0020Red> ;
+    :inWarehouse <http://www.example.org/warehouses/33> ;
+    a :person .
+
+<http://www.example.org/workers/1082161085>
+    :hasFirstname :Benjamin ;
+    :hasLastname :Burt ;
+    :hasNickname <http://www.example.org/\u0020Brownie\u0020McGhee> ;
+    :inWarehouse <http://www.example.org/warehouses/96> ;
+    a :person .
+
+<http://www.example.org/workers/1119121186>
+    :hasFirstname :Elizabeth ;
+    :hasLastname :Ortiz ;
+    :hasNickname <http://www.example.org/\u0020\u0022Otis\u0020\u0022\u0022Big\u0020Smokey\u0022\u0022\u0020Smothers\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/18> ;
+    a :person .
+
+<http://www.example.org/workers/1127131284>
+    :hasFirstname :Willie ;
+    :hasLastname :Alvarez ;
+    :hasNickname <http://www.example.org/\u0020Seasick\u0020Steve> ;
+    :inWarehouse <http://www.example.org/warehouses/96> ;
+    a :person .
+
+<http://www.example.org/workers/1135141187>
+    :hasFirstname :Roger ;
+    :hasLastname :Faulkner ;
+    :hasNickname <http://www.example.org/\u0020Big\u0020Bill\u0020Broonzy> ;
+    :inWarehouse <http://www.example.org/warehouses/42> ;
+    a :person .
+
+<http://www.example.org/workers/1144121077>
+    :hasFirstname :Deborah ;
+    :hasLastname :Charles ;
+    :hasNickname <http://www.example.org/\u0020Buddy\u0020Guy> ;
+    :inWarehouse <http://www.example.org/warehouses/47> ;
+    a :person .
+
+<http://www.example.org/workers/1148161196>
+    :hasFirstname :Joshua ;
+    :hasLastname :Dixon ;
+    :hasNickname <http://www.example.org/\u0020Big\u0020Joe\u0020Turner> ;
+    :inWarehouse <http://www.example.org/warehouses/92> ;
+    a :person .
+
+<http://www.example.org/workers/1151151289>
+    :hasFirstname :Julia ;
+    :hasLastname :Cannon ;
+    :hasNickname <http://www.example.org/\u0020Blind\u0020Willie\u0020McTell> ;
+    :inWarehouse <http://www.example.org/warehouses/89> ;
+    a :person .
+
+<http://www.example.org/workers/1152221099>
+    :hasFirstname :Richard ;
+    :hasLastname :Neal ;
+    :hasNickname <http://www.example.org/\u0020Buster\u0020Pickens> ;
+    :inWarehouse <http://www.example.org/warehouses/67> ;
+    a :person .
+
+<http://www.example.org/workers/1153221292>
+    :hasFirstname :Danielle ;
+    :hasLastname :Herring ;
+    :hasNickname <http://www.example.org/\u0020\u0022Clarence\u0020\u0022\u0022Gatemouth\u0022\u0022\u0020Brown\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/64> ;
+    a :person .
+
+<http://www.example.org/workers/1163161298>
+    :hasFirstname :Lisa ;
+    :hasLastname :Wilcox ;
+    :hasNickname <http://www.example.org/\u0020Big\u0020Walter\u0020Horton> ;
+    :inWarehouse <http://www.example.org/warehouses/31> ;
+    a :person .
+
+<http://www.example.org/workers/1164211175>
+    :hasFirstname :Arthur ;
+    :hasLastname :Langley ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Mack\u0020Simmons> ;
+    :inWarehouse <http://www.example.org/warehouses/82> ;
+    a :person .
+
+<http://www.example.org/workers/1165181084>
+    :hasFirstname :Virginia ;
+    :hasLastname :Shepard ;
+    :hasNickname <http://www.example.org/\u0020Sugar\u0020Ray\u0020Norcia> ;
+    :inWarehouse <http://www.example.org/warehouses/61> ;
+    a :person .
+
+<http://www.example.org/workers/1177181287>
+    :hasFirstname :Cynthia ;
+    :hasLastname :Lara ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Hatch> ;
+    :inWarehouse <http://www.example.org/warehouses/12> ;
+    a :person .
+
+<http://www.example.org/workers/1183191190>
+    :hasFirstname :Justin ;
+    :hasLastname :Chase ;
+    :hasNickname <http://www.example.org/\u0020Gary\u0020B.B.\u0020Coleman> ;
+    :inWarehouse <http://www.example.org/warehouses/97> ;
+    a :person .
+
+<http://www.example.org/workers/1189141198>
+    :hasFirstname :Jerry ;
+    :hasLastname :Barrera ;
+    :hasNickname <http://www.example.org/\u0020Barkin\u0020Bill\u0020Smith> ;
+    :inWarehouse <http://www.example.org/warehouses/48> ;
+    a :person .
+
+<http://www.example.org/workers/1200261181>
+    :hasFirstname :Judy ;
+    :hasLastname :Dixon ;
+    :hasNickname <http://www.example.org/\u0020Mr.\u0020Blues> ;
+    :inWarehouse <http://www.example.org/warehouses/35> ;
+    a :person .
+
+<http://www.example.org/workers/1212211286>
+    :hasFirstname :Tyler ;
+    :hasLastname :Richards ;
+    :hasNickname <http://www.example.org/\u0020\u0022Willie\u0020\u0022\u0022Big\u0020Eyes\u0022\u0022\u0020Smith\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/38> ;
+    a :person .
+
+<http://www.example.org/workers/1254121079>
+    :hasFirstname :Kathleen ;
+    :hasLastname :Petty ;
+    :hasNickname <http://www.example.org/\u0020T-Model\u0020Ford> ;
+    :inWarehouse <http://www.example.org/warehouses/69> ;
+    a :person .
+
+<http://www.example.org/workers/1268261191>
+    :hasFirstname :Ryan ;
+    :hasLastname :Davidson ;
+    :hasNickname <http://www.example.org/\u0020Lead\u0020Belly> ;
+    :inWarehouse <http://www.example.org/warehouses/25> ;
+    a :person .
+
+<http://www.example.org/workers/1289131299>
+    :hasFirstname :Johnny ;
+    :hasLastname :Garrison ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Brother\u0020Montgomery> ;
+    :inWarehouse <http://www.example.org/warehouses/2> ;
+    a :person .
+
+<http://www.example.org/workers/1289231084>
+    :hasFirstname :Karen ;
+    :hasLastname :Kemp ;
+    :hasNickname <http://www.example.org/\u0020Mamie\u0020Smith> ;
+    :inWarehouse <http://www.example.org/warehouses/24> ;
+    a :person .
+
+<http://www.example.org/workers/1320251271>
+    :hasFirstname :Sandra ;
+    :hasLastname :Boyle ;
+    :hasNickname <http://www.example.org/\u0020Tampa\u0020Red> ;
+    :inWarehouse <http://www.example.org/warehouses/9> ;
+    a :person .
+
+<http://www.example.org/workers/1324171081>
+    :hasFirstname :Debra ;
+    :hasLastname :Harrison ;
+    :hasNickname <http://www.example.org/\u0020\u0022Eddie\u0020\u0022\u0022Guitar\u0022\u0022\u0020Burns\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/44> ;
+    a :person .
+
+<http://www.example.org/workers/1336201089>
+    :hasFirstname :Mark ;
+    :hasLastname :Pace ;
+    :hasNickname <http://www.example.org/\u0020Backwards\u0020Sam\u0020Firk> ;
+    :inWarehouse <http://www.example.org/warehouses/32> ;
+    a :person .
+
+<http://www.example.org/workers/1339271270>
+    :hasFirstname :Deborah ;
+    :hasLastname :Blankenship ;
+    :hasNickname <http://www.example.org/\u0020Lovie\u0020Austin> ;
+    :inWarehouse <http://www.example.org/warehouses/74> ;
+    a :person .
+
+<http://www.example.org/workers/1340261091>
+    :hasFirstname :Christina ;
+    :hasLastname :Burton ;
+    :hasNickname <http://www.example.org/\u0020Washboard\u0020Willie> ;
+    :inWarehouse <http://www.example.org/warehouses/93> ;
+    a :person .
+
+<http://www.example.org/workers/1358151195>
+    :hasFirstname :Joyce ;
+    :hasLastname :Albert ;
+    :hasNickname <http://www.example.org/\u0020Buster\u0020Benton> ;
+    :inWarehouse <http://www.example.org/warehouses/4> ;
+    a :person .
+
+<http://www.example.org/workers/1359191195>
+    :hasFirstname :Michael ;
+    :hasLastname :Curtis ;
+    :hasNickname <http://www.example.org/\u0020Bo\u0020Diddley> ;
+    :inWarehouse <http://www.example.org/warehouses/83> ;
+    a :person .
+
+<http://www.example.org/workers/1375191292>
+    :hasFirstname :Hannah ;
+    :hasLastname :Wallace ;
+    :hasNickname <http://www.example.org/\u0020Drive\u0020Em\u0020Down> ;
+    :inWarehouse <http://www.example.org/warehouses/56> ;
+    a :person .
+
+<http://www.example.org/workers/1387271072>
+    :hasFirstname :Alexis ;
+    :hasLastname :Reyes ;
+    :hasNickname <http://www.example.org/\u0020Big\u0020Bill\u0020Broonzy> ;
+    :inWarehouse <http://www.example.org/warehouses/51> ;
+    a :person .
+
+<http://www.example.org/workers/1397221186>
+    :hasFirstname :Eugene ;
+    :hasLastname :Benjamin ;
+    :hasNickname <http://www.example.org/\u0020\u0022Dave\u0020\u0022\u0022Snaker\u0022\u0022\u0020Ray\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/68> ;
+    a :person .
+
+<http://www.example.org/workers/1402171297>
+    :hasFirstname :Scott ;
+    :hasLastname :Gilmore ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Brother\u0020Montgomery> ;
+    :inWarehouse <http://www.example.org/warehouses/32> ;
+    a :person .
+
+<http://www.example.org/workers/1403211074>
+    :hasFirstname :Alexis ;
+    :hasLastname :Pennington ;
+    :hasNickname <http://www.example.org/\u0020Ironing\u0020Board\u0020Sam> ;
+    :inWarehouse <http://www.example.org/warehouses/20> ;
+    a :person .
+
+<http://www.example.org/workers/1407261170>
+    :hasFirstname :Anthony ;
+    :hasLastname :Hart ;
+    :hasNickname <http://www.example.org/\u0020Sippie\u0020Wallace> ;
+    :inWarehouse <http://www.example.org/warehouses/85> ;
+    a :person .
+
+<http://www.example.org/workers/1413141280>
+    :hasFirstname :Jose ;
+    :hasLastname :Adams ;
+    :hasNickname <http://www.example.org/\u0020Blind\u0020Mississippi\u0020Morris> ;
+    :inWarehouse <http://www.example.org/warehouses/15> ;
+    a :person .
+
+<http://www.example.org/workers/1418231092>
+    :hasFirstname :William ;
+    :hasLastname :Marshall ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Mack\u0020Simmons> ;
+    :inWarehouse <http://www.example.org/warehouses/25> ;
+    a :person .
+
+<http://www.example.org/workers/1421201185>
+    :hasFirstname :Katherine ;
+    :hasLastname :Reid ;
+    :hasNickname <http://www.example.org/\u0020Jelly\u0020Roll\u0020Morton> ;
+    :inWarehouse <http://www.example.org/warehouses/73> ;
+    a :person .
+
+<http://www.example.org/workers/1423181194>
+    :hasFirstname :Margaret ;
+    :hasLastname :Watson ;
+    :hasNickname <http://www.example.org/\u0020\u0022Eddie\u0020\u0022\u0022Cleanhead\u0022\u0022\u0020Vinson\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/92> ;
+    a :person .
+
+<http://www.example.org/workers/1427171090>
+    :hasFirstname :Harry ;
+    :hasLastname :Gilbert ;
+    :hasNickname <http://www.example.org/\u0020Smokey\u0020Wilson> ;
+    :inWarehouse <http://www.example.org/warehouses/2> ;
+    a :person .
+
+<http://www.example.org/workers/1427271093>
+    :hasFirstname :Brittany ;
+    :hasLastname :Charles ;
+    :hasNickname <http://www.example.org/\u0020\u0022Dave\u0020\u0022\u0022Snaker\u0022\u0022\u0020Ray\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/27> ;
+    a :person .
+
+<http://www.example.org/workers/1438131094>
+    :hasFirstname :Virginia ;
+    :hasLastname :Marsh ;
+    :hasNickname <http://www.example.org/\u0020\u0022Huey\u0020\u0022\u0022Piano\u0022\u0022\u0020Smith\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/49> ;
+    a :person .
+
+<http://www.example.org/workers/1446151294>
+    :hasFirstname :Adam ;
+    :hasLastname :Summers ;
+    :hasNickname <http://www.example.org/\u0020Magic\u0020Slim> ;
+    :inWarehouse <http://www.example.org/warehouses/77> ;
+    a :person .
+
+<http://www.example.org/workers/1459131271>
+    :hasFirstname :Tyler ;
+    :hasLastname :Shannon ;
+    :hasNickname <http://www.example.org/\u0020Black\u0020Ace> ;
+    :inWarehouse <http://www.example.org/warehouses/74> ;
+    a :person .
+
+<http://www.example.org/workers/1461181094>
+    :hasFirstname :Gabriel ;
+    :hasLastname :Pruitt ;
+    :hasNickname <http://www.example.org/\u0020Cow\u0020Cow\u0020Davenport> ;
+    :inWarehouse <http://www.example.org/warehouses/12> ;
+    a :person .
+
+<http://www.example.org/workers/1466221179>
+    :hasFirstname :Brittany ;
+    :hasLastname :Bolton ;
+    :hasNickname <http://www.example.org/\u0020Lead\u0020Belly> ;
+    :inWarehouse <http://www.example.org/warehouses/76> ;
+    a :person .
+
+<http://www.example.org/workers/1485221295>
+    :hasFirstname :Jessica ;
+    :hasLastname :Buck ;
+    :hasNickname <http://www.example.org/\u0020Sunnyland\u0020Slim> ;
+    :inWarehouse <http://www.example.org/warehouses/23> ;
+    a :person .
+
+<http://www.example.org/workers/1489211095>
+    :hasFirstname :Kyle ;
+    :hasLastname :Cooper ;
+    :hasNickname <http://www.example.org/\u0020Sonny\u0020Terry> ;
+    :inWarehouse <http://www.example.org/warehouses/53> ;
+    a :person .
+
+<http://www.example.org/workers/1492271191>
+    :hasFirstname :Keith ;
+    :hasLastname :Wall ;
+    :hasNickname <http://www.example.org/\u0020Whistlin\u0020Alex\u0020Moore> ;
+    :inWarehouse <http://www.example.org/warehouses/69> ;
+    a :person .
+
+<http://www.example.org/workers/1502111074>
+    :hasFirstname :Frances ;
+    :hasLastname :Murray ;
+    :hasNickname <http://www.example.org/\u0020Pops\u0020Staples> ;
+    :inWarehouse <http://www.example.org/warehouses/87> ;
+    a :person .
+
+<http://www.example.org/workers/1506111189>
+    :hasFirstname :Debra ;
+    :hasLastname :Torres ;
+    :hasNickname <http://www.example.org/\u0020Lil\u0020Ed\u0020Williams> ;
+    :inWarehouse <http://www.example.org/warehouses/7> ;
+    a :person .
+
+<http://www.example.org/workers/1512191179>
+    :hasFirstname :Patricia ;
+    :hasLastname :Douglas ;
+    :hasNickname <http://www.example.org/\u0020Lil\u0020Ed\u0020Williams> ;
+    :inWarehouse <http://www.example.org/warehouses/54> ;
+    a :person .
+
+<http://www.example.org/workers/1537171171>
+    :hasFirstname :Shirley ;
+    :hasLastname :Holcomb ;
+    :hasNickname <http://www.example.org/\u0020Papa\u0020Charlie\u0020Jackson> ;
+    :inWarehouse <http://www.example.org/warehouses/31> ;
+    a :person .
+
+<http://www.example.org/workers/1538251287>
+    :hasFirstname :Michael ;
+    :hasLastname :Knapp ;
+    :hasNickname <http://www.example.org/\u0020\u0022Alger\u0020\u0022\u0022Texas\u0022\u0022\u0020Alexander\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/33> ;
+    a :person .
+
+<http://www.example.org/workers/1555241078>
+    :hasFirstname :Deborah ;
+    :hasLastname :Wagner ;
+    :hasNickname <http://www.example.org/\u0020\u0022Moses\u0020\u0022\u0022Whispering\u0022\u0022\u0020Smith\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/34> ;
+    a :person .
+
+<http://www.example.org/workers/1581211077>
+    :hasFirstname :Joan ;
+    :hasLastname :Woodward ;
+    :hasNickname <http://www.example.org/\u0020Bo\u0020Diddley> ;
+    :inWarehouse <http://www.example.org/warehouses/67> ;
+    a :person .
+
+<http://www.example.org/workers/1630101294>
+    :hasFirstname :Ann ;
+    :hasLastname :Santiago ;
+    :hasNickname <http://www.example.org/\u0020Bull\u0020City\u0020Red> ;
+    :inWarehouse <http://www.example.org/warehouses/28> ;
+    a :person .
+
+<http://www.example.org/workers/1630161073>
+    :hasFirstname :Ashley ;
+    :hasLastname :William ;
+    :hasNickname <http://www.example.org/\u0020Catfish\u0020Keith> ;
+    :inWarehouse <http://www.example.org/warehouses/83> ;
+    a :person .
+
+<http://www.example.org/workers/1643121179>
+    :hasFirstname :Harry ;
+    :hasLastname :Lara ;
+    :hasNickname <http://www.example.org/\u0020Drive\u0020Em\u0020Down> ;
+    :inWarehouse <http://www.example.org/warehouses/55> ;
+    a :person .
+
+<http://www.example.org/workers/1652181289>
+    :hasFirstname :Zachary ;
+    :hasLastname :Brock ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Milton> ;
+    :inWarehouse <http://www.example.org/warehouses/87> ;
+    a :person .
+
+<http://www.example.org/workers/1658221076>
+    :hasFirstname :Lawrence ;
+    :hasLastname :Welch ;
+    :hasNickname <http://www.example.org/\u0020Big\u0020Walter\u0020Horton> ;
+    :inWarehouse <http://www.example.org/warehouses/98> ;
+    a :person .
+
+<http://www.example.org/workers/1662271180>
+    :hasFirstname :Harry ;
+    :hasLastname :Pickett ;
+    :hasNickname <http://www.example.org/\u0020Sonny\u0020Boy\u0020Williamson\u0020II> ;
+    :inWarehouse <http://www.example.org/warehouses/94> ;
+    a :person .
+
+<http://www.example.org/workers/1665221182>
+    :hasFirstname :Amber ;
+    :hasLastname :Wilcox ;
+    :hasNickname <http://www.example.org/\u0020Blind\u0020Lemon\u0020Jefferson> ;
+    :inWarehouse <http://www.example.org/warehouses/61> ;
+    a :person .
+
+<http://www.example.org/workers/1671261278>
+    :hasFirstname :Catherine ;
+    :hasLastname :Hickman ;
+    :hasNickname <http://www.example.org/\u0020\u0022Clarence\u0020\u0022\u0022Gatemouth\u0022\u0022\u0020Brown\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/84> ;
+    a :person .
+
+<http://www.example.org/workers/1687271192>
+    :hasFirstname :Austin ;
+    :hasLastname :Frank ;
+    :hasNickname <http://www.example.org/\u0020\u0022Alger\u0020\u0022\u0022Texas\u0022\u0022\u0020Alexander\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/15> ;
+    a :person .
+
+<http://www.example.org/workers/1710171096>
+    :hasFirstname :Rose ;
+    :hasLastname :Mcneil ;
+    :hasNickname <http://www.example.org/\u0020Sonny\u0020Boy\u0020Williamson\u0020I> ;
+    :inWarehouse <http://www.example.org/warehouses/37> ;
+    a :person .
+
+<http://www.example.org/workers/1724181171>
+    :hasFirstname :Lawrence ;
+    :hasLastname :Gardner ;
+    :hasNickname <http://www.example.org/\u0020Washboard\u0020Sam> ;
+    :inWarehouse <http://www.example.org/warehouses/2> ;
+    a :person .
+
+<http://www.example.org/workers/1754261294>
+    :hasFirstname :Beverly ;
+    :hasLastname :Johnston ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Hatch> ;
+    :inWarehouse <http://www.example.org/warehouses/61> ;
+    a :person .
+
+<http://www.example.org/workers/1778191293>
+    :hasFirstname :Anthony ;
+    :hasLastname :Rosa ;
+    :hasNickname <http://www.example.org/\u0020Koko\u0020Taylor> ;
+    :inWarehouse <http://www.example.org/warehouses/74> ;
+    a :person .
+
+<http://www.example.org/workers/1784191084>
+    :hasFirstname :Jonathan ;
+    :hasLastname :Phillips ;
+    :hasNickname <http://www.example.org/\u0020Sippie\u0020Wallace> ;
+    :inWarehouse <http://www.example.org/warehouses/25> ;
+    a :person .
+
+<http://www.example.org/workers/1790181189>
+    :hasFirstname :Christine ;
+    :hasLastname :Ashley ;
+    :hasNickname <http://www.example.org/\u0020Lightnin\u0020Hopkins> ;
+    :inWarehouse <http://www.example.org/warehouses/13> ;
+    a :person .
+
+<http://www.example.org/workers/1819121287>
+    :hasFirstname :Alice ;
+    :hasLastname :Reid ;
+    :hasNickname <http://www.example.org/\u0020Blind\u0020Gary\u0020Davis> ;
+    :inWarehouse <http://www.example.org/warehouses/100> ;
+    a :person .
+
+<http://www.example.org/workers/1827251272>
+    :hasFirstname :Paul ;
+    :hasLastname :Brennan ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Willie\u0020Littlefield> ;
+    :inWarehouse <http://www.example.org/warehouses/17> ;
+    a :person .
+
+<http://www.example.org/workers/1829241278>
+    :hasFirstname :Anthony ;
+    :hasLastname :Harris ;
+    :hasNickname <http://www.example.org/\u0020Mississippi\u0020John\u0020Hurt> ;
+    :inWarehouse <http://www.example.org/warehouses/53> ;
+    a :person .
+
+<http://www.example.org/workers/1833141198>
+    :hasFirstname :Nicholas ;
+    :hasLastname :Graves ;
+    :hasNickname <http://www.example.org/\u0020Hip\u0020Linkchain> ;
+    :inWarehouse <http://www.example.org/warehouses/48> ;
+    a :person .
+
+<http://www.example.org/workers/1851221099>
+    :hasFirstname :Emma ;
+    :hasLastname :Lang ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Hatch> ;
+    :inWarehouse <http://www.example.org/warehouses/81> ;
+    a :person .
+
+<http://www.example.org/workers/1855191070>
+    :hasFirstname :Daniel ;
+    :hasLastname :Juarez ;
+    :hasNickname <http://www.example.org/\u0020Smoky\u0020Babe> ;
+    :inWarehouse <http://www.example.org/warehouses/100> ;
+    a :person .
+
+<http://www.example.org/workers/1862271187>
+    :hasFirstname :William ;
+    :hasLastname :Eaton ;
+    :hasNickname <http://www.example.org/\u0020Bumble\u0020Bee\u0020Slim> ;
+    :inWarehouse <http://www.example.org/warehouses/40> ;
+    a :person .
+
+<http://www.example.org/workers/1877141182>
+    :hasFirstname :Lawrence ;
+    :hasLastname :Bryant ;
+    :hasNickname <http://www.example.org/\u0020Cow\u0020Cow\u0020Davenport> ;
+    :inWarehouse <http://www.example.org/warehouses/61> ;
+    a :person .
+
+<http://www.example.org/workers/1878231091>
+    :hasFirstname :David ;
+    :hasLastname :Hamilton ;
+    :hasNickname <http://www.example.org/\u0020Shakey\u0020Jake\u0020Harris> ;
+    :inWarehouse <http://www.example.org/warehouses/10> ;
+    a :person .
+
+<http://www.example.org/workers/1892201074>
+    :hasFirstname :Megan ;
+    :hasLastname :Thompson ;
+    :hasNickname <http://www.example.org/\u0020Sippie\u0020Wallace> ;
+    :inWarehouse <http://www.example.org/warehouses/92> ;
+    a :person .
+
+<http://www.example.org/workers/1896101093>
+    :hasFirstname :Jonathan ;
+    :hasLastname :Sutton ;
+    :hasNickname <http://www.example.org/\u0020Pinetop\u0020Smith> ;
+    :inWarehouse <http://www.example.org/warehouses/94> ;
+    a :person .
+
+<http://www.example.org/workers/1897101273>
+    :hasFirstname :Steven ;
+    :hasLastname :Gilbert ;
+    :hasNickname <http://www.example.org/\u0020\u0022Eddie\u0020\u0022\u0022Cleanhead\u0022\u0022\u0020Vinson\u0022> ;
+    :inWarehouse <http://www.example.org/warehouses/59> ;
+    a :person .
+
+<http://www.example.org/workers/1918181296>
+    :hasFirstname :Randy ;
+    :hasLastname :Beasley ;
+    :hasNickname <http://www.example.org/\u0020Peg\u0020Leg\u0020Howell> ;
+    :inWarehouse <http://www.example.org/warehouses/10> ;
+    a :person .
+
+<http://www.example.org/workers/1936151070>
+    :hasFirstname :Zachary ;
+    :hasLastname :Hayden ;
+    :hasNickname <http://www.example.org/\u0020Georgia\u0020Tom> ;
+    :inWarehouse <http://www.example.org/warehouses/86> ;
+    a :person .
+
+<http://www.example.org/workers/1939141280>
+    :hasFirstname :Ralph ;
+    :hasLastname :Clark ;
+    :hasNickname <http://www.example.org/\u0020Big\u0020Walter\u0020Horton> ;
+    :inWarehouse <http://www.example.org/warehouses/9> ;
+    a :person .
+
+<http://www.example.org/workers/1944261072>
+    :hasFirstname :Deborah ;
+    :hasLastname :Cohen ;
+    :hasNickname <http://www.example.org/\u0020Little\u0020Milton> ;
+    :inWarehouse <http://www.example.org/warehouses/33> ;
+    a :person .
+
+<http://www.example.org/workers/1951221290>
+    :hasFirstname :Kayla ;
+    :hasLastname :Franklin ;
+    :hasNickname <http://www.example.org/\u0020Sleepy\u0020John\u0020Estes> ;
+    :inWarehouse <http://www.example.org/warehouses/6> ;
+    a :person .
+
+<http://www.example.org/workers/1962101191>
+    :hasFirstname :Lauren ;
+    :hasLastname :Farley ;
+    :hasNickname <http://www.example.org/\u0020Mamie\u0020Smith> ;
+    :inWarehouse <http://www.example.org/warehouses/81> ;
+    a :person .
+

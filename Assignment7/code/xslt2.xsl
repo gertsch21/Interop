@@ -7,7 +7,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	
 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.example.org/">
 		
-		<xsl:for-each select="//warehouse_zugeordnet">
+		<xsl:for-each select="//warehouse">
 			<rdf:Description>
 				<xsl:attribute name="rdf:about">
 					<xsl:value-of select="concat('http://www.example.org/warehouses/', @warehouse_id)" />
@@ -16,8 +16,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 				<hasWarehousename>
 					<xsl:value-of select="concat('http://www.example.org/warehousenames/', warehousename)" />
 				</hasWarehousename>
-				
-				
+				<hasGLA>
+					<xsl:value-of select="gla" />
+				</hasGLA>
 				
 			</rdf:Description>			
 		</xsl:for-each>
@@ -39,35 +40,40 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 		</xsl:for-each>
 		
 		
-		<xsl:for-each select="//worker">
+		<xsl:for-each select="//plan">
 			<rdf:Description>
 				<xsl:attribute name="rdf:about">
-					<xsl:value-of select="concat('http://www.example.org/workers/', @svnr)" />
+					<xsl:value-of select="concat('http://www.example.org/plans/', @plan_id)" />
 				</xsl:attribute>
 				
-				<rdf:type rdf:resource="http://www.example.org/person"/>
+				<rdf:type rdf:resource="http://www.example.org/plan"/>
 				
-				<inWarehouse>
+				<fromPrinter>
 					<xsl:attribute name="rdf:resource">
-						<xsl:value-of select="concat('http://www.example.org/warehouses/', warehouse_zugeordnet/@warehouse_id)" />
+						<xsl:value-of select="concat('http://www.example.org/printer/', ../../@printer_id)" />
 					</xsl:attribute>
-				</inWarehouse>
+				</fromPrinter>
+				<status>
+					<xsl:attribute name="rdf:resource">
+						<xsl:value-of select="concat('http://www.example.org/status/', @status)" />
+					</xsl:attribute>
+				</status>
+				<priority>
+					<xsl:attribute name="rdf:resource">
+						<xsl:value-of select="concat('http://www.example.org/priority/', @priority)" />
+					</xsl:attribute>
+				</priority>
 				
-				<hasFirstname>
+				<hasEndproductname>
 					<xsl:attribute name="rdf:resource">
-						<xsl:value-of select="concat('http://www.example.org/firstnames/', firstname)" />
+						<xsl:value-of select="concat('http://www.example.org/endproducts/', ./endproduct_name)" />
 					</xsl:attribute>
-				</hasFirstname>
-				<hasLastname>
+				</hasEndproductname>
+				<hasInstruction>
 					<xsl:attribute name="rdf:resource">
-						<xsl:value-of select="concat('http://www.example.org/lastnames/', lastname)" />
+						<xsl:value-of select="basic_instruction" />
 					</xsl:attribute>
-				</hasLastname>
-				<hasNickname>
-					<xsl:attribute name="rdf:resource">
-						<xsl:value-of select="concat('http://www.example.org/nicknames/', nickname)" />
-					</xsl:attribute>
-				</hasNickname>
+				</hasInstruction>
 				
 			</rdf:Description>
 			

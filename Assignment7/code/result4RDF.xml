@@ -1,0 +1,2067 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.example.org/">
+ <rdf:Description rdf:about="http://www.example.org/workers/1001201187">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Christopher" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Washington" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Piano Red" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1001221180">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Nicholas" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Gamble" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Blind Joe Reynolds" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1004121294">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Carolyn" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Garner" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Cow Cow Davenport" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1016111279">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/William" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Barnes" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Hound Dog Taylor" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1021191092">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Kelly" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Villarreal" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Blind Mississippi Morris" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1024101193">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Roger" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Everett" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Lead Belly" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1024191282">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Katherine" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Galloway" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Catfish Keith" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1025131095">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Raymond" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Richardson" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Pink Anderson" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1040231083">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Larry" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Pratt" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Brother Montgomery" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1049231272">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Alexis" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Mcdowell" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Junior Wells" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1056141294">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Theresa" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Grimes" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Big Maceo Merriweather" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1064171179">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Heather" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Calderon" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Bull City Red" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1082161085">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Benjamin" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Burt" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Brownie McGhee" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1119121186">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Elizabeth" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Ortiz" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Otis &quot;&quot;Big Smokey&quot;&quot; Smothers&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1127131284">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Willie" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Alvarez" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Seasick Steve" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1135141187">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Roger" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Faulkner" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Big Bill Broonzy" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1144121077">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Deborah" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Charles" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Buddy Guy" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1148161196">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Joshua" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Dixon" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Big Joe Turner" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1151151289">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Julia" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Cannon" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Blind Willie McTell" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1152221099">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Richard" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Neal" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Buster Pickens" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1153221292">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Danielle" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Herring" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Clarence &quot;&quot;Gatemouth&quot;&quot; Brown&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1163161298">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Lisa" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Wilcox" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Big Walter Horton" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1164211175">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Arthur" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Langley" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Mack Simmons" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1165181084">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Virginia" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Shepard" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Sugar Ray Norcia" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1177181287">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Cynthia" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Lara" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Hatch" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1183191190">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Justin" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Chase" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Gary B.B. Coleman" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1189141198">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Jerry" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Barrera" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Barkin Bill Smith" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1200261181">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Judy" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Dixon" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Mr. Blues" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1212211286">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Tyler" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Richards" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Willie &quot;&quot;Big Eyes&quot;&quot; Smith&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1254121079">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Kathleen" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Petty" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ T-Model Ford" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1268261191">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Ryan" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Davidson" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Lead Belly" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1289131299">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Johnny" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Garrison" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Brother Montgomery" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1289231084">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Karen" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Kemp" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Mamie Smith" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1320251271">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Sandra" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Boyle" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Tampa Red" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1324171081">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Debra" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Harrison" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Eddie &quot;&quot;Guitar&quot;&quot; Burns&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1336201089">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Mark" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Pace" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Backwards Sam Firk" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1339271270">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Deborah" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Blankenship" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Lovie Austin" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1340261091">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Christina" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Burton" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Washboard Willie" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1358151195">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Joyce" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Albert" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Buster Benton" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1359191195">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Michael" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Curtis" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Bo Diddley" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1375191292">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Hannah" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Wallace" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Drive Em Down" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1387271072">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Alexis" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Reyes" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Big Bill Broonzy" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1397221186">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Eugene" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Benjamin" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Dave &quot;&quot;Snaker&quot;&quot; Ray&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1402171297">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Scott" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Gilmore" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Brother Montgomery" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1403211074">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Alexis" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Pennington" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Ironing Board Sam" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1407261170">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Anthony" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Hart" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Sippie Wallace" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1413141280">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Jose" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Adams" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Blind Mississippi Morris" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1418231092">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/William" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Marshall" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Mack Simmons" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1421201185">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Katherine" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Reid" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Jelly Roll Morton" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1423181194">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Margaret" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Watson" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Eddie &quot;&quot;Cleanhead&quot;&quot; Vinson&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1427171090">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Harry" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Gilbert" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Smokey Wilson" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1427271093">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Brittany" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Charles" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Dave &quot;&quot;Snaker&quot;&quot; Ray&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1438131094">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Virginia" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Marsh" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Huey &quot;&quot;Piano&quot;&quot; Smith&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1446151294">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Adam" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Summers" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Magic Slim" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1459131271">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Tyler" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Shannon" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Black Ace" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1461181094">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Gabriel" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Pruitt" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Cow Cow Davenport" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1466221179">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Brittany" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Bolton" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Lead Belly" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1485221295">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Jessica" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Buck" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Sunnyland Slim" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1489211095">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Kyle" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Cooper" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Sonny Terry" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1492271191">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Keith" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Wall" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Whistlin Alex Moore" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1502111074">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Frances" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Murray" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Pops Staples" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1506111189">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Debra" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Torres" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Lil Ed Williams" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1512191179">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Patricia" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Douglas" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Lil Ed Williams" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1537171171">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Shirley" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Holcomb" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Papa Charlie Jackson" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1538251287">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Michael" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Knapp" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Alger &quot;&quot;Texas&quot;&quot; Alexander&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1555241078">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Deborah" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Wagner" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Moses &quot;&quot;Whispering&quot;&quot; Smith&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1581211077">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Joan" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Woodward" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Bo Diddley" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1630101294">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Ann" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Santiago" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Bull City Red" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1630161073">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Ashley" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/William" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Catfish Keith" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1643121179">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Harry" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Lara" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Drive Em Down" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1652181289">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Zachary" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Brock" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Milton" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1658221076">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Lawrence" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Welch" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Big Walter Horton" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1662271180">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Harry" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Pickett" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Sonny Boy Williamson II" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1665221182">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Amber" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Wilcox" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Blind Lemon Jefferson" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1671261278">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Catherine" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Hickman" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Clarence &quot;&quot;Gatemouth&quot;&quot; Brown&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1687271192">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Austin" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Frank" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Alger &quot;&quot;Texas&quot;&quot; Alexander&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1710171096">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Rose" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Mcneil" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Sonny Boy Williamson I" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1724181171">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Lawrence" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Gardner" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Washboard Sam" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1754261294">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Beverly" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Johnston" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Hatch" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1778191293">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Anthony" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Rosa" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Koko Taylor" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1784191084">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Jonathan" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Phillips" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Sippie Wallace" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1790181189">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Christine" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Ashley" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Lightnin Hopkins" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1819121287">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Alice" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Reid" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Blind Gary Davis" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1827251272">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Paul" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Brennan" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Willie Littlefield" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1829241278">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Anthony" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Harris" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Mississippi John Hurt" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1833141198">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Nicholas" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Graves" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Hip Linkchain" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1851221099">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Emma" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Lang" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Hatch" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1855191070">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Daniel" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Juarez" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Smoky Babe" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1862271187">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/William" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Eaton" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Bumble Bee Slim" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1877141182">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Lawrence" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Bryant" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Cow Cow Davenport" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1878231091">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/David" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Hamilton" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Shakey Jake Harris" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1892201074">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Megan" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Thompson" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Sippie Wallace" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1896101093">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Jonathan" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Sutton" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Pinetop Smith" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1897101273">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Steven" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Gilbert" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ &quot;Eddie &quot;&quot;Cleanhead&quot;&quot; Vinson&quot;" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1918181296">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Randy" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Beasley" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Peg Leg Howell" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1936151070">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Zachary" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Hayden" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Georgia Tom" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1939141280">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Ralph" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Clark" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Big Walter Horton" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1944261072">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Deborah" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Cohen" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Little Milton" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1951221290">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Kayla" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Franklin" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Sleepy John Estes" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/workers/1962101191">
+  <rdf:type rdf:resource="http://www.example.org/worker" />
+  <hasFirstname rdf:resource="http://www.example.org/firstnames/Lauren" />
+  <hasLastname rdf:resource="http://www.example.org/lastnames/Farley" />
+  <hasNickname rdf:resource="http://www.example.org/nicknames/ Mamie Smith" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/637">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/silver Wallet</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-06-01</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/885">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/orange CD Elton John</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Kohls</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-07-17</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/250">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/blue Keyboard</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Sears</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-05-25</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/162">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/yellow Latex Book</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Kohls</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-07-17</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/959">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/teal Box</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Kohls</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-07-11</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/399">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/gray Printer</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Costco</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-05-09</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/931">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/blue Chips</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Amazon</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-05-19</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/936">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/silver Printer</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Ebay</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-07-09</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/85">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/olive Box</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Amazon</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-07-17</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/982">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/lime Bag</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-06-13</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/554">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/aquamarine Filament</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Amazon</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-06-17</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/19">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/orange Wallet</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Walmart</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-05-14</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/915">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/black Hoover</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-05-17</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/284">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/red Smartphone</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-07-12</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/394">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/maroon Smartphone</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Conrad</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-07-11</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/623">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/aquamarine Cable</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Aliexpress</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-07-19</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/756">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/maroon Ultrasonic Sensors for Mbot</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Sears</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-05-11</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/449">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/black Lamp</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Wish</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-06-22</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/403">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/gray Webcam</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Aliexpress</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-06-02</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/551">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/yellow Smartphone</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Costco</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-06-09</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/288">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/silver Lamp</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Costco</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-05-02</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/221">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/green Cable</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Wish</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-05-17</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/657">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/black Chips</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Costco</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-05-15</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/977">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/teal Hoover</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Amazon</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-05-06</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/539">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/black Cable</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-06-03</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/319">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/brown Latex Book</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-06-23</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/40">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/navy Wallet</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Ebay</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-07-06</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/231">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/blue Bag</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Sears</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-07-16</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/649">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/pink Ultrasonic Sensors for Mbot</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Amazon</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-07-07</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/441">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/maroon Toast</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-06-22</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/541">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/blue Toaster</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-05-18</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/723">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/aquamarine CD Elton John</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>Call me maybe.</hasAdditionalInfo>
+  <hasDueDate>2019-06-06</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/817">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/red Dog</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Aliexpress</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-07-01</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/73">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/gray Cable</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Costco</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-05-21</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/452">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/silver Chips</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Walmart</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-07-05</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/731">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/purple Printer</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Costco</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-06-18</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/448">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/green Lamp</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Walmart</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-07-15</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/923">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/silver Cable</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Conrad</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-07-04</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/289">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/turquoise Box</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Wish</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-05-26</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/160">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/tan Smartphone</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Wish</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-06-09</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/998">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/magenta Toaster</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Walmart</hasSellerSuggestion>
+  <hasAdditionalInfo>Call me maybe.</hasAdditionalInfo>
+  <hasDueDate>2019-07-17</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/12">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/red Webcam</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-06-02</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/807">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/black Monitor</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Costco</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-06-02</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/628">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/gray Lamp</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Amazon</hasSellerSuggestion>
+  <hasAdditionalInfo>Call me maybe.</hasAdditionalInfo>
+  <hasDueDate>2019-06-25</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/22">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/indigo Box</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Walmart</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-07-07</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/391">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/green Webcam</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Ebay</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-06-26</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/30">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/indigo Toast</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Aliexpress</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-07-02</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/105">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/aquamarine Wallet</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Wish</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-05-14</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/561">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/violet Helmet</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Aliexpress</hasSellerSuggestion>
+  <hasAdditionalInfo>Call me maybe.</hasAdditionalInfo>
+  <hasDueDate>2019-05-06</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/754">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/white Toaster</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Ebay</hasSellerSuggestion>
+  <hasAdditionalInfo>Call me maybe.</hasAdditionalInfo>
+  <hasDueDate>2019-05-12</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/857">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/red Spoon</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Walmart</hasSellerSuggestion>
+  <hasAdditionalInfo>Call me maybe.</hasAdditionalInfo>
+  <hasDueDate>2019-07-22</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/376">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/lime Bag</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Costco</hasSellerSuggestion>
+  <hasAdditionalInfo>Call me maybe.</hasAdditionalInfo>
+  <hasDueDate>2019-07-16</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/386">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/red Filament</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Sears</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-05-11</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/839">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/turquoise Lamp</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Walmart</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-07-09</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/102">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/orange Keyboard</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Ebay</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-06-11</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/922">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/blue Latex Book</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Amazon</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-06-15</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/129">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/navy Monitor</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Kohls</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-07-04</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/433">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/navy Printer</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Aliexpress</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-06-02</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/674">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/cyan Ultrasonic Sensors for Mbot</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Wish</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-07-26</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/988">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/maroon Latex Book</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Conrad</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-06-26</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/621">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/aquamarine Lamp</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Conrad</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-07-10</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/892">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/blue Cable</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Kohls</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-06-25</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/98">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/lime CD Elton John</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Kohls</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-05-16</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/510">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/teal Filament</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Conrad</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-05-15</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/411">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/green Latex Book</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Wish</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-06-09</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/562">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/white Computer</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Walmart</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-05-03</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/704">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/gray Monitor</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Kohls</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-06-16</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/611">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/turquoise Clock</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Wish</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-06-06</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/689">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/tan Toaster</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Walmart</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-05-11</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/520">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/green Keyboard</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Sears</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-06-08</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/969">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/turquoise Computer</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Sears</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-05-04</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/467">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/teal Box</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Ebay</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-07-07</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/859">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/navy Guitar</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Ebay</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-05-21</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/407">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/indigo Monitor</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Conrad</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-05-04</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/777">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/aquamarine Spoon</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Wish</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-06-06</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/766">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/black Toaster</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Ebay</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-06-18</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/427">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/gray USB Stick</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Aliexpress</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-05-22</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/983">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/blue Ultrasonic Sensors for Mbot</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Sears</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-05-07</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/513">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/turquoise Filament</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Walmart</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-07-25</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/975">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/olive Hoover</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Aliexpress</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-07-14</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/265">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/magenta Chips</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Amazon</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-07-15</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/81">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/cyan Ultrasonic Sensors for Mbot</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>Call me maybe.</hasAdditionalInfo>
+  <hasDueDate>2019-07-22</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/358">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/brown Latex Book</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Aliexpress</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-06-07</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/75">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/cyan Chips</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-05-13</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/387">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/pink CD Elton John</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Conrad</hasSellerSuggestion>
+  <hasAdditionalInfo>Whenever there is a problem... SOLVE IT!</hasAdditionalInfo>
+  <hasDueDate>2019-06-06</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/434">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/blue Smartphone</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Amazon</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-07-12</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/869">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/brown Bag</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Kohls</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-05-17</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/195">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/white Bag</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Wish</hasSellerSuggestion>
+  <hasAdditionalInfo>Business informatics rocks!</hasAdditionalInfo>
+  <hasDueDate>2019-06-14</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/727">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/magenta Spoon</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Etsy</hasSellerSuggestion>
+  <hasAdditionalInfo>It should be fancy.</hasAdditionalInfo>
+  <hasDueDate>2019-06-17</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/264">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/orange CD Elton John</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Amazon</hasSellerSuggestion>
+  <hasAdditionalInfo>We are the best! Never forget that.</hasAdditionalInfo>
+  <hasDueDate>2019-05-27</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/375">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/olive Latex Book</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Aliexpress</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-05-03</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/items/738">
+  <rdf:type rdf:resource="http://www.example.org/item" />
+  <is_finished>http://www.example.org/is_finished/false</is_finished>
+  <hasName>http://www.example.org/item_names/blue Helmet</hasName>
+  <hasSellerSuggestion>http://www.example.org/seller_suggestion/Kohls</hasSellerSuggestion>
+  <hasAdditionalInfo>Make it very nice.</hasAdditionalInfo>
+  <hasDueDate>2019-06-22</hasDueDate>
+  <hasListEntryDate>2019-03-27</hasListEntryDate>
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/196">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The red wine Monitor" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/709">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The tan ordinary Hoover" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/358">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The magenta few Ultrasonic Sensors for Mbot" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/393">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The purple economy Wallet" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/370">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The lime unique Lamp" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/289">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The teal clean Cable" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/489">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The blue nasty Spoon" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/291">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The olive east Lamp" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/512">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The brown amazing Hoover" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/517">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The silver actual Keyboard" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/902">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The cyan wise Clock" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/200">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The teal usual Smartphone" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/333">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The aquamarine sorry USB Stick" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/889">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The tan any Bag" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/404">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The maroon nasty USB Stick" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/855">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The violet feeling Smartphone" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/91">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The navy bitter Bag" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/170">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The yellow willing Hoover" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/192">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The olive public Computer" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/522">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The aquamarine dependent USB Stick" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/943">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The magenta tough Latex Book" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/147">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The purple mother Box" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/42">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The navy standard Guitar" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/301">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The olive suspicious Smartphone" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/818">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The silver main CD Elton John" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/824">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The orange best Cable" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/448">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The yellow practical Monitor" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/476">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The brown sweet Computer" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/785">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The cyan spiritual Smartphone" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/317">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The pink fresh Monitor" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/309">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The tan representative Hoover" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/939">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The turquoise enough Latex Book" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/311">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The orange strong Hoover" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/403">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The orange swimming Dog" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/484">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The lime certain Bag" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/547">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The gray narrow Monitor" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/768">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The turquoise enough Guitar" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/216">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The turquoise red Toaster" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/315">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The lime traditional Keyboard" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/191">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The gray financial USB Stick" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/250">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The cyan straight Wallet" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/183">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The pink male USB Stick" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/608">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The blue eastern Box" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/318">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The magenta all Clock" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/754">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The tan plus Bag" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/898">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The aquamarine lucky CD Elton John" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/103">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The magenta ordinary Clock" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/572">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The white standard Guitar" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/72">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The gray practical Toast" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/379">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The turquoise specialist Printer" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/874">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The silver consistent Guitar" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/479">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The violet flat Filament" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/656">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The tan administrative Wallet" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/998">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The silver remarkable Toaster" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/873">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The violet white Keyboard" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/618">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The magenta pregnant Printer" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/1000">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The maroon spare Keyboard" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/266">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The lime remarkable Clock" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/437">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The gray wrong Guitar" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/466">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The blue extreme Filament" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/105">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The gray sudden Hoover" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/249">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The silver no Box" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/314">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The purple both Computer" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/23">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The cyan corner Bag" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/440">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The maroon emotional Guitar" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/361">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The lime what Bag" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/808">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The navy material Webcam" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/16">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The lime pretty Printer" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/791">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The gray street Bag" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/803">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The turquoise sad Dog" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/139">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The red material USB Stick" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/564">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The violet open Smartphone" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/265">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The gray prize CD Elton John" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/574">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The teal present Filament" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/866">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The pink comprehensive Smartphone" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/397">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The magenta nasty Monitor" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/916">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The black anxious Ultrasonic Sensors for Mbot" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/957">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The violet gross Clock" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/446">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The pink expensive Cable" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/256">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The gray action Guitar" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/287">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The pink plane Latex Book" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/197">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The magenta conscious Guitar" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/863">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The orange massive Cable" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/18">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The violet much Hoover" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/132">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The pink basic USB Stick" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/47">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The tan weekly Ultrasonic Sensors for Mbot" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/410">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The magenta western Box" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/937">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The pink loose Ultrasonic Sensors for Mbot" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/292">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The olive ordinary Toaster" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/534">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The violet overall Dog" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/242">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The magenta easy Toaster" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/721">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The white yellow Computer" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/677">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The gray rich Guitar" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/635">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The black left Ultrasonic Sensors for Mbot" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/802">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The black federal Spoon" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/124">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/finished" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The magenta broad Webcam" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/310">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The black even Computer" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/75">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The aquamarine equivalent Chips" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/123">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/medium" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The black fit Monitor" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/529">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The cyan aggressive Filament" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/634">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/prepared" />
+  <priority rdf:resource="http://www.example.org/priority/high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The gray little Guitar" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/664">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The blue budget Dog" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/307">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/ready to prepare" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The purple gross Chips" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/401">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/cancelled" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The black strict Ultrasonic Sensors for Mbot" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/442">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/almost finished" />
+  <priority rdf:resource="http://www.example.org/priority/very high" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The purple complex Wallet" />
+ </rdf:Description>
+ <rdf:Description rdf:about="http://www.example.org/plans/493">
+  <rdf:type rdf:resource="http://www.example.org/plan" />
+  <status rdf:resource="http://www.example.org/status/working" />
+  <priority rdf:resource="http://www.example.org/priority/very low" />
+  <hasEndproductname rdf:resource="http://www.example.org/endproducts/The yellow sudden Guitar" />
+ </rdf:Description>
+</rdf:RDF>
