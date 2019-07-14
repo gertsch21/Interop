@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix a: <http://www.example.org/> .
+@prefix artist <http://www.example.org/artists/>
+
+   worker:1001201187 rdf:type a:worker .
+   artist:64 rdf:type a:artist .
+   
+   worker:1001201187 rdfs:label "Christopher Washington".
+   artist:64 rdfs:label "Jacqueline Parrish".
+   
+   worker:1001201187 rdfs:comment "this is a good worker".
+   artist:64 rdfs:comment "is often happy but not always".
+   
+   
+   
+   a:printer rdf:type a:thing.
+   a:plan rdf:type a:thing.
+   
+   a:hasPrintername rdfs:range xsd:string.
+   a:hasPrintername rdfs:domain xsd:printer.
+   a:hasStringProperty rdfs:range xsd:string.
+   a:hasStringProperty rdfs:domain a:thing.
+
+   a:person rdfs:subClassOf a:being 
+   a:worker rdfs:subClassOf a:person
+   a:artist rdfs:subClassOf a:person
+   
+   a:hasPrintername rdfs:subPropertyOf a:hasStringProperty
+   
+   
+   worker:3514131177 a:worksOnPlan _x.
+   _x a:hasArtist artist:64.
